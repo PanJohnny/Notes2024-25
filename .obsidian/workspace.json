@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -158,6 +158,7 @@
   "active": "a2d9a51c90b11fc0",
   "lastOpenFiles": [
     "README.md",
+    "conflict-files-obsidian-git.md",
     "Welcome.md",
     "create a link.md"
   ]

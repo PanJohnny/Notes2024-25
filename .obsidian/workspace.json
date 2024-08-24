@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca8cf426f533fd4",
+        "id": "deba8908918a36ed",
         "type": "tabs",
         "children": [
           {
-            "id": "24737c65a226211e",
+            "id": "c3b559c8281b1282",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -128,13 +128,28 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "93a82acf6a535435",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "99d760ab29e1c542",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,9 +159,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24737c65a226211e",
-  "lastOpenFiles": []
+  "active": "c3b559c8281b1282",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-24 18.30.01.excalidraw.md",
+    "README.md",
+    "Excalidraw"
+  ]
 }

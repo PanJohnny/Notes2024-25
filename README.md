@@ -18,3 +18,12 @@ git config --global user.email "email"
 7. Potom už jenom otevři obsidian a v něm tu složku
 8. Povol obsidianu trust a pluginy a pak ho zavři
 9. Znovu otevři obsidian a vše by mělo fungovat
+
+## Excalidraw
+Nová možnost pro silný kreslicí nástroj přímo v Obsidianu. Myslím, že tím můžeš udělat v některých případech mnohem lepší poznámky, třeba Fyzika a tak. Ty matematický formule jsou dost peklo, tak se dají kreslit a dávat vedle sebe. Můžeme potom pořád mít markdowny s linkama na ty obrázky, ať to dává organizačně smysl.
+
+Pro embedování Command pallet: embed excalidraw drawing nebo prostě `![[Drawing 2024-08-24 18.30.01.excalidraw]]]` jako u obrázku
+![[Drawing 2024-08-24 18.30.01.excalidraw]]
+$$
+\begin{bmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{bmatrix}\
+$$

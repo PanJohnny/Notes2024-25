@@ -1,7 +1,8 @@
 # Poznámky pro rok 2024/25
 Toto je repo obsahující poznámky ze školního roku 2024/25.
 
-**Pozor:** není moudré editovat stejný soubor dvakrát na jednou
+> [!IMPORTANT]
+> Dva lidi nesmí editovat stejný soubor najednou. To platí i u nastavení pluginů i když to zní hloupě. Je to jediný způsob jak synchronizovat pluginy. Jestli se to posere, tak se pluginy synchronizovat nebudou a basta.
 
 ## Klonování
 
@@ -18,6 +19,35 @@ git config --global user.email "email"
 7. Potom už jenom otevři obsidian a v něm tu složku
 8. Povol obsidianu trust a pluginy a pak ho zavři
 9. Znovu otevři obsidian a vše by mělo fungovat
+
+## Práce s Gitem
+Stačí ti znát tři koncepty:
+- commit
+- push
+- pull
+
+### commit
+Command pallet:  `Git: Commit all changes`
+
+Shrne všechny změny a uloží je do verzování.
+
+=> Uloží změny
+
+### push
+Command pallet: `Git: Push`
+
+Odešle všechny změny do jiného repozitáře
+
+=> Hodí změny na GitHub
+
+> [!NOTE]
+> Může se stát, že se tohle posere. V tom případě bych udělal pull. Jestli to nebude fungovat ani potom tak dej vědět, protože je něco v prdeli. 
+### pull
+Command pallet: `Git: Pull`
+
+Stáhne všechny změny z jiného repozitáře
+
+=> Hodí změny z GitHubu
 
 ## Excalidraw
 Nová možnost pro silný kreslicí nástroj přímo v Obsidianu. Myslím, že tím můžeš udělat v některých případech mnohem lepší poznámky, třeba Fyzika a tak. Ty matematický formule jsou dost peklo, tak se dají kreslit a dávat vedle sebe. Můžeme potom pořád mít markdowny s linkama na ty obrázky, ať to dává organizačně smysl.

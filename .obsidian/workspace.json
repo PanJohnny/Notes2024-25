@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "deba8908918a36ed",
+        "id": "e9a3eb33b2c8a540",
         "type": "tabs",
         "children": [
           {
-            "id": "c3b559c8281b1282",
+            "id": "5e10dcf4b968f1ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,10 +163,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3b559c8281b1282",
+  "active": "5e10dcf4b968f1ed",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-24 18.30.01.excalidraw.md",
     "README.md",
+    "Excalidraw/Drawing 2024-08-24 18.30.01.excalidraw.md",
     "Excalidraw"
   ]
 }

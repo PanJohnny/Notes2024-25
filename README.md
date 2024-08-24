@@ -26,6 +26,8 @@ Stačí ti znát tři koncepty:
 - push
 - pull
 
+Jo a může přestat fungovat ten plugin očividně, tak kdyžtak stačí restartovat obsidian.
+
 ### commit
 Command pallet:  `Git: Commit all changes`
 

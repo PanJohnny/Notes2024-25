@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "737a016fbfcbfb97",
+      "type": "text",
+      "text": "1939",
+      "styleAttributes": {},
+      "x": -320,
+      "y": -180,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "f935d8865cbb9929",
+      "type": "text",
+      "text": "1945",
+      "styleAttributes": {},
+      "x": -40,
+      "y": -180,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "541ebe75a132475f",
+      "type": "file",
+      "file": "Dějepis/Druhá světová válka/Druhá světová válka.md",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": -320,
+      "y": -80,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "2328a5b033f500a7",
+      "fromNode": "737a016fbfcbfb97",
+      "fromSide": "right",
+      "toNode": "f935d8865cbb9929",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

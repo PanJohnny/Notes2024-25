@@ -1,0 +1,62 @@
+- vývojově nejpokročilejší třída strunatců
+- vývoj v druhohorách z drobných plazů
+- původně suchozemští
+	- další prostředí osídlili až později
+- stálá tělesná teplota
+	- možnost lepšího přizpůsobení podmínkám
+- základní tvar těla
+	- suchozemský čtvernožec
+		- hlava, trup, ocas a 4 končetiny
+	- vlivem prostředí vznikly adaptace
+		- nejčastější jsou metamorfózy končetin (křídla, ploutve, ...)
+## Stavba těla
+#### Povrch
+- kůže
+	- 3 vrstvy
+		- mnoho vrstevnatá pokožka
+		- škára
+		- podkožní vazivo prostoupené tukem
+	- velké množství kožních žláz
+		- potní
+			- k ochlazování
+		- mazové
+			- výživa chlupů
+			- ochrana před vysycháním
+		- pachové
+			- ke komunikaci
+		- mléčné
+			- největší žláza
+			- přeměněná potní
+	- rohovité útvary
+		- srst
+			- chlupy vyrůstají z chlupových váčků ve škáře
+			- tvořené keratinem
+			- tepelná izolace
+			- dělí se
+				- podsada
+					- jemné spodní ochupení
+					- izolace
+				- pesíky
+					- zevní krycí chlupy
+					- často zbarvené k splývýní s okolím
+			- metamorfózy
+				- hmatové vousy, bodliny, řasy, ...
+			- u mnoha druhů sezóní výměna chlupů = línání
+		- další rohovité útvary
+			- drápy, kopyta, krunýře, rohy turovitých (ale ne parohy)
+#### Kostra
+- plně zkostnatělá
+- osu tvoří pátěř
+	- 5 oddílů
+		- krční
+		- hrudní
+		- bederní
+		- křížová
+		- ocasní
+- lebka
+	- část obličejová a omzková
+	- bikondylní
+	- jednotlivé kosti na lebce jsou spojeny švy
+		- jediná pohyblivá část je dolní čelist
+	- do čelistí jsou vklíněné zuby
+		- vzhled a stavba zubů se druhově liší

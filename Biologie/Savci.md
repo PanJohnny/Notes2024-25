@@ -60,3 +60,79 @@
 		- jediná pohyblivá část je dolní čelist
 	- do čelistí jsou vklíněné zuby
 		- vzhled a stavba zubů se druhově liší
+- kostra končetin
+	- stavba je shodná s jinými suchozemskými obratlovci
+	- připojení končetin k osové kostře pomocí pletence
+		- přední = pletenec lopatkový
+		- zadní = pletenec pánevní
+	- dělení savců podle způsobu našlapování
+		- ploskochodci
+			- hmyzožravci, hlodavci, primáti
+		- prstochodci
+			- šelmy
+		- kopytnatci
+			- špičky prstů kryté kopytem
+#### Svalstvo
+- nově mimické svaly
+- mohutná bránice
+	- odděluje dutinu hrudní od břišní
+- dobře vyvinuté mezižeberní svaly
+- někdy kožní svaly
+	- například ježek (dokáže se svinout)
+#### CS
+- plicní, tělní a vrátnicový oběh
+- čtyřdílné srdce
+	- zcela oddělěná pravá a levá strana 
+		- otvor mezi komorami pouze v zárodečném stádiu
+- zachován pouze levý aortální oblouk
+	- vyšší tlak krve
+- bezjaderné červené krvinky
+	- váží více kyslíku
+- funkce 
+	- transportní
+	- významný podíl na vyrovnání tělní teploty
+		- další mechanismy na vyrovnání teploty
+			- ochlazování
+				- pocení
+				- sálání přes kůži
+				- prudké dýchání s vyplazeným jazykoem
+				- velké ušní boltce
+			- zahřívání
+				- svalový třes
+				- zvýšení funkce metabolismu
+#### DS
+- všichni savci dýchají plícemi
+- dýchání napomáhají mezižeberní svaly a bránice
+- stavba
+	- nosní dutina rozdělena přepážkou
+	- nosohltan
+	- hltan
+	- hrtan + hlasivky
+	- průdušnice
+	- průdušky
+	- průdušinky
+	- plicní sklípky
+#### VS
+- párové ledviny + močový měchýř
+- konečný produkt je močovina
+#### MS
+- rozvádí lymfu = mízu
+- zajišťuje obranyschopnost pomocí bílých krvinek - lymfocytů
+#### HS
+- endokrinní = sekret vylučován přímo do krve
+- zajišťuje řízení organismu pomocí hormonů
+#### NS
+- dělí se
+	- CNS 
+		- mozek a mícha
+	- obvodové nervy
+- rozvoj mozkové kůry
+	- gyrifikace
+		- vznik záhybů a zvrásnění
+- mozek rozdělen na 6 částí
+	- prodloužená mícha
+	- Varolův most
+	- mozeček
+	- střední mozek
+	- mezimozek
+	- koncový mozek

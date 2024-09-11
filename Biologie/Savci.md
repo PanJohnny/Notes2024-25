@@ -136,3 +136,66 @@
 	- střední mozek
 	- mezimozek
 	- koncový mozek
+#### SS
+- u mnoha savců je dominantní čich
+	- čichové buňky 
+		- na stropě nosní dutiny
+		- někdy zachován i Jacobsonů orgán 
+			- hlodavci, šelmy, kopytníci
+- sekundárně může být vedoucím smyslem sluch, hmat nebo zrak
+- zrak
+	- komorové oči
+	- zaostřování zakřivením čočky
+	- redukovaná mžurka
+		- pohyblivější horní víčko
+	- slzné žlázy
+	- tapetum
+		- reflexní vrstva cévnatky
+		- světélkování ve tmě
+- sluch
+	- vyvinut ušní boltec
+		- zachytávání zvukových vln
+		- chlazení
+	- 3 sluchové kůstky
+		- kladívko
+		- kovadlinka
+		- třmínek
+	- hlemýžď ve vnitřním uchu
+	- nejdokonalejší u letounů a kytovců
+- chuť
+	- na povrchu jazyka
+- hmat
+	- volná nervová zakončení v kůži
+	- nejvíce na lysých částech těla
+		- pysky, dlaně, chodidla, ...
+	- někdy hmatové chlupy
+#### TS
+- ústní dutina
+	- svalnaté pysky + velmi pohyblivý jazyk
+	- často mléčný a trvalý chrup
+	- 3 páry velkých slinných žláz
+- někteří býložravci mají složený žaludek
+	- 3 předžaludky
+		- bachor
+		- čepec
+		- kniha
+	- 1 žaludek
+		- slez
+- tenké střevo
+	- nejdelší část
+	- počáteční oddíl
+		- dvanáctník
+			- ústí dle žlučovody a vývod ze slinivky břišní
+- slepé střevo
+	- velké u býložravců
+		- symbiotické bakterie pomáhají trávit celulózu
+- zakončení TS
+	- řitní otvor
+		- u placentálových
+	- kloaka
+		- u vejcorodých a vačnatců
+- největší žláza
+	- játra
+		- intenzivní metabolismus
+			- velká produkce tepla
+- 

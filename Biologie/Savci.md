@@ -198,4 +198,17 @@
 	- játra
 		- intenzivní metabolismus
 			- velká produkce tepla
-- 
+#### RS
+- vždy gonochoristé
+	- samice
+		- párové vaječníky
+	- samci
+		- párová varlata
+- kopulační orgán
+	- penis
+	- vnitřní oplození
+- u většiny savců se plod vyvíjí v děloze
+	- vyživován přes placentu
+		- s ní spojen pupeční šňůrou
+		- po porodu je placenta vyloučena z těla a často sežrána nebo zahrabána
+			- ochrana mláďat před predátory

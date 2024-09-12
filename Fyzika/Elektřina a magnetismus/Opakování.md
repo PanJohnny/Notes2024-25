@@ -1,3 +1,30 @@
+- Náboj kladný či záporný 
+- Opačné náboje se přitahují, shodné odpuzují 
+- Značí se Q nebo q 
+- Jednotka coulomb C 
+- Nabíjíme třením
+- Elektrický proud 
+    - Stejnosměrný a střídavý 
+    - Přenos pomocí vodičů 
+    - Vytvářen elektrickým napětím 
+    - Odpor brání proudu v průchodu 
+    - Značí se I 
+    - Jednotka ampér A
+
+$$
+I = \frac{Q}{t}
+$$
+Q ... celkový počet částic, které projdou průřezem vodiče
+t ... čas
+
+$$
+I=\frac{P}{U}
+$$
+P ... výkon/příkon
+
+$$
+I=\frac{U}{R}
+$$
 ## Napětí
 
 ## Pro

@@ -14,3 +14,20 @@ $$
 > Síly jsou si podobné
 > $F_{e}=\frac{1}{4\pi\epsilon_{0}\epsilon_{r} }\frac{Q_{1}\cdot Q_{2}}{r^2}$
 > $F_G=G\cdot  \frac{m_{1}\cdot m_{2}}{r^2}$
+
+
+## Elektrické pole
+- budeme zobrazovat pomocí elektrických siločar
+![[Pasted image 20240913111409.png]]
+![[Pasted image 20240913111430.png]]
+![[Pasted image 20240913111444.png]]
+
+- jaká je "velikost"/"síla" pole
+	- budeme používat el. intenzitu $\vec{E}$
+	- síla na náboj
+$$
+\vec{E}=\frac{\vec{F}}{q}
+$$
+
+![[Drawing 2024-09-13 11.22.04.excalidraw]]
+- další varianta je elektrický potenciál

@@ -1,0 +1,73 @@
+- obecný vzorec RX
+- jeden nebo více vodíků nahrazen halogenem
+- názvosloví
+	- alkylhalogenid 
+		- př. jodmethan 
+	- halogenuhlovodík
+		- př. methyljodid
+	- při číslování halogenderivátů mají skupiny halogeny přednost před uhlovodíkovými zbytky
+	- pořadí podle anglické abecedy
+- fyzikální vlastnosti
+	- nejlehčí jsou plynné, těžší kapalné a nejtěžší pevné
+	- málo rozpustné ve vodě
+	- dobrá rozpouštědla
+	- karcinogenní účinky
+- chemické vlastnosti
+	- dány zejména vazbou $C-X$
+		- halogen má o dost vyšší elektronegativitu než uhlík
+			- vazebný el. pár je posunut k halogenu
+		- na halogenu pak vzniká záporný parciální náboj
+			- na uhlíku kladný
+		- polarita klesá od fluoru k jodu
+		- vazba se štěpí heterocyklicky
+- indukční efekt
+	- přenos parciálního náboje po uhlíkatém řetězci
+		- vzdálenost od atomu halogenu se snižuje
+	- $C^{+\delta}-C^{+\delta}-C^{+\delta}-X^{-\delta}$
+	- snižování elektronové hustoty v řetězci
+		- záporný indukční efekt -I
+- polarizovatelnost vazby
+	- schopnost vychýlení páru vazebných elektronů z původní polohy účinkem elektrického náboje
+	- stoupá od fluoru k jodu
+- příprava
+	- radikálovou substitucí
+		- $CH_{4} + Cl_{2} \to CH_{3}Cl + HCl$
+	- elektrofilní substitucí arenů
+	- adice na nasycené uhlovodíky
+- chemické reakce
+	- nukleofilní substituce
+		- $CH_{3}-CH_{2}-I + NaOH \to CH_{3}-CH_{2}OH + NaI$
+		- $CH_{3}-CH_{2}-I + CH_{3}-CH_{2}-ONa \to CH_{3}-CH_{2}-O-CH_{2}-CH_{3} + NaI$
+	- eliminace
+		- vedou ke vniku uhlovodíků (při reakci s alkalickým kovem) či alkoholů (při reakci s hydroxidem)
+		- $2CH_{3}Br + 2Na \to CH_{3}-CH_{3} + 2NaBr$
+		- $CH_{3}Br + NaOH \to CH_{3}OH + NaOH$
+	- polymerace
+		- $n CF_{2}=CF_{2} \to [CF_{2}-CF_{2}]_{n}$ 
+- důležití zástupci
+	- organická rozpouštědla
+	- anestetika
+	- pesticidy
+	- výroba plastických hmot
+	- organické syntézy
+	- methylchlorid
+		- $CH_{3}Cl$
+		- plnění chladících zařízení
+		- methylační činidlo
+	- chloroform
+		- $CHCl_{3}$
+		- rozpouštědlo
+		- při hoření tvoří jedovatý fosgen
+			- $COCl_{2}$
+		- dříve anestetikum
+	- jodoform
+		- $CHI_{3}$
+		- antriseptikum
+	- tetrachlormethan
+		- $CCl_{4}$
+		- rozpouštědlo
+	- vinylchlorid
+		- $CH_{2}=CHCl$
+		- monomer polyvinylchloridu PVC
+	- DDT
+		- dnes zakázaný insekticid

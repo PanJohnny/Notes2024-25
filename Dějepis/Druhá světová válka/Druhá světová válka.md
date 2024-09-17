@@ -22,5 +22,11 @@
 	-> Vichistická Francie (jih)
 - 10. 7. 1940 - 31. 10. 1940 - Bitva o Británii
 	- Luftwaffe vs RAF
-- 22. 7. 1941 - operace Barbarossa
-- 
+- 22. 6. 1941 - operace Barbarossa
+	- taktika spálené země
+		- Sověti pálili všechno když ustupovali
+		- ničení železnice i vozového parku
+	- nacistické chyby
+		- špatný rozchod kolejí
+		- nedostatek zásob
+	- Stalin

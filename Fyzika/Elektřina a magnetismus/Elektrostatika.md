@@ -45,4 +45,8 @@ $$
 $$
 ![[Drawing 2024-09-18 12.09.42.excalidraw]]
 ### Práce v elektrickém poli
-- 
+
+$$
+W = q \cdot (\varphi_{2} - \varphi_{1}) = q \cdot U
+$$
+![[Drawing 2024-09-18 12.26.33.excalidraw]]

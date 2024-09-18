@@ -50,3 +50,4 @@ $$
 W = q \cdot (\varphi_{2} - \varphi_{1}) = q \cdot U
 $$
 ![[Drawing 2024-09-18 12.26.33.excalidraw]]
+- u práce nezáleží na trajektorii, jenom na počátečním a konečném bodě

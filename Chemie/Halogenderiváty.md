@@ -71,3 +71,7 @@
 		- monomer polyvinylchloridu PVC
 	- DDT
 		- dnes zakázaný insekticid
+		``` smiles
+		c1cc(-Cl)ccc1-c-c2ccccc2
+		```
+		

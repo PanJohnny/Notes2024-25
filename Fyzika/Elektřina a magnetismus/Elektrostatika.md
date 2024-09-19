@@ -21,7 +21,7 @@ $$
 ![[Pasted image 20240913111409.png]]
 ![[Pasted image 20240913111430.png]]
 ![[Pasted image 20240913111444.png]]
-
+### Elektrická intenzita
 - jaká je "velikost"/"síla" pole
 	- budeme používat el. intenzitu $\vec{E}$
 	- síla na náboj
@@ -31,3 +31,23 @@ $$
 
 ![[Drawing 2024-09-13 11.22.04.excalidraw]]
 - další varianta je elektrický potenciál
+### Elektrický potenciál
+- množství práce potřebné pro přenesení jednotkového elektrického náboje ze vztažného místa o nulovém potenciálu (tzv. vztažný bod) do daného místa
+- skalární veličina
+$$
+\varphi = \frac{1}{4\pi\epsilon_{0}\epsilon_{r}}\frac{Q}{r}
+$$
+### Spojení elektrické intenzity a elektrického potenciálu
+- intenzita je vždy kolmá k ekvipotenciálám (čárám se stejným el. potenciálem)
+- https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_all.html
+$$
+\varphi(\boldsymbol{r}) = \frac{1}{4\pi\epsilon_{0}\epsilon_{r}}\frac{Q}{r}
+$$
+![[Drawing 2024-09-18 12.09.42.excalidraw]]
+### Práce v elektrickém poli
+
+$$
+W = q \cdot (\varphi_{2} - \varphi_{1}) = q \cdot U
+$$
+![[Drawing 2024-09-18 12.26.33.excalidraw]]
+- u práce nezáleží na trajektorii, jenom na počátečním a konečném bodě

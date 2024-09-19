@@ -1,0 +1,22 @@
+- kyslíkaté deriváty uhlovodíků
+- molekuly obsahují karbonylovou skupinu $C^{+\delta}=O^{-\delta}$
+	- záporný indukční efekt
+	- kladný mezomerní efekt
+- dělení do dvou skupin
+	- aldehydy
+		- na uhlík karbonylové skupiny je navázán vodík a uhlíkový zbytek
+	- ketony
+		- na uhlík jsou navázány dva uhlíkové zbytky
+### Aldehydy
+- názvosloví
+	- přítomnost charakteristické skupiny se vyjadřuje koncovkou **-al**
+	- některé mají triviální názvy
+	- pokud je aldehydová skupina navázána na cyklický řetězec, nebo více skupin na nevětvený řetězec, užívá se koncovka **-karbaldehyd**
+### Ketony
+- názvosloví
+	- názvy alifalických ketonů se tvoří substitučně
+		- název uhlovodíku + koncovka **-on**
+			- více skupin -> **-dion**, **-trion**
+	- triviální názvy
+		- propanon = aceton
+	- náhrada dvou CH skupin ketoskupinami má koncovku **-chinon** 

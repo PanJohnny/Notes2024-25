@@ -19,4 +19,8 @@
 			- více skupin -> **-dion**, **-trion**
 	- triviální názvy
 		- propanon = aceton
-	- náhrada dvou CH skupin ketoskupinami má koncovku **-chinon** 
+```smiles 
+CC(=O)C
+```
+
+- náhrada dvou CH skupin ketoskupinami má koncovku **-chinon** 

@@ -44,7 +44,7 @@
 - 
 
 ## Hlavní znaky
-- Severně od mecických hranic
+- Severně od mexických hranic
 - 378 mil obyvatel
 -  $17 \text{ obyvatel/}m^2$
 
@@ -52,3 +52,4 @@
 - 100% gramotnost
 - nejvyšší střední délka života 77/82
 - Angloamerika - Aj, Fj
+- 

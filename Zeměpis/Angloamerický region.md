@@ -53,3 +53,26 @@
 - nejvyšší střední délka života 77/82
 - Angloamerika - Aj, Fj
 - 
+
+## Pár věcí k historii
+- Deklarace nezávislosti
+- 1776 - 13 britských kolonií
+- 1867 - koupě Aljašky od Ruska
+- velké migrační vlny
+	- nárůst imigrantů od roku 1820
+- 1924 přistěhovatelský zákon
+
+## Obyvatelstvo
+- megalopolis
+	- BosWash
+		- Boston
+		- Washington
+	- San-San
+		- San Francisco
+		- San Diego
+	- ChiPits
+		- Chicago
+		- Pitsburg
+- nerovnoměrné rozmístění
+	- závislé na přírodních podmínkách
+- 

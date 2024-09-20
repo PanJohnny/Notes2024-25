@@ -28,6 +28,9 @@ $$
 $$
 \vec{E}=\frac{\vec{F}}{q}
 $$
+$$
+E = \frac{1}{4\pi\epsilon_{0}\epsilon_{r}}\frac{Q}{r^2}
+$$
 
 ![[Drawing 2024-09-13 11.22.04.excalidraw]]
 - další varianta je elektrický potenciál

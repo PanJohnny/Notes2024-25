@@ -1,0 +1,5 @@
+- počátky spjaty s mýtem
+- přechod k logosu
+- vyrůstá ze společnosti -> co se děje v politice a tak
+- vzniká k Řecku
+- kritická rozumová věda

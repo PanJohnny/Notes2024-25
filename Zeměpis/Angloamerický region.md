@@ -75,4 +75,54 @@
 		- Pitsburg
 - nerovnoměrné rozmístění
 	- závislé na přírodních podmínkách
-- 
+
+## USA
+- rozloha: 9,5 mil $km^2$
+	- 4. místo
+- 341 milionů obyvatel
+- zámořská teritoria
+	- Karibik - Portoriko, Americké Panenské ostrovy
+	- Pacifik - Americká Samoa, Severní Mariany, Guam
+### Přírodní podmínky
+- východ
+	- pobřežní nížiny
+	- Appalačské pohoří
+		- nejstarší část
+		- St. Mitchell 2037 mnm
+- střed USA
+	- centrální nížiny (prérie)
+	- Mississippi
+		- 3 770 km 4. místo
+- velké roviny
+	- přechodná část mezi nížinami a horami
+- západ
+	- Kordillery
+	- Sierra Nevada
+	- Skalnaté hory
+	- Pobřežní hory
+	- Velká pánev
+	- Koloradská plošina
+	- Yellowstonská tabule
+	- Mt. Whitney 4 421 mnm
+	- Údolí smrti
+- Havajské ostrovy
+	- 8 ostrovů
+	- sopečný původ
+	- sopky
+		- Mauna Kea 4205 mnm
+		- Mauna Loa 4171 mnm
+		- mají největší absolutní výšku (od dna oceánu) 10200 m
+- Aljaška
+	- národní park Denali a nejvyšší hora Denali
+#### Národní parky
+- dlouhá tradice od roku 1872
+- první park na světě - Yellowstone
+- asi 60
+
+### Nerostné suroviny
+- Ropa - Texas, Aljaška, Kalifornie
+- Uhlí - Apalačské hory
+- Molybden - Utah
+- Železná ruda
+- Zlato a stříbro
+- Fosfáty

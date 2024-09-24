@@ -59,3 +59,13 @@ Pro embedování Command pallet: embed excalidraw drawing nebo prostě `![[Drawi
 $$
 \begin{bmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{bmatrix}\
 $$
+
+## Oprava merge conflictů
+**Pozor nebezpečné**
+Pokud je branch na githubu aktuální a máš merge conflicty
+```sh
+git fetch
+git restore --hard origin/main
+```
+**Pokud je tvůj branch aktuální**
+Tak mi dej sakra vědět, protože by se to mohlo kompletně dosrat a minulým postupem bys přišel o veškerý progress!

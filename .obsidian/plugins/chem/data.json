@@ -1,21 +1,21 @@
 {
   "version": "v3",
-  "darkTheme": "dark",
+  "darkTheme": "oldschool-dark",
   "lightTheme": "light",
   "sample1": "OC(=O)C(C)=CC1=CC=CC=C1",
   "sample2": "OC(C(=O)O[C@H]1C[N+]2(CCCOC3=CC=CC=C3)CCC1CC2)(C1=CC=CS1)C1=CC=CS1",
   "copy": {
-    "scale": 2,
-    "transparent": false,
-    "theme": "default"
+    "scale": 4,
+    "transparent": true,
+    "theme": "dark"
   },
   "dataview": false,
   "inlineSmiles": true,
   "inlineSmilesPrefix": "$smiles=",
-  "core": "smiles-drawer",
+  "core": "rdkit",
   "commonOptions": {
-    "width": 300,
-    "scale": 1,
+    "width": 200,
+    "scale": 0.6,
     "unifiedWidth": 300,
     "compactDrawing": false,
     "explicitHydrogens": true,
@@ -25,8 +25,9 @@
     "moleculeOptions": {
       "terminalCarbons": true,
       "explicitHydrogens": true,
-      "scale": 1,
-      "compactDrawing": false
+      "scale": 0.6,
+      "compactDrawing": false,
+      "width": 200
     },
     "reactionOptions": {}
   },

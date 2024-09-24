@@ -7,11 +7,27 @@
 		- na uhlík karbonylové skupiny je navázán vodík a uhlíkový zbytek
 	- ketony
 		- na uhlík jsou navázány dva uhlíkové zbytky
+- fyzikální vlastnosti
+	- skupenství
+		- plyny
+			- formaldehyd
+		- kapaliny
+			- nižší aldehydy a ketony
+		- pevné látky
+			- vyšší aldehydy a ketony
+	- vyšší teploty varu než příslušné alkeny, nižší než příslušné alkoholy
+	- netvoří vodíkové můstky
+	- rozpustnost ve vodě klesá s rostoucí molekulovou hmotností
+	- nižší páchnou, vyšší mohou vonět
+- chemické vlastnosti
+	- vycházejí z přítomnosti karbonylové skupiny, která je polární
+	- 
 ### Aldehydy
 - názvosloví
 	- přítomnost charakteristické skupiny se vyjadřuje koncovkou **-al**
 	- některé mají triviální názvy
 	- pokud je aldehydová skupina navázána na cyklický řetězec, nebo více skupin na nevětvený řetězec, užívá se koncovka **-karbaldehyd**
+
 ### Ketony
 - názvosloví
 	- názvy alifalických ketonů se tvoří substitučně
@@ -22,5 +38,5 @@
 ```smiles 
 CC(=O)C
 ```
-
 - náhrada dvou CH skupin ketoskupinami má koncovku **-chinon** 
+- 

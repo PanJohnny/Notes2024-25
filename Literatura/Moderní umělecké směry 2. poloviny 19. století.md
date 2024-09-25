@@ -22,5 +22,21 @@
 - **Obraz Doriana Graye** (1891)
 - **Ideální manžel**
 - **Jak je důležité míti Filipa**
+	- žena chce Filipa
+	- láska
 - **Strašidlo cantervillské a jiné prózy**
 - **Šťastný princ a jiné pohádky**
+
+## 3. Prokletí básníci
+- Francouzi
+- Paul Verlaine použil poprvé
+- předchůdci: F. Villon, E. A. Poe
+- stáli u zrodu moderních básnických směrů
+- vliv dekadence a symbolismu
+- rozchod se společností
+- hledání krásy v ošklivosti
+- společný rys: víra v umění, které může zachránit zkažený svět
+- vedli bohémský život
+- posílení role básnického subjektu
+- tabu
+- BAUDELAIRE + VERLAINE + RIMBAUD

@@ -9,22 +9,32 @@
 ## Vzorce
 **Elektrická síla:**
 $$
-F_{e}=\frac{1}{4\pi\epsilon_{0}\epsilon_{r} }\frac{Q_{1}\cdot Q_{2}}{r^2}
+\begin{align}
+F_{e}=\frac{1}{4\pi\epsilon_{0}\epsilon_{r} }\frac{Q_{1}\cdot Q_{2}}{r^2} && [N]
+\end{align}
 $$
 **Elektrická intenzita:**
 $$
-\vec{E}=\frac{\vec{F}}{q}
+\begin{align}
+\vec{E}=\frac{\vec{F}}{q} && \left[ \frac{N}{C} \right]
+\end{align}
 $$
 $$
-E = \frac{1}{4\pi\epsilon_{0}\epsilon_{r}}\frac{Q}{r^2}
+\begin{align}
+E = \frac{1}{4\pi\epsilon_{0}\epsilon_{r}}\frac{Q}{r^2} && \left[\frac{N}{C} \right]
+\end{align}
 $$
 
 **Elektrický potenciál:**
 $$
-\varphi = \frac{1}{4\pi\epsilon_{0}\epsilon_{r}}\frac{Q}{r}
+\begin{align}
+\varphi = \frac{1}{4\pi\epsilon_{0}\epsilon_{r}}\frac{Q}{r} && [V]
+\end{align}
 $$
 **Práce v elektrickém poli:**
 
 $$
-W = q \cdot (\varphi_{2} - \varphi_{1}) = q \cdot U
+\begin{align}
+W = q \cdot (\varphi_{2} - \varphi_{1}) = q \cdot U && [J]
+\end{align}
 $$

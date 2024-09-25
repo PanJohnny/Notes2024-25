@@ -30,3 +30,13 @@
 		- špatný rozchod kolejí
 		- nedostatek zásob
 	- Stalin
+
+- Ludendorffův most
+	- přes Rýn u německého Remagenu
+	- odstřelit most
+		- nepodařilo se
+			- až 8000 spojenců přes něj pak přešlo
+			- 10 dnů po té se náhle zřítil
+
+- situace spojenců po vylodění v Normandii
+	- rychlý 

@@ -33,10 +33,14 @@
 				- spojení dvou aldehydů či ketonů v jednu sloučeninu - **aldol**
 				- musí mít $\alpha$-vodíky
 				- obvykle probíhá za alkalické katalýzy
-reakce alkoholu s karbonylovou sloučeninou 
+>reakce alkoholu s karbonylovou sloučeninou 
 ```smiles
-*-O-[H]>>c-[C](-o)(-[H])(-[O]*)
+*-o-[H]>>c-[C](-o)(-[H])(-[O]*)
 >*O>c-[C](-o)(-[H])(-[O]*)
+```
+>aldolová kondenzace
+```smiles
+c
 ```
 ### Aldehydy
 - názvosloví

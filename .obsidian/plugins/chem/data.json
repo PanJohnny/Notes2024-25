@@ -15,7 +15,7 @@
   "core": "smiles-drawer",
   "commonOptions": {
     "width": 300,
-    "scale": 1.58,
+    "scale": 1,
     "unifiedWidth": 300,
     "compactDrawing": false,
     "explicitHydrogens": true,
@@ -25,7 +25,7 @@
     "moleculeOptions": {
       "terminalCarbons": true,
       "explicitHydrogens": true,
-      "scale": 1.58,
+      "scale": 1,
       "compactDrawing": false,
       "width": 300
     },

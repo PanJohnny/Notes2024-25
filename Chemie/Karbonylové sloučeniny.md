@@ -33,6 +33,18 @@
 				- spojení dvou aldehydů či ketonů v jednu sloučeninu - **aldol**
 				- musí mít $\alpha$-vodíky
 				- obvykle probíhá za alkalické katalýzy
+		- oxidace
+			- u aldehydů probíhá snadno
+			- produktem jsou karboxylové sloučeniny
+			- u ketonů obtížněji
+				- vzniká směs karboxylových sloučenin
+		- redukce
+			- redukcí aldehydů vznikají primární alkoholy
+			- redukcí ketonů sekundární alkoholy
+		- jodoformová reakce
+			- slouží jako důkaz ethanolu
+				- v alkalickém prostředí se mění na acetaldehyd; s jodem tvoří žlutý krystalický jodoform
+		- 
 >reakce alkoholu s karbonylovou sloučeninou 
 ```smiles
 *-o-[H]>>c-[C](-o)(-[H])(-[O]*)
@@ -40,15 +52,64 @@
 ```
 >aldolová kondenzace
 ```smiles
-c
+cC(=O)-[H].c-[CH-]c=o>[H]-[OH-]>cC(-o)-c(-c=O)-c.[OH-]
 ```
-### Aldehydy
+>oxidace
+```smiles
+cco>>cc(=o)o
+```
+## Aldehydy
 - názvosloví
 	- přítomnost charakteristické skupiny se vyjadřuje koncovkou **-al**
 	- některé mají triviální názvy
 	- pokud je aldehydová skupina navázána na cyklický řetězec, nebo více skupin na nevětvený řetězec, užívá se koncovka **-karbaldehyd**
-
-### Ketony
+#### Formaldehyd
+```smiles
+c=O
+```
+- methanal
+- T
+- plynná látka
+- štiplavě páchne
+- velmi polární
+	- dobře rozpustný ve vodě
+- výroba oxidací methanolu
+- využití
+	- výroba fenolformaldehydových pryskyřic
+		- př. bakelit
+	- 40% vodný roztok
+		- formalin
+		- k uchovávání biologických preparátů
+		- desinfekce
+#### Acetaldehyd
+```smiles
+cc=O
+```
+- ethanal
+- těkavá bezbarvá kapalina
+- pronikavý zápach
+- F+
+- využití
+	- výroba kyseliny octové oxidací
+	- výroba léčiv a voňavek
+- polymery 
+	- paraldehyd
+		- cyklický trimer
+		- vzniká pod učinkem $HCl$ nebo $H_{2}SO_{4}$ 
+		- sedativum
+	- methaldehyd
+		- cyklický tetramer
+		- vzniká účinkem $HCl$
+		- součást tuhého lihu
+#### Benzaldehyd
+```smiles
+c1(c=O)ccccc1
+```
+- výskyt v semenech mandloní
+- hořkolmandlová vůně
+- kapalina
+- špatně rozpustný ve vodě
+## Ketony
 - názvosloví
 	- názvy alifalických ketonů se tvoří substitučně
 		- název uhlovodíku + koncovka **-on**
@@ -59,4 +120,11 @@ c
 CC(=O)C
 ```
 - náhrada dvou CH skupin ketoskupinami má koncovku **-chinon** 
-- 
+#### Propanon
+- aceton
+- T, F+, E
+- charakteristický zápach
+- rozpouštědlo
+#### Cyklohexanon
+- olejovitá kapalina s vůní máty peprné
+- výroba polyamidových vláken

@@ -41,7 +41,7 @@
 - Skalisté hory (Rocky mountains)
 	- Velké kontitentální rozvodí
 		- pramení tam velké řeky
-- 
+-
 
 ## Hlavní znaky
 - Severně od mexických hranic
@@ -52,7 +52,7 @@
 - 100% gramotnost
 - nejvyšší střední délka života 77/82
 - Angloamerika - Aj, Fj
-- 
+-
 
 ## Pár věcí k historii
 - Deklarace nezávislosti
@@ -126,3 +126,48 @@
 - Železná ruda
 - Zlato a stříbro
 - Fosfáty
+
+## Obyvatelstvo
+- příznivé demografické faktory
+- nízká mortalita 8 ‰
+- vyšší natalita 13 ‰
+- vysoká střední délka života 77/82
+- Americký národ - pestrost 
+- příliv přistěhovalců 
+- tavící kotlík národů a kultur 
+- od roku 1820 - přes 60 milionů obyvatel 
+- Německo, Británie, Itálie 
+- současnost 1 milion přistěhovalců (400 000 legálních) 
+- původní obyvatelstvo - Indiáni - dnes asi jen 2 miliony 
+	- hlavně západ USA - Nové Mexiko 
+- Afroameričané - původně jih 
+	- dnes - velká města SV - Detroit 80% 
+	- New Orleans, Baltimore, Washington 60% 
+- Hispánci (Latinos) - Nové Mexiko 
+- Mexičané 
+- Kubánci 
+- Portoričané
+
+### Jazyky
+- rodné jazyky
+	- Angličtina 82 %
+	- Španělština 10 %
+- USA nemá federálně stanovený úřední jazyk
+- vícejazyčné státy
+	- Louisiana Aj, Fj
+	- Nové Mexiko Aj, Šj
+	- Havaj Aj a havajština
+
+### Náboženství
+- významná role
+- 70% křesťanství
+	- baptismus
+- Muslimové
+- vysoká diverzita
+
+### Společnost
+- prohlubující se sociální rozdíly
+- 10 % domácností jen poloviční průjem
+- Ghetta - různé čtvrti (čínská apod.)
+- gate communities - část města kam můžou jen bydlící a návštěvy
+- opačná diskriminace

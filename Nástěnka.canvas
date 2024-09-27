@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "ee82c891df9976ba",
+      "x": -193,
+      "y": -99,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "Zeměpis/Austrooceánský makroregion.md"
+    },
+    {
+      "id": "a6085269ec78c229",
+      "type": "text",
+      "text": "Test ze zeměpisu",
+      "styleAttributes": {},
+      "x": -123,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

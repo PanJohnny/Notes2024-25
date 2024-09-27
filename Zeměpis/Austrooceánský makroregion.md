@@ -156,4 +156,34 @@
 	- Ekonomický růst: Stabilní růst, nízká míra nezaměstnanosti
 	- Mezinárodní obchod: Silné obchodní vztahy s Čínou, Japonskem, USA
 	- Klíčové sektory: Služby, těžba, zemědělství, technologie
-Ještě deset slidů.... #TODO
+
+# Nový Zéland
+
+- **Hlavní město:** Wellington
+- **Největší město:** Auckland
+- **Rozloha:** 268 021 km²
+- **Počet obyvatel:** Přibližně 5 milionů
+- **Úřední jazyky:** Angličtina, Maorština, Novozélandský znakový jazyk
+- **Měna:** Novozélandský dolar (NZD)
+- Přírodní podmínky:
+	- 2 hlavní ostrovy – Severní a Jižní a několika menších ostrůvků.
+	- různorodá krajina - hory, lesy, pláže, jezera a sopky.
+	- Nejvyšší hora  - Mount Cook (Aoraki) 3 724 metrů.
+- Historie:
+	- Původními obyvateli jsou Maorové, kteří přišli na Nový Zéland z Polynésie kolem roku 1300.
+	- V roce 1840 byla podepsána smlouva z Waitangi mezi britskou korunou a maorskými náčelníky, čímž se Nový Zéland stal britskou kolonií.
+	- Nový Zéland získal plnou nezávislost v roce 1947.
+- Politika:
+	- Nový Zéland je konstituční monarchie a parlamentní demokracie.
+	- Hlavou státu je britský monarcha, zastoupený generálním guvernérem.
+	- Předseda vlády je hlavou vlády.
+- Ekonomika:
+	- Nový Zéland má moderní a rozvinutou ekonomiku, která je silně závislá na exportu zemědělských produktů, jako je mléko, maso a ovoce.
+	- Země je také známá pro svůj filmový průmysl, turistiku a výrobní průmysl.
+- Kultura:
+	- Kultura Nového Zélandu je směsicí evropských a maorských tradic.
+	- Haka, tradiční maorský válečný tanec, je známý po celém světě, zejména díky novozélandskému rugbyovému týmu All Blacks.
+	- Nový Zéland je také rodištěm mnoha známých umělců, spisovatelů a filmařů
+- Turismus:
+	- Turisté jsou přitahováni nádhernou přírodou Nového Zélandu, která nabízí aktivity jako je trekking, lyžování, plachtění a potápění.
+	- Mezi nejznámější turistické atrakce patří národní park Fiordland, geotermální oblast Rotorua a pláže Bay of Islands.

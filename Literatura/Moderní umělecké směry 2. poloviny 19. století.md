@@ -27,7 +27,7 @@
 - **Strašidlo cantervillské a jiné prózy**
 - **Šťastný princ a jiné pohádky**
 
-## 3. Prokletí básníci
+# 3. Prokletí básníci
 - Francouzi
 - Paul Verlaine použil poprvé
 - předchůdci: F. Villon, E. A. Poe
@@ -40,3 +40,34 @@
 - posílení role básnického subjektu
 - tabu
 - BAUDELAIRE + VERLAINE + RIMBAUD
+
+## Charles Baudelaire 
+- 1821-1867 
+- generačně nejstarší -> průkopník nástupu "prokletých básníků" 
+- vzor E. A. Poe (také ho překládá) 
+- pracuje s principy symbolismu -> předznamenává ho 
+- stojí u zrodu dekadence 
+- užívá překvapivá obrazná všechny smysly 
+- díla: 
+    - "Květy zla" 
+        - sbírka básní 
+        - veřejností přijato nepříznivě 
+        - námětem špína, rozklad, krutost života… 
+        - soudní stíhání 
+        - báseň MRCHA (MRŠINA)
+
+## Paul Verlaine
+- 1844-1896
+- autor termínu PROKLETÍ BÁSNÍCI 
+- 1871 dopis od A. Rimbauda -> důvěrné přátelství -> rozvod 
+- 1872 s A. Rimbaudem odjíždí do Paříže -> tuláctví (Belgie, Londýn) 
+- 1873 při hádce s Rimbauda postřelil -> dva roky vězení (propuštěn dříve) 
+- 1877 návrat do Francie 
+- před 1880 napsal většinu děl 
+- vznětlivá povaha + nevázaný život + alkoholismus + život v chudobě 
+- využívá hudebnosti verše (zdůrazňuje rytmus a melodii) 
+- námětem pocit, nálada, dojem, snaha zachytit okamžik 
+- Dílo: 
+    - "Básnické umění" (1884): programová báseň symbolismu 
+    - "Saturnské básně" (1866): 25 básní, vliv impresionismu, intimní + přírodní poezie, básně Podzimní píseň 
+    - "Prokletí básníci" (1884): medailony básníků, symbolismus

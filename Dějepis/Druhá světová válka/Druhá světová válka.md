@@ -18,7 +18,7 @@
 - 22. 5. 1940 - padla Paříž
 - 27. 5. - 4. 6. 1940 - operace Dynamo - evakuace spojeneckých vojáků z Dunkerque
 - 25. 6. 1940 - kapitulace Francie
-	-> Generál Degaull 
+	-> Generál Degaull
 	-> Vichistická Francie (jih)
 - 10. 7. 1940 - 31. 10. 1940 - Bitva o Británii
 	- Luftwaffe vs RAF
@@ -39,4 +39,14 @@
 			- 10 dnů po té se náhle zřítil
 
 - situace spojenců po vylodění v Normandii
-	- rychlý 
+	- rychlý
+
+## Válka v Tichomoří
+- 1937-1945
+- bitva u Midway
+- Guadaleanal
+- Iwo - Jimu
+- Okinavu
+- Hirošima, Nagasaki
+- Hirohito
+- Jamamoto

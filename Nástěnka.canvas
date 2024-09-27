@@ -2,12 +2,13 @@
   "nodes": [
     {
       "id": "ee82c891df9976ba",
+      "type": "file",
+      "file": "Zeměpis/Austrooceánský makroregion.md",
+      "styleAttributes": {},
       "x": -193,
       "y": -99,
       "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "Zeměpis/Austrooceánský makroregion.md"
+      "height": 400
     },
     {
       "id": "a6085269ec78c229",

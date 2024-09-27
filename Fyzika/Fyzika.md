@@ -1,5 +1,6 @@
 [[Opakování]]
 [[Elektrostatika]]
+[[Elektrický proud]]
 
 ## Konstanty
 

@@ -1,0 +1,6 @@
+- **veličiny**:
+	- *proud* I \[A]
+		- $I := \frac{Q}{t}$
+	- *napětí* U \[V]
+	- *odpor* R \[$\Omega$]
+	- dodělat pak od Filipa :)

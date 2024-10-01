@@ -44,9 +44,15 @@
 ## Válka v Tichomoří
 - 1937-1945
 - bitva u Midway
-- Guadaleanal
+	- zlom - Američané začínají vyhrávat
+- Guadalecanal
+	- série bitev
 - Iwo - Jimu
 - Okinavu
 - Hirošima, Nagasaki
 - Hirohito
 - Jamamoto
+- co si máme pamatovat
+	- byla
+	- byla to další součást války co znamenala utrpení pro i mimoevropské obyvatelstvo
+	- jiná datace: 1937 - 1945

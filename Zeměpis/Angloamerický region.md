@@ -76,7 +76,7 @@
 - nerovnoměrné rozmístění
 	- závislé na přírodních podmínkách
 
-## USA
+# USA
 - rozloha: 9,5 mil $km^2$
 	- 4. místo
 - 341 milionů obyvatel
@@ -171,3 +171,49 @@
 - Ghetta - různé čtvrti (čínská apod.)
 - gate communities - část města kam můžou jen bydlící a návštěvy
 - opačná diskriminace
+
+## Průmysl
+### Energetika
+- spotřeba energie na 2. místě za Čínou
+- 75% tepelné elektrárny
+- jaderná energie cca 10% (100)
+- vodní elektrárny 7%
+
+### Strojírenství
+- výroba automobilů
+- technologie
+> Takže dělej, sedni si tady na prdel, nebo ti napíšu poznámku. Já na tebe nemám čas.
+- letadla a lítání
+- potravinářský
+
+## Zemědělství
+- 3 zemědělské pásy
+	- kukuřičný
+	- pšeničný
+	- bavlníkový
+
+## Doprava
+- efektivní silniční systém
+	- spojuje přes 90% měst
+- vnitrostátní létání
+- říční
+	- Velká jezera
+		- nejdůležitější vodní koridor
+
+## Města
+- LA
+- San Francisco
+	- Silicon Valley
+
+## Oblasti
+- Nová Anglie
+- Středoantlantská oblast
+- Střední SV
+- Střední SZ
+- Jihoatlanstská oblast
+- Střední JV
+- Střední JZ
+- Horská oblast
+- Pacifická oblast
+- Aljaška
+- Havajské ostrovy

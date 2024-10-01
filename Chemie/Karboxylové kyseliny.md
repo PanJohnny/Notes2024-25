@@ -1,0 +1,2 @@
+- funkční skupina $-COOH$
+- 

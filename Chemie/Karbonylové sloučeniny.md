@@ -26,7 +26,7 @@
 		- Schiffovo činidlo
 	- velmi reaktivní
 		- typická je nukleofilní adice
-			- reakce alkoholu s karbonylovou sloučeninou 
+			- reakce alkoholu s karbonylovou sloučeninou
 				- vnikají acetaly a poloacetaly
 				- obvykle v kyselém prostředí
 			- aldolová kondenzace
@@ -44,8 +44,8 @@
 		- jodoformová reakce
 			- slouží jako důkaz ethanolu
 				- v alkalickém prostředí se mění na acetaldehyd; s jodem tvoří žlutý krystalický jodoform
-		- 
->reakce alkoholu s karbonylovou sloučeninou 
+		-
+>reakce alkoholu s karbonylovou sloučeninou
 ```smiles
 *-o-[H]>>c-[C](-o)(-[H])(-[O]*)
 >*O>c-[C](-o)(-[H])(-[O]*)
@@ -92,10 +92,10 @@ cc=O
 - využití
 	- výroba kyseliny octové oxidací
 	- výroba léčiv a voňavek
-- polymery 
+- polymery
 	- paraldehyd
 		- cyklický trimer
-		- vzniká pod učinkem $HCl$ nebo $H_{2}SO_{4}$ 
+		- vzniká pod učinkem $HCl$ nebo $H_{2}SO_{4}$
 		- sedativum
 	- methaldehyd
 		- cyklický tetramer
@@ -116,11 +116,12 @@ c1(c=O)ccccc1
 			- více skupin -> **-dion**, **-trion**
 	- triviální názvy
 		- propanon = aceton
+
+- náhrada dvou CH skupin ketoskupinami má koncovku **-chinon**
+#### Propanon
 ```smiles 
 CC(=O)C
 ```
-- náhrada dvou CH skupin ketoskupinami má koncovku **-chinon** 
-#### Propanon
 - aceton
 - T, F+, E
 - charakteristický zápach

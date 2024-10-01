@@ -17,3 +17,8 @@ C(=o)(-o)-*
 		- zahrnuje se i uhlík z karboxylové skupiny
 	- většina má triviální názvy
 		- [[Názvosloví karboxalové kyseliny.pdf]]
+- fyzikální vlastnosti
+	- mnohé jsou pevné krystalické látky
+	- nižší acyklické monokarboxylové jsou kapaliny
+	- nižší mono a dikarboxylové jsou dobře rozpustné jsou dobře rozpustné či mísitelné s vodou, ostatní pouze omezeně
+	- v kapalném stavu jsou schopné tvořit vodíkové můstky

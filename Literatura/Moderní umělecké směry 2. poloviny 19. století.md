@@ -71,3 +71,19 @@
     - "Básnické umění" (1884): programová báseň symbolismu 
     - "Saturnské básně" (1866): 25 básní, vliv impresionismu, intimní + přírodní poezie, básně Podzimní píseň 
     - "Prokletí básníci" (1884): medailony básníků, symbolismus
+## Jean Arthur Rimbaud
+- 1854 - 1891
+- píše od 14 let
+- psal v letech 1869 - 1873
+- radikální vzdor a vzpoura proti všemu
+- tuláctví (Anglie, Itálie, Kypr, Etiopie)
+- teorie vidoucího básníka
+	- rozrušení smyslů prostřednictvím drog
+	- snaha oslabit rozum při tvorbě básní
+	- rozrušení tradičního způsobu logického rozvíjení básnické myšlenky k pointě
+- absolutní spontánnost, bohatství imaginace, volná obraznost
+	- asociace ⇒ předchůdce polytematické poezie
+- dílo
+	- "Iluminace" (1866)
+	- "Pobyt v pekle" = "Sezóna v pekle" (1873); báseň "Samohlásky"
+	- "Opilý koráb" nejznámější báseň

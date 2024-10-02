@@ -12,4 +12,4 @@
 	- $Q = CU$
 	- ![[Drawing 2024-10-02 12.12.17.excalidraw]]
 	- zapojování kondenzátorů
-		- paralelně
+	![[Drawing 2024-10-02 12.24.40.excalidraw]]

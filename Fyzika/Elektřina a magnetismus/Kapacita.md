@@ -1,0 +1,15 @@
+- C
+- $[C] = F$ (Farad)
+- kolik el. náboje se vejde do určitého předmětu
+- využívá se u kondenzátorů
+	- zdroj napětí přivádí náboj na jednu desku kondenzátoru
+	- ⇒ vzniká el. pole, které působí na druhou desku kondenzátoru
+		- ⇒ shromažďuje se tam náboj
+	- ![[Drawing 2024-10-02 11.53.49.excalidraw]]
+	- $C = \varepsilon_{0}\varepsilon_{r}\frac{S}{l}$
+		- s = obsah desek
+		- l = vzdálenost desek
+	- $Q = CU$
+	- ![[Drawing 2024-10-02 12.12.17.excalidraw]]
+	- zapojování kondenzátorů
+		- paralelně

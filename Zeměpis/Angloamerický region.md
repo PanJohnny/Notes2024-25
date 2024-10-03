@@ -217,3 +217,49 @@
 - Pacifická oblast
 - Aljaška
 - Havajské ostrovy
+# Kanada
+- 9 984 670 $km^2$
+- členem commomwealthu
+- hraničí pouze s jedním státem - USA
+## Přírodní podmínky
+- vřrazná horizontální členitost
+- mnoho ledovcových jezer
+- Arktické souostroví
+	- 36 000 ostrovů
+- V - Newfoundland, ostrov prince Eduarda
+- Z - Vancouver
+### Povrch a NP
+- většina povrchu Kanadský štít
+- z USA zasahují velké roviny
+- Kordillery
+	- skaliské hory
+	- Mt. Robson 3954 m. n. m.
+- S - Pohoří sv. Eliáše
+	- Mt. Logan 6050 m. n. m.
+- NP
+	- Wood buffalo
+	- Waterton-Glacier
+	- Jasper-Banff
+- Jezerní oblasti
+	- 8 % území
+	- 20 % celosvětových zásob vody
+	- velká jezera na hranicích s USA
+	- mezi Erijským a Ontarijským jezerem Niagarské vodovády
+	- řeka sv. Vavřince - spojení jezer s AO
+		- říční doprava
+## Obyvatelstvo
+- cca 40 mil. obyvatel
+- 90 % obyvatel žije na hranici s USA
+- vysoká úroveň urbanizace
+	- 50 % obyvatel žije v 5 největších městech
+- Inuité (Eskymáci) - 2 %
+	- původní etnikum (Kanada, Grónsko)
+	- převzatá slova
+		- anorak, kajak, nanuk, iglú, malamut
+	- pocházejí z poloostrova Čukotka před cca 12 000 lety přešli přes Aljašku do Grónska
+	- dnes opuštějí tradice
+- úřední jazyky
+	- Angličtina
+	- Francouzština
+		- cca 25 %
+		- oblast Quebecu

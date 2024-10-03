@@ -36,4 +36,14 @@ C(=o)(-o)-*
 	- výrazně kyselé vlastnosti
 		- snadné odštěpování $H^+$
 		- vzorec karboxylátového iontu není přesný, obě vazby uhlík-kyslík jsou souměrné, tj. mezi uhlíkem a každým kyslíkem je 1,5 vazby
-	-
+	- síla kyselin je dána disociační konstantou
+		- jedná se spíše o středně silné až slabé kyseliny
+		- snižuje se s délkou alifatického řetězce
+		- zvyšuje se s přítomností dvojné vazby nebo aromatického jádra v blízkosti karboxylové skupiny
+- reakce
+	- neutralizace
+		- reakce karboxylové kyseliny s hydroxidem
+		- vzniká sůl a voda
+		- $CH_{3}COOH + NaOH \leftrightarrow CH_{3}COONa + H_{2}O$
+	- dekarboxylace
+		- účinkem zahřívání dojde k zániku karboxylové skupiny a odštěpení oxidu uhličitého

@@ -1,0 +1,26 @@
+- jedno až více slov
+- dělíme:
+	- základní
+		- podmět /subjekt/
+			- vždy v 1. pádě
+			- původce děje
+			- dělíme:
+				- neurčitý
+				- všeobecný
+				- nevyjádřený
+		- přísudek
+			- činnost / stav
+	- rozvíjející
+		- přívlastek
+			- blíže určuje podstatné jméno
+			- Jaký? Který? Čí?
+		- předmět
+			- všechny pádové otázky krom 1. a 5.
+		- příslovečné určení
+			- okolnosti děje / stavu
+			- Kde? Kdy? Jak? Proč? Za jakým účelem? Z jaké příčiny? Za jakých podmínek?
+		- doplněk
+			- závisí na 2 členech
+				- podstatné jméno (příp. zájmeno)
+				- sloveso
+			- Jaký? Jako kdo? Jako co? Jak? Kým, čím?

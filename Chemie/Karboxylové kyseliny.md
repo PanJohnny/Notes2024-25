@@ -47,3 +47,39 @@ C(=o)(-o)-*
 		- $CH_{3}COOH + NaOH \leftrightarrow CH_{3}COONa + H_{2}O$
 	- dekarboxylace
 		- účinkem zahřívání dojde k zániku karboxylové skupiny a odštěpení oxidu uhličitého
+		- $HOOC-CH_{2}-COOH\to CO_{2}+CH_3COOH$
+	- esterifikace
+		- reakce karboxylové kyseliny a alkoholu (kysele katalyzovaná)
+		- $RCOOH+R^{*}OH\leftrightarrow RCOOR^{*}+H_{2}O$
+		- $R^*$ znamená, že to je různý, jiný
+		- vzniká ester karboxylové kyseliny a voda
+		- opačný proces je hydrolýza esterů
+			- kyselá katalýza
+				- stejné prostředí jako esterifikace
+				- vzniká znovu původní alkohol a karboxylová kyselina
+			- zásadití katalýza
+				- zmýdelnění esterů; vzniká sůl karboxylové kyseliny a alkohol
+				- $RCOOR^*+NaOH\to RCOONa+R^*OH$
+- zástupci:
+	- **kyselina mravenčí** $HCOOH$
+		- bezbarvá, leptavá a ostře páchnoucí kapalina
+		- výroba
+			- tlakovou syntézou z CO a NaOH, vzniká (sůl) mravenčan sodný, který se v kyselém prostředí mění na kyselinu mravenčí
+			- oxidací methanolu
+		- výskyt
+			- tělo mravenců
+			- kopřivy
+			- včelí jed
+		- využití
+			- dezinfekce
+			- konzervování
+			- lékařství
+	- **kyselina octová** $CH_3COOH$
+		- bezbarvá kapalina štiplavého zápachu s leptavými účinky
+		- významná biogenní látka
+			- derivát acetylkoenzym A (aceylCoA)
+		- výroba
+			- chemická syntéza z methanolu přídavkem jodovodíku (třístupňová)
+			- biologická cesta
+				- kvasnou cestou z ethanolu (bakterie octového kvašení *Acetobacter*) na bukových hoblinách
+				- $CH_3CH_2OH+O_2\to CH_3COOH+H_2O$

@@ -1,8 +1,8 @@
 - obecný vzorec RX
 - jeden nebo více vodíků nahrazen halogenem
 - názvosloví
-	- alkylhalogenid 
-		- př. jodmethan 
+	- alkylhalogenid
+		- př. jodmethan
 	- halogenuhlovodík
 		- př. methyljodid
 	- při číslování halogenderivátů mají skupiny halogeny přednost před uhlovodíkovými zbytky
@@ -43,7 +43,7 @@
 		- $2CH_{3}Br + 2Na \to CH_{3}-CH_{3} + 2NaBr$
 		- $CH_{3}Br + NaOH \to CH_{3}OH + NaOH$
 	- polymerace
-		- $n CF_{2}=CF_{2} \to [CF_{2}-CF_{2}]_{n}$ 
+		- $n CF_{2}=CF_{2} \to [CF_{2}-CF_{2}]_{n}$
 - důležití zástupci
 	- organická rozpouštědla
 	- anestetika
@@ -74,4 +74,3 @@
 		``` smiles
 		c1cc(-Cl)ccc1-c-c2ccccc2
 		```
-		

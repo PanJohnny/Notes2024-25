@@ -56,3 +56,9 @@
 	- byla
 	- byla to další součást války co znamenala utrpení pro i mimoevropské obyvatelstvo
 	- jiná datace: 1937 - 1945
+- holocaust
+	- akce v koncentračních táborech
+- šoa
+	- používají židé pro sebe
+- genocida
+	- běžný termín

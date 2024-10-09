@@ -23,6 +23,8 @@
 - Arché = pralátka - z čeho všechno vzniklo
 
 ## Antická filozofie
+
+### Mílétská škola
 - Hýlé - voda - Thales z Miletu
 - Thales
 	- snad první filozof
@@ -30,3 +32,18 @@
 	- Anaximandros
 		- učeň Thaleta
 		- snad první mapař Země
+- Anaximenés
+	- pralátka je vzduch
+
+### Pythagorejci
+- Pythagoras
+	- arché = čísla
+	- kosmos
+		- původně označení pro šperk
+		- vnímá jako neustálý pohyb+zvuk
+- i ženy
+- až okultistické chování
+- nakonec rozpuštěni
+
+### Hérakleitos z Efesu
+-

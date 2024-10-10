@@ -39,3 +39,7 @@ $$
 W = q \cdot (\varphi_{2} - \varphi_{1}) = q \cdot U && [J]
 \end{align}
 $$
+
+---
+
+****

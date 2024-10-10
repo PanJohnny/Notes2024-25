@@ -27,18 +27,18 @@
 		- mléčné
 			- největší žláza
 			- přeměněná potní
-	- rohovité útvary
+		- rohovité útvary
 		- srst
 			- chlupy vyrůstají z chlupových váčků ve škáře
 			- tvořené keratinem
 			- tepelná izolace
 			- dělí se
 				- podsada
-					- jemné spodní ochupení
+					- jemné spodní ochlupení
 					- izolace
 				- pesíky
 					- zevní krycí chlupy
-					- často zbarvené k splývýní s okolím
+					- často zbarvené k splývání s okolím
 			- metamorfózy
 				- hmatové vousy, bodliny, řasy, ...
 			- u mnoha druhů sezóní výměna chlupů = línání
@@ -82,13 +82,13 @@
 #### CS
 - plicní, tělní a vrátnicový oběh
 - čtyřdílné srdce
-	- zcela oddělěná pravá a levá strana 
+	- zcela oddělěná pravá a levá strana
 		- otvor mezi komorami pouze v zárodečném stádiu
 - zachován pouze levý aortální oblouk
 	- vyšší tlak krve
 - bezjaderné červené krvinky
 	- váží více kyslíku
-- funkce 
+- funkce
 	- transportní
 	- významný podíl na vyrovnání tělní teploty
 		- další mechanismy na vyrovnání teploty
@@ -123,7 +123,7 @@
 - zajišťuje řízení organismu pomocí hormonů
 #### NS
 - dělí se
-	- CNS 
+	- CNS
 		- mozek a mícha
 	- obvodové nervy
 - rozvoj mozkové kůry
@@ -138,9 +138,9 @@
 	- koncový mozek
 #### SS
 - u mnoha savců je dominantní čich
-	- čichové buňky 
+	- čichové buňky
 		- na stropě nosní dutiny
-		- někdy zachován i Jacobsonů orgán 
+		- někdy zachován i Jacobsonů orgán
 			- hlodavci, šelmy, kopytníci
 - sekundárně může být vedoucím smyslem sluch, hmat nebo zrak
 - zrak

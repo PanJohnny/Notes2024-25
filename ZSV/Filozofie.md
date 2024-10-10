@@ -46,4 +46,12 @@
 - nakonec rozpuštěni
 
 ### Hérakleitos z Efesu
--
+- oheň
+- boj protikladů
+- vše plyne
+- proces proměny
+- dialektika
+	- způsob filozofování
+	- 2 protiklady
+- bytí vs nebytí
+- ničení → nové

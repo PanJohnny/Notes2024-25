@@ -33,7 +33,7 @@
 				- spojení dvou aldehydů či ketonů v jednu sloučeninu - **aldol**
 				- musí mít $\alpha$-vodíky
 				- obvykle probíhá za alkalické katalýzy
-		- oxidace
+		- oxidacemezomerní
 			- u aldehydů probíhá snadno
 			- produktem jsou karboxylové sloučeniny
 			- u ketonů obtížněji

@@ -83,3 +83,41 @@ C(=o)(-o)-*
 			- biologická cesta
 				- kvasnou cestou z ethanolu (bakterie octového kvašení *Acetobacter*) na bukových hoblinách
 				- $CH_3CH_2OH+O_2\to CH_3COOH+H_2O$
+		- využití
+			- příprava různých esterů
+				- ethylacetát
+					- výborné rozpouštědlo
+				- vinylacetát
+					- výroba polyvinylacetátu a acetátu celulozy, z nichž se vyrábí textilní vláknina
+			- 8% ocet
+			- soli
+				- octan sodný
+					- organická syntéza
+				- octan hlinitý
+					- lékařství
+				- octan železitý a chromitý
+					- barvení tkanin
+	- **kyselina máselná** $CH_3CH_2CH_2COOH$
+		- mastné kyseliny
+		- olejovitá odporně páchnoucí kapalina (žluklý tuk)
+		- ve formě esteru s glycerolem přítomna v másle
+	- **kyselina palmitová** $C_{15}H_{31}COOH$ a **kyselina stearová** $C_{17}H_{35}COOH$
+		- vyšší mastné kyseliny
+		- estery s glycerolem přítomny v tucích a olejích
+		- zásaditou hydrolýzou jejich esterů vznikají jejich mýdla
+			- sodné nebo draselné soli
+	- **kyselina šťavelová** $HOOC - COOH$
+		- nejjednodušší dikarboxylová kyselina
+		- krystalická jedovatá látka
+		- vyskytuje se prakticky ve veškerém ovoci a zelenině
+			- způsobuje kyselost
+		- šťavel vápenatý
+			- ledvinové kameny
+		- využití: odměrná analýza
+	- **kyselina ftalová**
+		- krystalická látka
+		- výroba hydrolýzou anhydridu (ftalanhydrid)
+			- zvratná reakce
+		- využití:
+			- výroba syntetických pryskyřic
+			- estery jsou změkčovadla pro PVC

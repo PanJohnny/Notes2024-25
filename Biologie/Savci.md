@@ -59,7 +59,7 @@
 	- jednotlivé kosti na lebce jsou spojeny švy
 		- jediná pohyblivá část je dolní čelist
 	- do čelistí jsou vklíněné zuby
-		- vzhled a stavba zubů se druhově liší
+		- vzhled a stavba zubů se druhově lkončetinyiší
 - kostra končetin
 	- stavba je shodná s jinými suchozemskými obratlovci
 	- připojení končetin k osové kostře pomocí pletence

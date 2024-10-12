@@ -2,7 +2,10 @@
 [[Karbonylové sloučeniny]]
 [[Karboxylové kyseliny]]
 
-
+>>https://www.chemicalaid.com/tools/organic-iupac-naming.php?hl=en
+```
+stránka na generování sytematických názvů v organice
+```
 > **Kyselina mravenčí** $HCOOH$
 > **Kyselina octová** $CH_3COOH$
 > **Kyselina máselná** $CH_3CH_2CH_2COOH$

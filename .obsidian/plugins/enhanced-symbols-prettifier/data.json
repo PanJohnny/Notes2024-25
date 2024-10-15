@@ -3,8 +3,7 @@
     "->": {
       "replaced": "->",
       "value": "→",
-      "group": "Arrows",
-      "count": 1
+      "group": "Arrows"
     },
     "<-": {
       "replaced": "<-",
@@ -170,7 +169,8 @@
     ">>": {
       "replaced": ">>",
       "value": "≫",
-      "group": "Mathematical Operators"
+      "group": "Mathematical Operators",
+      "count": 2
     },
     "||": {
       "replaced": "||",

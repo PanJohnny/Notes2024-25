@@ -263,3 +263,25 @@
 	- Francouzština
 		- cca 25 %
 		- oblast Quebecu
+
+## Nerostné suroviny
+- zlato, rtuť, měď, sůl, ...
+
+## Hospodářství
+- 60% elektřiny z vodních elektráren
+- 10% jaderné elektráren
+- automobily - koncerny Ford a General motors
+- Quebec - 60% leteckého průmyslu
+- Alberta - petrochemie
+- výroba hliníku - 3. na světě
+- dřevozpracující průmysl
+- potravinářství - hlavně maso, mléko a ryby
+
+## Doprava
+- nejdůležitějsí železniční
+- lodní
+
+## Oblasti
+- Toronto
+- Montreal
+- Nunavut

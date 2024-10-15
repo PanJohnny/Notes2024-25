@@ -1,4 +1,4 @@
-01# 1. Symbolismus
+# 1. Symbolismus
 =  názor generace umělců na konci 19. století
 - umělecký směr projevující se ve výtvarném umění a literatuře
 - vzniká jako reakce na naturalismus

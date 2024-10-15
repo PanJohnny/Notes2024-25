@@ -55,3 +55,10 @@
 	- 2 protiklady
 - bytí vs nebytí
 - ničení → nové
+
+### Elejská škola
+- město v jižní Itálii
+- "starší fyzikové"
+- Xenofanes
+	- zakladatel
+	- bytí je neproměnlivé

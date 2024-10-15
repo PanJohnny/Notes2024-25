@@ -62,3 +62,9 @@
 - Xenofanes
 	- zakladatel
 	- bytí je neproměnlivé
+- Parmenides
+	- bytí je, nebytí není
+	- neexistuje prázdný prostor
+		- není pohyb
+		- nejsou otázky
+	- ontologie

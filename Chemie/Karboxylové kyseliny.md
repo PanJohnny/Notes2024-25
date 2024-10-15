@@ -106,6 +106,16 @@ C(=o)(-o)-*
 		- estery s glycerolem přítomny v tucích a olejích
 		- zásaditou hydrolýzou jejich esterů vznikají jejich mýdla
 			- sodné nebo draselné soli
+	- **kyselina adipová** $HOOC-(CH_{2})_{4}-COOH$
+		- důležitá surovina pro výrobu syntetických vláken (nylon)
+		- zahříváním se přeměňuje v cyklopentanon
+	- **kyselina maleinová $HOOC-CH=CH-COOH$
+		- vyrábí se hydrolýzou svého anhydridu (maleinanhydridu)
+			- zvratná reakce
+		- k výrobě polyeterových vláken
+		- *cis*-izomer
+	- **kyselina fumarová**
+		- *trans*-izomer kyseliny maleinové
 	- **kyselina šťavelová** $HOOC - COOH$
 		- nejjednodušší dikarboxylová kyselina
 		- krystalická jedovatá látka
@@ -114,6 +124,14 @@ C(=o)(-o)-*
 		- šťavel vápenatý
 			- ledvinové kameny
 		- využití: odměrná analýza
+	- **kyselina benzoová**
+		- nejjednodušší aromatická kyselina
+		- bezbarvá krystalická
+		- výroba oxidací toluenu
+		- využití
+			- konzervační činidlo v potravinách
+			- syntézy aromatických sloučenin
+			- léčba kožních infekcí
 	- **kyselina ftalová**
 		- krystalická látka
 		- výroba hydrolýzou anhydridu (ftalanhydrid)
@@ -124,6 +142,18 @@ C(=o)(-o)-*
 >kyselina máselná
 ```smiles
 oc(=o)ccc
+```
+>kyselina adipová
+```smiles
+O=C(O)CCCCC(=O)O
+```
+>kyselina maleinová
+```smiles
+O=C(O)\C=C/C(=O)O
+```
+>kyselina fumarová
+```smiles
+C(=C/C(=O)O)\C(=O)O
 ```
 >kyselina palmitová
 ```smiles
@@ -137,7 +167,40 @@ oc(=o)ccccccccccccccccc
 ```smiles
 OC(=O)C(O)=O
 ```
+>kyselina benzoová
+```smiles
+c1(=o)(o)ccccc1
+```
 >kyselina ftalová
 ```smiles
 C(=O)(O)c1ccccc1C(O)=O
 ```
+# Deriváty karboxylových sloučenin
+## funkční
+- odvozeny změnou karboxylové skupiny původní kyseliny odštěpením $-H$ nebo $-OH$
+>sůl
+```smiles
+*-C(=o)-o-[Fe]
+```
+>ester
+```smiles
+*-c(=O)-o-[E]
+```
+>halogenderivát
+```smiles
+*-C(=o)-o-[X]
+```
+>amid
+```smiles
+*-c(=o)-[NH2]
+```
+>anhydrát
+```smiles
+*-C(=O)-o-C(=O)-*
+```
+- způsoby pojmenovávání
+	- systematické názvosloví
+	- triviální názvosloví
+	- opisem přes název kyseliny
+## substituční
+- odvozeny náhradou jednoho nebo více atomů vodíků v uhlíkovém řetězci karboxylové kyseliny jiným atomem

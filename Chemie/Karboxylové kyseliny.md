@@ -121,3 +121,23 @@ C(=o)(-o)-*
 		- využití:
 			- výroba syntetických pryskyřic
 			- estery jsou změkčovadla pro PVC
+>kyselina máselná
+```smiles
+oc(=o)ccc
+```
+>kyselina palmitová
+```smiles
+oc(=o)ccccccccccccccc
+```
+>kyselina stearová
+```smiles
+oc(=o)ccccccccccccccccc
+```
+>kyselina šťavelová
+```smiles
+OC(=O)C(O)=O
+```
+>kyselina ftalová
+```smiles
+C(=O)(O)c1ccccc1C(O)=O
+```

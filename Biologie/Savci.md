@@ -27,7 +27,7 @@
 		- mléčné
 			- největší žláza
 			- přeměněná potní
-		- rohovité útvary
+	- rohovité útvary
 		- srst
 			- chlupy vyrůstají z chlupových váčků ve škáře
 			- tvořené keratinem
@@ -54,7 +54,7 @@
 		- křížová
 		- ocasní
 - lebka
-	- část obličejová a omzková
+	- část obličejová a mozkováf
 	- bikondylní
 	- jednotlivé kosti na lebce jsou spojeny švy
 		- jediná pohyblivá část je dolní čelist

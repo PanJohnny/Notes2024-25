@@ -1,0 +1,89 @@
+- fylogenetickým vývojem člověka se zabývají antropologové
+- evoluční pohled vychází z Darwinovy evolučnií teorie a je dokládán paleontologickými nálezy z třetihor a čtvrtohor
+- určování stáří nálezů
+	- přímými metodami
+		- založeny na znalostech poločasu rozpadu radionuklidů uhlíku C14
+	- nepřímými metodami
+		- rozbor nálezů doprovodné fauny a flóry z určitého naleziště
+## Taxonomické zařazení člověka
+- říše: živočichové
+- kmen: strunatci
+- podkmen: obratlovci
+- třída: savci
+- podtřída: živorodí
+- nadřád: placentálové
+- řád: primáti
+- oddělení: úzkonosí
+- nadčeleď: hominoidea
+- čeleď: hominidé
+- rod: homo (člověk)
+- druh: sapiens
+- poddruh: sapiens
+## Porovnání člověka s dalšími savci
+- shodné znaky
+	- stálá tělní teplota
+	- tělo tvořené kostrou
+		- osou je páteř z obratlů
+	- rodí živá mláďata
+		- po narození sají mateřské mléko
+- odlišné znaky
+	- vzpřímená postava
+	- chůze po dvou končetinách
+	- rozvoj mozku
+		- schopnost myslet
+		- dorozumívání řečí
+		- předávání zkušeností
+		- práce a život složitým společenským způsobem
+- společný vývoj s ostatními savci dokládají
+	- rudimenty
+		- = zakrnělé útvary v lidském těle, které ztratily svoji původní funkci
+		- př.: kostrč, zub moudrosti, slepé střevo
+	- atavismy
+		- = znaky, které již u člověka vymizely, ale mohou se vyjímečně objevit
+		- př.: nadměrné ochlupení, větší počet prsních bradavek
+## Vývoj člověka
+- složitý a dlouhodobý proces, provázený řadou změn
+- začal před asi 30 mil. let
+- Hlavní procesy vývoje
+	- proces sapientace
+		- změny v nervové soustavě a chování
+		- vznik řeči, myšlení, složitý sociální život
+		- II. signální soustava
+			- utváření představ pomocí slovního popisu
+		- kulturní chování
+			- tradice, rituály, pohřbívání mrtvých
+	- proces hominizace
+		- postupné anatomické změny
+		- napřímení postavy + dvojesovité prohnutí páteře
+		- předozadní zploštění hrudníku
+		- uvolnění horních končetin
+			- zlepšení pohyblivosti
+			- uchopování
+			- zjemnění motoriky
+		- přizpůsobení dolních končetin pro chůzi po dvou
+			- prodloužení stehenních kostí a kostí bérce
+			- změna tvaru pánce
+		- změny na lebce
+			- převaha mozkové části nad obličejovou
+			- zvětšování bradového výběžku
+			- posunutí týlního otvoru dolů
+			- zmenšení špičáků
+### Vývojová linie směřující k člověku
+- za místo vzniku prvních přechůdců považujeme Afriku
+- **Aegyptolopithecus**
+	- před 30 mil. let
+	- nálezy z Egypta
+	- společný předchůdce úzkonosích opic a lidoopů
+	- měl některé znaky větve Hominoidea
+		- např. zubní vzorec
+	- asi 5 kg
+- **Proconsul**
+	- před 20 mil. let
+	- hmotnost až 40 kg, výška 100 cm
+- **Dryopithecus**
+	- před 12 - 9,5 mil let
+	- východní Afrika, Evropa, Asie
+	- asi 35 kg
+	- nejstarší známý vyhynulý lidoop
+	- přes velkou podobnost není jeho pozice v linii zcela jasná
+- 

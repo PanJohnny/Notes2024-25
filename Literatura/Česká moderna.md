@@ -1,0 +1,29 @@
+- přelom 19. a 20. století
+	- společnost prochází změnami
+		- diferenciace majetková i názorová
+	- urbanizace
+	- radikalizace mladších lidí
+		- generační konflikty
+	- zápas s Vídní
+	- v krizi je politika staročechů i mladočechů
+	- výtvarné umění
+		- impresionismus
+		- symbolismus
+		- secese
+	- generace
+		- Česká moderna
+		- buřiči
+		- dekadentně zaměření spisovatelé
+		- autoři katolické orientace
+# 1. Česká moderna
+- 90. léta 19. století
+- volné seskupení mladých spisovatelů a politických žurnalistů
+- bez jednotného programu
+- otázky umělecké, politické a sociální
+- kritické postoje ke starší generaci (ruch, lum)
+- nespokojenost s konzervama
+- krátké trvání skupiny
+- "otevírání oken do Evropy"
+- symbolismus + impresionismus + naturalismus
+- Machar + Šalda + Březina + Sova + Mrštík + Šlejhar
+- Manifest české moderny

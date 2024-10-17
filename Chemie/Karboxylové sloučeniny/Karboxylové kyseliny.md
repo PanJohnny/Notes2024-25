@@ -175,32 +175,3 @@ c1(=o)(o)ccccc1
 ```smiles
 C(=O)(O)c1ccccc1C(O)=O
 ```
-# Deriváty karboxylových sloučenin
-## funkční
-- odvozeny změnou karboxylové skupiny původní kyseliny odštěpením $-H$ nebo $-OH$
->sůl
-```smiles
-*-C(=o)-o-[Fe]
-```
->ester
-```smiles
-*-c(=O)-o-[E]
-```
->halogenderivát
-```smiles
-*-C(=o)-o-[X]
-```
->amid
-```smiles
-*-c(=o)-[NH2]
-```
->anhydrát
-```smiles
-*-C(=O)-o-C(=O)-*
-```
-- způsoby pojmenovávání
-	- systematické názvosloví
-	- triviální názvosloví
-	- opisem přes název kyseliny
-## substituční
-- odvozeny náhradou jednoho nebo více atomů vodíků v uhlíkovém řetězci karboxylové kyseliny jiným atomem

@@ -26,3 +26,4 @@
 	- opisem přes název kyseliny
 # Substituční
 - odvozeny náhradou jednoho nebo více atomů vodíků v uhlíkovém řetězci karboxylové kyseliny jiným atomem
+- 

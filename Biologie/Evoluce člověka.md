@@ -86,4 +86,94 @@
 	- asi 35 kg
 	- nejstarší známý vyhynulý lidoop
 	- přes velkou podobnost není jeho pozice v linii zcela jasná
-- 
+- **Ardipithecus**
+	- před 5,8 - 4,4 mil let
+	- 120 cm
+	- 50 kg
+	- vzpřímená chůze ještě nebyla dobrá
+- **Australopithecus**
+	- před 4 - 1,2 mil let
+	- změny na kostře směřují k člověku
+	- kapacita mozkovny $380-500 cm^3$
+	- pohyboval se po dvou končetinách
+	- živil se rostlinnou potravou a drobnými živočichy
+	- žil v tlupách
+	- používal kostěné nástroje
+	- 2 formy
+		- drobnější typ
+			- přechůdci rodu Homo (yes homo)
+			- 115 - 130 cm
+			- 25 - 40 kg
+			- zástupci
+				- australopithecus africanus
+				- australopithecus afarensis
+		- robustní typ
+			- slepá vývojová větev (no homo)
+			- 135 - 160 cm
+			- 50 - 70 cm
+			- zástupci
+				- Australopithecus robustus
+				- Australopithecus boisei
+					- současník homo habilise
+- **Zástupci rodu homo**
+	- **Homo habilis**
+		- člověk zručný
+		- před 2,3 - 1,4 mil let
+		- východní Afrika
+		- 120 - 150 cm
+		- 30 - 40 kg
+		- mozkovna $600-650 cm^3$
+		- pohyboval se vzpřímeně
+		- žil v tlupách
+		- vyráběl primitivní kamenné nástroje a jednoduché příbytky
+		- sběrač a lovec
+	- **Homo erectus**
+		- člověk vzpřímený
+		- před 1,8 - 0,35 mil let
+		- Afrika, Asie, Evropa
+		- 150 - 170 cm
+		- 40 - 70 kg
+		- mozkovna $900-1250 cm^3$
+		- vzpřímená postava
+		- kolektivní lov
+		- primitivní řeč
+		- rozvoj mozku a vědomí
+		- používal oheň
+	- **Homo heidelbergensis**
+		- před 600 - 250 tis let
+		- mozkovna $1100 - 1400 cm^3$
+		- sběrači a lovci
+		- žili v organizovaných tlupách
+		- vyráběli kamenné nástroje, dřevěné oštěpy, běžně používali oheň
+		- lebka s velkými nadočnicovými valy
+			- podobná lebce Homo erectus, ale větší mozek
+		- možný předek neandrtálce v Evropě a Homo sapiens v Africe
+	- **Homo neanderthalensis**
+		- neandrtálec
+		- před 300 - 30 tis let
+		- Evropa, Asie
+		- 165 cm
+		- robustní postava s masivní lebkou
+		- mozkovna $1200 - 1750 cm^3$
+		- lovil velká zvířata
+		- vyspělejší kultura
+			- pochovávání mrtvých
+			- rodová společnost
+			- schopnost dorozumět se
+		- vymřel ⇒ slepá vývojová větev
+	- **Homo sapiens**
+		- člověk moudrý
+		- před 160 tis lety v Africe
+		- před 45 tis lety v Evropě
+		- 160 - 180 cm
+		- mozkovna $1400-1500 cm^3$
+		- menší nadočnicové oblouky
+		- vytvořen bradový výběžek
+		- vznik abstraktního myšlení a řeči
+		- vytvářel organizované společnosti
+	- **Homo sapiens sapiens**
+		- anatomicky moderní člověk
+		- nejstarší zástupce - Kromaňonec = člověk předvěký (40 - 10 tis let)
+		- vyráběl nástroje, zbraně, umělecké předměty, tvořil jeskynní malby
+		- artikulovaná řeč
+		- pěstování plodin, budování obydlí

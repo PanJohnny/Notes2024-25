@@ -282,6 +282,7 @@
 - lodní
 
 ## Oblasti
+
 - Toronto
 - Montreal
 - Nunavut

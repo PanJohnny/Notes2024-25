@@ -1,0 +1,39 @@
+- mluví Španělsky či Portugalsky
+- Mexico a níž
+- banánové republiky
+	- významný artikl
+- ostrovy
+	- Malé antily
+		- např. Barbados, Grenada, sv. Lucie
+	- Velké antily
+		- Kuba
+		- Jamajka
+		- Portoriko
+		- Hispaniola
+- Jižní Amerika
+	- velká zásoba nerostných surovin
+		- Měď, cín, zinek, zlato...
+- přírodní rizika
+	- sesuvy
+	- hurikány
+- ropa a zemní plyn
+- Brazílie
+	- železné ruda
+	- bauxit
+	- cín
+	- diamanty
+- Mexiko a Peru
+	- těžba stříbra
+- Amazonie
+	- 5 mil $km^2$
+	- Amazonská nížina
+	- kácení pralesa - těžba, stavby komunikací
+	- vysoká biodiverzita
+	- pohoří
+		- Andy
+		- Brazilská vysočina
+		- Guyanská vysočina
+	- nížiny
+		- Amazonská
+		- Laplatská
+		- Orinocská

@@ -8,8 +8,12 @@
 				- neurčitý
 				- všeobecný
 				- nevyjádřený
-		- přísudek
+		- přísudek (predikát)
 			- činnost / stav
+			- podřizuje se podmětu
+			- druhy:
+				- slovesný jednoduchý (Maminka vaří oběd. Kdybychom se byli připravili, zkoušku bychom vykonali.)
+				- 
 	- rozvíjející
 		- přívlastek
 			- blíže určuje podstatné jméno

@@ -1,15 +1,8 @@
+## Základní informace
 - mluví Španělsky či Portugalsky
 - Mexico a níž
 - banánové republiky
 	- významný artikl
-- ostrovy
-	- Malé antily
-		- např. Barbados, Grenada, sv. Lucie
-	- Velké antily
-		- Kuba
-		- Jamajka
-		- Portoriko
-		- Hispaniola
 - Jižní Amerika
 	- velká zásoba nerostných surovin
 		- Měď, cín, zinek, zlato...
@@ -29,6 +22,9 @@
 	- Amazonská nížina
 	- kácení pralesa - těžba, stavby komunikací
 	- vysoká biodiverzita
+
+## Geografické prvky
+profil
 	- pohoří
 		- Andy
 		- Brazilská vysočina
@@ -37,3 +33,54 @@
 		- Amazonská
 		- Laplatská
 		- Orinocská
+- vodstvo
+	- vodstvo
+		- Amazonka
+			- nejvodnatější a nejdelší řeka na světě
+			- delta
+		- Río de la Plata
+			- největší nálevkovité ústí
+	- jezera
+		- Titicaca
+			- vysokopoložené
+		- Maracaibo
+			- lagunové jezero
+- členitost
+	- Střední Amerika
+		- poloostrovy: Yucatán, Kalifornský poloostrov
+		- zálivy: Kalifornský záliv
+		- moře: Mexický záliv, Karibské moře
+		- šíje: Tehnantepecká šíje, Panamská šíje
+		- ostrovy
+			- Malé antily
+				- např. Barbados, Grenada, sv. Lucie
+			- Velké antily
+				- Kuba
+				- Jamajka
+				- Portoriko
+				- Hispaniola
+			- Bahamy
+			- Bermudy
+	- Jižní Amerika
+		- misy:
+			- S - mys Gallinas
+			- V - mys Branco
+			- Z - mys Pariñas
+			- J - mys Horn
+		- ostrovy:
+			- Falklandy / Malvíny
+			- Galapágy
+			- Velikonoční ostrovy
+
+## Historické souvislosti
+- Předkolumbovské období
+- Panamský průplav
+
+## Obyvatelstvo
+- 650 mil
+- 1950 - 1970 - boom (x2)
+- pestrá rasové struktura
+- Mulati
+- Mestici
+- Zambové
+- rozvojová jídra - aglomerace: Sao Paolo a Rio de Janerio, Mexico City

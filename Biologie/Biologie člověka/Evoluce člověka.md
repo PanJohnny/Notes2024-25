@@ -165,6 +165,7 @@
 		- člověk moudrý
 		- před 160 tis lety v Africe
 		- před 45 tis lety v Evropě
+		- =
 		- 160 - 180 cm
 		- mozkovna $1400-1500 cm^3$
 		- menší nadočnicové oblouky

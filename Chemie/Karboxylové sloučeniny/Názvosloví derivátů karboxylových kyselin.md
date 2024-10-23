@@ -23,7 +23,7 @@ dimethyl-oxalyát dimethyl-ethandioát
                                          dimethylester kyseliny šťavelové ^6pGOgRM0
 
 ## Embedded Files
-1cb0f2149b8a93bfbc219cf00ff9f786cc0b8d27: [[Document_2024-10-17_081408.pdf#page=1]]
+1cb0f2149b8a93bfbc219cf00ff9f786cc0b8d27: [[Chemie/Document_2024-10-17_081408.pdf#page=1]]
 
 %%
 ## Drawing

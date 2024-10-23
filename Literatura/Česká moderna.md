@@ -27,3 +27,7 @@
 - symbolismus + impresionismus + naturalismus
 - Machar + Šalda + Březina + Sova + Mrštík + Šlejhar
 - Manifest české moderny
+	- napsáno 1985
+	- autoři: F. X. Šalda, J. S. Machar
+	- další významní signatáři: A. Sova, O. Březina, V. Mrštík, J. K. Šlejhar
+	- 

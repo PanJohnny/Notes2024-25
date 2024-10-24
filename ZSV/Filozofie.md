@@ -68,3 +68,28 @@
 		- není pohyb
 		- nejsou otázky
 	- ontologie
+- dichotomie → dělení
+- aporije → důkaz rozpůlení (debilové)
+- smysly - klamou, rozum - věřte tomu
+
+### Předchůdci atomistů
+- základ světa = pohyb
+- možnost pohybu = podstata světa
+- Emperokles
+	- 4 prvky jsoucna
+		- země
+		- oheň
+		- voda
+		- vzduch
+	- magor - samolibý bůh
+- Anaxagoras
+	- semena
+		- nekonečno věcí
+		- dřevěná, vlněná
+		- vše z toho je
+		- diferentní
+		- neměná
+			- natrvao
+		- hybný princip = NÚS
+			- rozum
+		- vše je ve všem

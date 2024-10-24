@@ -1,11 +1,11 @@
-## Základní informace
+# Základní informace
 - mluví Španělsky či Portugalsky
 - Mexico a níž
 - banánové republiky
 	- významný artikl
 - Jižní Amerika
 	- velká zásoba nerostných surovin
-		- Měď, cín, zinek, zlato...
+		- Měď, cín,[[Kapacita]] zinek, zlato...
 - přírodní rizika
 	- sesuvy
 	- hurikány
@@ -84,3 +84,27 @@ profil
 - Mestici
 - Zambové
 - rozvojová jídra - aglomerace: Sao Paolo a Rio de Janerio, Mexico City
+
+## Hospodářství
+- průměrně úspěšný makroregion - 7,5% HDP světa
+- HDP na obyvatele 16 000 USD
+- Největší úspěch Argentina a Chile
+- Mexiko a Brazílie - velká dynamika
+
+## Zemědělství
+- plantážní zemědělství
+	- káva
+	- sója
+- cukrová třtina
+- bavlna a vlna
+- ovoce
+	- pomeranče
+	- banány
+	- ananasy
+
+# Mexiko
+- cca 2 mil $km^2$
+- cca 130 mil obyvatel
+- Středoamerický příkop 6000 metrů
+- zemětřesení a sopečná činnost
+- 

@@ -1,0 +1,14 @@
+- kondenzátor
+	- hromadění náboje ⇒ vtlačení → konáme práci
+	- připojením kondenzátoru ke zdroji koná zdroj práci, aby nahromadil v kondenzátoru náboj
+	- $E = \frac{1}{2}\cdot C\cdot U^2$
+	- $(Q = C\cdot U)$
+	- $E=\frac{1}{2}\cdot Q\cdot U=\frac{1}{2}\frac{Q^2}{C}$
+- libovolný obvod, kde teče proud
+	- $E=U\cdot I \cdot t$
+	- $\left( I=\frac{U}{R} \right)$
+	- $E=\frac{{U^2}}{R}\cdot t = I^2\cdot R\cdot t$
+	- tím, že elektrony narážejí do iontů vodiče mu předávají energii ⇒ víc kmitají ==> roste teplota vodiče
+		- Jouleovo teplo (část z energie toku el. proudu)
+			- autosedačky, rychlovarné konvice
+- $P=\frac{E}{t}={U\cdot I}$

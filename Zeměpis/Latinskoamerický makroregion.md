@@ -5,7 +5,7 @@
 	- významný artikl
 - Jižní Amerika
 	- velká zásoba nerostných surovin
-		- Měď, cín,[[Kapacita]] zinek, zlato...
+		- Měď, cín, zinek, zlato...
 - přírodní rizika
 	- sesuvy
 	- hurikány
@@ -107,4 +107,33 @@ profil
 - cca 130 mil obyvatel
 - Středoamerický příkop 6000 metrů
 - zemětřesení a sopečná činnost
+<<<<<<< HEAD
 -
+=======
+	- desky
+
+## Povrch
+- Sierra Madre Oriental a Occidental
+	- Kordilery
+- náhorní plošina ve výšce 2000 m
+- J - vulkány
+- **Pio de Orizaba (Citlaltépetl)**
+- **Popocatápetl**
+- poloostrov Yucatán
+
+## Klíma
+- subtropický - S
+- tropický - J
+
+## Řeci a vody
+- Rio Grande
+- Mezoamerický korálový útes
+
+## Benito Jaréz
+- zakladatel Mexika
+- indiánský 1. prezident
+
+## Drogová válka
+- dlouhodobý ozbrojený konflikt mezi vládou Mexika a drogovými kartely
+- 
+>>>>>>> origin/main

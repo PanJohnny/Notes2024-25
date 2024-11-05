@@ -107,4 +107,4 @@ profil
 - cca 130 mil obyvatel
 - Středoamerický příkop 6000 metrů
 - zemětřesení a sopečná činnost
-- 
+-

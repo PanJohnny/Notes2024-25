@@ -30,4 +30,16 @@
 	- napsáno 1985
 	- autoři: F. X. Šalda, J. S. Machar
 	- další významní signatáři: A. Sova, O. Březina, V. Mrštík, J. K. Šlejhar
-	- 
+## Josef Svatopluk Machar
+- 1864 - 1942
+- básník, prozaik, publicista (fejetony)
+- **spoluautor** Manifestu
+- **kritizuje Hálka**
+- důraz na individualitu
+- střízlivý **realista** (civilní poezie)
+- využil hovorový jazyk + sarkasmus
+- politická lyrika
+- sonety (ne milostné)
+- dílo:
+	- Magdaléna - veršovaný román
+	- Zde by měla kvést růže - veršované povídky

@@ -74,7 +74,7 @@
 		- Chicago
 		- Pitsburg
 - nerovnoměrné rozmístění
-	- závislé na přírodních podmínkách
+	- závislé na přírodních podmínkách- nejvyšší střední délka života 77/82
 
 # USA
 - rozloha: 9,5 mil $km^2$

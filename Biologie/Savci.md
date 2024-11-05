@@ -212,3 +212,5 @@
 		- s ní spojen pupeční šňůrou
 		- po porodu je placenta vyloučena z těla a často sežrána nebo zahrabána
 			- ochrana mláďat před predátory
+
+[[Člověk]]

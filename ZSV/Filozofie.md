@@ -24,6 +24,16 @@
 
 ## Antická filozofie
 
+| Škola                  | Arché nebo téma                                                            | Zástupci                                 | Klíčové informace                                                                                                                                                                                                  |
+| ---------------------- | -------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Mílétská               | hýlé = voda,<br>apeiron = někonečná věc,<br>vzduch                         | Thales, <br>Anaximandros, <br>Anaximenés | Thales snad 1.                                                                                                                                                                                                     |
+| Pythagorejci           | čísla                                                                      | Pythagoras                               | kult, kosmos ⇒ neustálý pohyb a zvuk                                                                                                                                                                               |
+| Hérakleitos            | oheň                                                                       | Hérakleitos z Efesu                      | boj protikladů (dialektika), vše plyne                                                                                                                                                                             |
+| Elejská                | zabývá se bytím<br>(= ontologie)<br><br>smysly klamou,<br>poznávej rozumem | Xenofanes, Parmenides                    | X.: bytí je neproměnlivé,<br>  kritika l. představ o bozích<br>P.: bytí je, nebytí není;<br>   neexistuje prázdný prostor,<br>   není pohyb, nejsou otázky<br><br>dichotomie - dělení<br>aporije - důkaz rozdělení |
+| Předchůdci<br>atomistů | pohyb (možnost se hýbat)<br>                                               | Emperokles,<br>Anaxagoras                | E.: 4 prvky jsoucna:<br>  země, oheň, voda, vzduch<br>A.: ve všem jsou semena ∞,<br>  pohyb, vše je ve všem                                                                                                        |
+| Atomisté               | vše má důvod,<br>atom a prázdno,<br>nepočítají s bohy                      | Leukipos,<br>Démokritos                  | L.: 1 fragment, žák Zenona<br>D.: prázdno = nejsoucno,<br>  ataraxie (Klopacz facebook),<br>                                                                                                                       |
+
+
 ### Mílétská škola
 - Hýlé - voda - Thales z Miletu
 - Thales
@@ -62,6 +72,7 @@
 - Xenofanes
 	- zakladatel
 	- bytí je neproměnlivé
+	- kritika lidských představ o bozích
 - Parmenides
 	- bytí je, nebytí není
 	- neexistuje prázdný prostor
@@ -72,7 +83,7 @@
 - aporije → důkaz rozpůlení (debilové)
 - smysly - klamou, rozum - věřte tomu
 
-### Předchůdci atomistů
+### Předchůdci atomistů (mladší fyzikové)
 - základ světa = pohyb
 - možnost pohybu = podstata světa
 - Emperokles
@@ -99,11 +110,22 @@
 	- zakladatel
 	- žák Zenona
 	- dochován jen 1 fragment, princip kauzality
-- Demokritos
+		- "vše vzniká z nějakého důvodu a nutnosti"
+	- možná neexistoval
+- Démokritos
 	- žák Leukippa
-	- smál se
+	- hlučný smích
 	- cestoval
 	- přírodní vědy
 	- (60 spisů)
 	- dobrovolně oslepen ⇒ ženy nebo taky vědomí
-- vše je z **atomů** a **prázdna**
+	- vše je z **atomů** a **prázdna**
+	- prázdnou = nejsoucnu
+	- atomy jsou neviditelné, dělí se na druhy, mají svou funkci, tvar, barvu, hustotu a pach
+	- zabývá se v etice ataraxií = ideál duševního klidu **(Klopacz vibes)**
+		- každý je svým strůjcem štěstí
+		- štěstí způsobuje přiměřenost
+	- všechno je v moci člověka
+- Leukippos i Démokritos jsou mechaničtí materialisté
+	- nepočítají s božskou silou
+	- i kdyby bohové byli tak jsou z atomů, takže jako všechno ostatní

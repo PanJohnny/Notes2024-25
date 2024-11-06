@@ -1,0 +1,5 @@
+- vedou proud jen za určitých podmínek
+- vlastní
+	- termistor
+		- vede proud jen po zahřátí
+- příměsový

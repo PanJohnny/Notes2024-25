@@ -33,6 +33,35 @@
 			- obsahuje smyslové buňky napojené na nervová vlákna
 			- sítnice v oku
 - pojivové
+	- mezi buňkami jsou velké mezibuněčné prostory, které jsou vyplněné specifickou hmotou (podle typu pojivové tkáně)
+	- vazivo
+		- buňky s výběžky
+		- mezibuňečná hmota obsahuje vláknité molekuly
+			- bílkoviny kolagen a elastin
+			- pružné a odolné vůči tahu a ohybu
+			- dobrá regenerační schopnost (snadno a rychle se tvoří i obnovuje)
+			- šlachy a vazivové blány na povrchu orgánů, pružné výstuže cév
+			- výplň některých dutin (kostní dřeň), škára v kůži, zásobní tuková tkáň
+	- chrupavky
+		- oválné buňky, často ve skupinách obalených společným pouzdrem
+		- pevnější než vazivo, odolná vůči tlaku
+		- neobsahuje nervy ani cévy → velmi špatná regenerační schopnost
+		- povrch kloubů (tlumí nárazy), spojují některé kosti (př.: žebra s hrudní kostí)
+		- tvoří základ meziobratlových plotének, ušního boltce a nosu
+	- kost
+		- buňky s výběžky, které vytvářejí tvrdou mezibuněčnou hmotu - osteocyty
+		- hmota obsahuje i anorganické látky (soli Ca a P), zvýšené tvrdosti
+		- typy kostní tkáně
+			- kompaktní kostní tkáň
+				- povrch kostí
+				- tvrdá a pevná
+				- kostní buňky jsou usporádány v kruhových vrstvách (lamelách)
+				- středem prochází Haversovy kanálky (systém nervů a cév, které zajišťují výživu tkáně)
+			- spongiózní (houbovitá kostní tkáň)
+				- uvnitř kostí
+				- odlehčená vnitřní výstuž
+				- kostní buňky jsou neuspořádané
+				- v tkáni jsou dutinky, které jsou vyztuženy trámci
 - svalové
 - nervová
 - tělní tekutiny

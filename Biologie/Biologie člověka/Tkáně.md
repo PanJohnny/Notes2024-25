@@ -1,0 +1,13 @@
+- soubor buněk, které mají stejný tvar, původ a funkci
+- vznikají diferenciací základních zárodečných vrstev
+- věda zabývající se tkáněmi je hystologie
+## typy tkání
+- epitely
+	- vrstvené
+	- žádné mezibuněčné prostrory
+	- jednovrstevné nebo vícevrstevné
+	- tovří vnější povrch orgánů a vnitřní povrch dutin
+- pojivové
+- svalové
+- nervová
+- tělní tekutiny

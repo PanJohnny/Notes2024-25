@@ -7,7 +7,7 @@
 - Dualismus= 2 principy: látka, duše (dobro, zlo), dva protikladné principy
 - Pluralismus= mnohost, filozofické stanovisko respektující mnohost, v pohledu náboženském, vědeckém…
 - Ateismus = zpochybňuje (popírá) existenci Boha/božstva
-- Theismus = věří v boha/ bohy, je to bůh stvořitel, bytosti které aktivně zasahují do našich osudů, Bůh stvořil a zasahuje do  našeho života
+- Theismus = věří v boha/ bohy, je to bůh stvořitel, bytosti které aktivně zasahují do našich osudů, Bůh ústvořil a zasahuje do  našeho života
 - Deismus= přijímání náboženství, víra v Boha, který stvořil svět, ale nezasahuje už do našich životů
 - Racionalismus = rozum, logika, uznáván rozum jako základní něco při poznání
 - Empirismus = zkušenost, uznávána zkušenost jako zdroj veškerého poznání
@@ -93,3 +93,17 @@
 		- hybný princip = NÚS
 			- rozum
 		- vše je ve všem
+
+### Atomisté
+- Leukippos
+	- zakladatel
+	- žák Zenona
+	- dochován jen 1 fragment, princip kauzality
+- Demokritos
+	- žák Leukippa
+	- smál se
+	- cestoval
+	- přírodní vědy
+	- (60 spisů)
+	- dobrovolně oslepen ⇒ ženy nebo taky vědomí
+- vše je z **atomů** a **prázdna**

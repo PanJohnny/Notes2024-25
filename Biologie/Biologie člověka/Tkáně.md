@@ -1,12 +1,37 @@
 - soubor buněk, které mají stejný tvar, původ a funkci
 - vznikají diferenciací základních zárodečných vrstev
-- věda zabývající se tkáněmi je hystologie
+- věda zabývající se tkáněmi je histologie
 ## typy tkání
 - epitely
 	- vrstvené
-	- žádné mezibuněčné prostrory
-	- jednovrstevné nebo vícevrstevné
-	- tovří vnější povrch orgánů a vnitřní povrch dutin
+	- žádné mezibuněčné prostory
+	- jednovrstevné nebo vícevrstevnaté
+	- tvoří vnější povrch orgánů a vnitřní povrch dutin
+	- dělení podle vzhledu
+		- dlaždicový epitel
+			- ploché buňky
+			- pokožka, vnitřní povrch cév
+		- kubický (krychlový epitel)
+			- výška buněk je zhruba stejná jako šířka
+			- entoderm a ektoderm zárodku, rohovka
+		- cylindrický (válcový) epitel
+			- výška buněk je mnohem větší než šířka
+			- vnitřní povrch trávicí trubice a dýchacích cest
+	- dělení epitelu podle funkce
+		- krycí epitel
+			- hlavní funkcí je pokryv orgánu nebo zajištění hladkého povrchu
+			- vnitřní povrch cév
+		- resorpční (vstřebávací) epitel
+			- buňky tvoří miniaturní výběžky (mikroklky), které zvětšují povrch
+			- vnitřní povrch tenkého střeva
+		- žlázový epitel
+			- buňky na povrchu tkáně produkují určitou látku (trávicí šťávy, hormony, mateřské mléko, pot)
+		- řasinkový epitel
+			- buňky pokryté řasinkami (brvami), které svým pohybem zajišťují pomalý transport částic po povrchu epitelu
+			- uvnitř dýchacích cest (transport hlenu a prachu ven z těla), uvnitř vejcovodu (transport vajíčka z vaječníku do dělohy)
+		- smyslový epitel
+			- obsahuje smyslové buňky napojené na nervová vlákna
+			- sítnice v oku
 - pojivové
 - svalové
 - nervová

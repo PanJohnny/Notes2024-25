@@ -42,11 +42,34 @@ $$
 
 ---
 
-**Pro rezistory**
+**Proud v kovech** [[Elektrický proud v kovech]]
+$$
+\begin{gather}
+R = \rho \frac{l}{S} \\ \\
+\rho \dots \text{rezistivita} \\
+l \dots \text{délka vodiče} \\
+S \dots \text{obsah průřezu vodiče}
+\end{gather}
+$$
+- **veličiny**:
+	- *proud* I \[A]
+		- $I := \frac{Q}{t}$
+	- *napětí* U \[V]
+	- *odpor* R \[$\Omega$]
 
 |     |            sériové             |                               paralelně                                |
 | --- | :----------------------------: | :--------------------------------------------------------------------: |
 | I   | $I = I_1 = I_2 = \cdots = I_n$ |                     $I = I_1 + I_2 + \cdots + I_n$                     |
 | U   | $U = U_1 + U_2 + \cdots + U_n$ |                     $U = U_1 = U_2 = \cdots = U_n$                     |
 | R   | $R = R_1 + R_2 + \cdots + U_n$ | $\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} + \cdots + \frac{1}{R_n}$ |
+|     |                                |                                                                        |
+**Kapacita** [[Kapacita|*]]
+$[C] = F$ (Farad)
+$$
+C = \varepsilon_{0}\varepsilon_{r}\frac{S}{l}
+$$
+	s = obsah desek
+	l = vzdálenost desek
 **Polarizace dielektra**
+V izolantech (jiné slovo pro dielektro)
+![[Drawing 2024-09-27 11.17.46.excalidraw]]

@@ -181,7 +181,8 @@
     "&&": {
       "replaced": "&&",
       "value": "∧",
-      "group": "Mathematical Operators"
+      "group": "Mathematical Operators",
+      "count": 4
     },
     "+/-": {
       "replaced": "+/-",

@@ -62,7 +62,7 @@ $$
 | I   | $I = I_1 = I_2 = \cdots = I_n$ |                     $I = I_1 + I_2 + \cdots + I_n$                     |
 | U   | $U = U_1 + U_2 + \cdots + U_n$ |                     $U = U_1 = U_2 = \cdots = U_n$                     |
 | R   | $R = R_1 + R_2 + \cdots + U_n$ | $\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} + \cdots + \frac{1}{R_n}$ |
-|     |                                |                                                                        |
+
 **Kapacita** [[Kapacita|*]]
 $[C] = F$ (Farad)
 $$
@@ -70,6 +70,26 @@ C = \varepsilon_{0}\varepsilon_{r}\frac{S}{l}
 $$
 	s = obsah desek
 	l = vzdálenost desek
+
+$$
+\begin{align}
+E=\frac{1}{2}CU^2 && E=\frac{1}{2}QU^2\\
+Q=CU \\
+--- \\
+
+\end{align}
+$$
+
+|     | sériové                | paralelně                                                              |
+| --- | ---------------------- | ---------------------------------------------------------------------- |
+| C   | $C=C_1+C_2+\cdots+C_n$ | $\frac{1}{C} = \frac{1}{C_1} + \frac{1}{C_2} + \cdots + \frac{1}{C_n}$ |
+**Tok elektrického proudu**
+$$
+\begin{align}
+E=UIt && E=\frac{U^2}{R}t  \\
+I=\frac{U}{R}
+\end{align}
+$$
 **Polarizace dielektra**
 V izolantech (jiné slovo pro dielektro)
 ![[Drawing 2024-09-27 11.17.46.excalidraw]]

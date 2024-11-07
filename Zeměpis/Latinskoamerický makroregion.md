@@ -135,5 +135,3 @@ profil
 
 ## Drogová válka
 - dlouhodobý ozbrojený konflikt mezi vládou Mexika a drogovými kartely
-- 
->>>>>>> origin/main

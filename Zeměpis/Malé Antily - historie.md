@@ -1,0 +1,18 @@
+- 15. století
+	- objev ostrovů (Svatá Lucie, Guadeloupe)
+	- první Karibové k prodeji do otroctví ve Španělsku
+- 16. století
+	- anglický pirát Drake
+- 16. - 18. století
+	- zlatý věk pirátství
+- časté nepokoje, válečné konflikty, vzpoura černých karibů
+- od 1824
+	- počátek konce otroctví
+- 1902
+	- Martinik
+	- výbuch sopky Pélée (30000)
+- 20. století
+	- ostrovy postupně nezávislost
+	- Guadeloupe a Martinik
+		- francouzský zámořský kraj
+- 

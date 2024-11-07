@@ -50,12 +50,12 @@
 - reakce
 	- hydrolýza esterů
 		- v kyselém prostředí
-		- vzniká alkohol a karboxylová kyselina
-	- reseterifikace
+			- vzniká alkohol a karboxylová kyselina
 		- v zásaditém prostředí
-		- vzniká alkohol a sůl karboxylové kyseliny
-		- významná reakce pro výrobu Na a K solí kyselin palmitové a stearové
-		- základ mýdel
+			- vzniká alkohol a sůl karboxylové kyseliny
+			- významná reakce pro výrobu Na a K solí kyselin palmitové a stearové
+			- základ mýdel
+	- reseterifikace
 >halogenderivát
 ```smiles
 *-C(=o)-o-[X]

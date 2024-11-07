@@ -36,6 +36,26 @@
 ```smiles
 *-c(=O)-o-[E]
 ```
+- významná skupina přírodních látek
+	- přírodní esence, tuky a oleje
+- příprava esterifikací
+	- reakce karboxylové kyseliny a alkoholu
+	- pouze v kyselém prostředí
+	- nejsnadněji s primárními alkoholy
+- vlastnosti
+	- většinou kapalné
+	- nerozpustné ve vodě
+	- nižší teplota varu než původní kyseliny
+	- mnohé příjemně voní
+- reakce
+	- hydrolýza esterů
+		- v kyselém prostředí
+		- vzniká alkohol a karboxylová kyselina
+	- reseterifikace
+		- v zásaditém prostředí
+		- vzniká alkohol a sůl karboxylové kyseliny
+		- významná reakce pro výrobu Na a K solí kyselin palmitové a stearové
+		- základ mýdel
 >halogenderivát
 ```smiles
 *-C(=o)-o-[X]

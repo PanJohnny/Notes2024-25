@@ -8,7 +8,7 @@
 	- škody na infrastrukturách, přírodních stanovištích a lidských životech.
 ### 2. Povrch a krajina
 - převážně vulkanického původu
-	- některé mají korálové nebo sedimentární základy
+- některé mají korálové nebo sedimentární základy
 - Geomorfologie
 	- horských oblasti s deštnými pralesy
 	- nížiny

@@ -1,5 +1,3 @@
-Malé Antily jsou součástí karibské oblasti a tvoří řetěz několika menších ostrovů, které se táhnou od severovýchodu (blíže k Puerto Rico) směrem na jihovýchod k Venezuele. Geograficky spadají pod Karibik a jsou známé svou tropickou přírodou a malebnými scenériemi. Přírodní podmínky Malých Antil se vyznačují několika charakteristickými rysy:
-
 ### 1. Podnebí
 - tropické klíma
 - průměrné teploty se pohybují kolem 25-30 °C

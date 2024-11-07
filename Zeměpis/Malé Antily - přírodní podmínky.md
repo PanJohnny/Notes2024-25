@@ -1,0 +1,31 @@
+Malé Antily jsou součástí karibské oblasti a tvoří řetěz několika menších ostrovů, které se táhnou od severovýchodu (blíže k Puerto Rico) směrem na jihovýchod k Venezuele. Geograficky spadají pod Karibik a jsou známé svou tropickou přírodou a malebnými scenériemi. Přírodní podmínky Malých Antil se vyznačují několika charakteristickými rysy:
+
+### 1. Podnebí
+- tropické klíma
+- průměrné teploty se pohybují kolem 25-30 °C
+- typické střídání období sucha a dešťů
+	-  období dešťů od května do listopadu
+- hurikány
+	- v období od června do listopadu
+	- škody na infrastrukturách, přírodních stanovištích a lidských životech.
+### 2. Povrch a krajina
+- převážně vulkanického původu
+	- některé mají korálové nebo sedimentární základy
+- Geomorfologie
+	- horských oblasti s deštnými pralesy
+	- nížiny
+	- pláže
+	- korálové útesy.
+
+### 3. Flóra
+- bohatá a pestrá
+- deštné pralesy nebo křovinaté oblasti
+- palmy, mangrovníky, bambus, orchideje, různé druhy tropických dřevin, kaktusy a suchomilné rostliny
+
+### 4. Fauna
+- rozsáhlá biodiverzita jak suchozemských, tak mořských druhů
+	- například různé druhy ještěrů, ptáků (např. kolibříky a papoušky), netopýři a malé savce
+- bohatý mořský život
+	- korálovými útesy
+		- útočiště pro ryby, kraby, mořské želvy a delfíny.
+- několik endemitů

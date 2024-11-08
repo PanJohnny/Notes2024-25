@@ -1,0 +1,12 @@
+- Válka, ve které se nebojuje přímo zbraněmi 
+    - Nikdy nevypukla ve válku jadernou 
+- USA VS SSSR 
+- Stojí na 3 pilířích: 
+    - Závoje ve zbrojení 
+    - Vesmírný závod 
+    - Propaganda (a špionáž) 
+- Není přesně časově ohraničená 
+    - Někteří její začátek datují od začátku konce 2. světové války 
+    - Někteří její počátek vidí v Trumanově doktríně 1947, která vyhlašuje válku komunismu 
+    - Někteří její konec vidí s rozpadem sovětského svazu (1991) 
+        - Vojenská vymezení proti komunismu

@@ -93,3 +93,5 @@ $$
 **Polarizace dielektra**
 V izolantech (jiné slovo pro dielektro)
 ![[Drawing 2024-09-27 11.17.46.excalidraw]]
+
+Strana: 228, 166

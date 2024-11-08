@@ -81,6 +81,13 @@
 		- je ovladatelná vůlí
 		- pracuje rychleji než hladká
 		- kosterní svaly, hlasivky, vůlí ovladatelní svěrače
+	- srdeční svalová tkáň
+		- samostatné buňky, ale tvoří vzájemně propojenou síť
+		- patrné žíhání
+		- tvoří základ srdce (myokard)
+		- není ovladatelná vůlí
+		- velmi výkonná, odolá a spolehlivá (náročná na kyslík a energii)
+		- nedokáže regenerovat
 
 | vim                | tušim                                               | netušim               |
 | ------------------ | --------------------------------------------------- | --------------------- |

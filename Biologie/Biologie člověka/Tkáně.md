@@ -98,4 +98,19 @@
 |                    |                                                     | kardiomyotcty         |
 
 - nervová
+	- obsažena v nervových orgánech
+		- mozek, mícha a nervy
+	- k přenosu a koordinaci vzruchů (signálů)
+		- řízení těla
+	- základem je síť navzájem propojených neuronů
+	- části neuronů mohou v průběhu života dorůstat (i zanikat)
+	- neurony se nemnoží (nervová tkáň nemá schopnost regenerace)
 - tělní tekutiny
+	- základem těchto tkání je tekutina, ve které plavou buňky
+	- krev
+		- obsahuje krevní buňky (červené a bílé krvinky) a další tělíska (krevní destička)
+	- tkáňový mok
+		- tekutina vyplňující prostory mezi ostatními tkáňěmi v těle
+	- lymcha
+		- tkáňový mok, který se pohybuje v lymfatických cévách
+		- odváděn do krevního oběhu

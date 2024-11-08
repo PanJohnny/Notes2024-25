@@ -61,7 +61,34 @@
 				- uvnitř kostí
 				- odlehčená vnitřní výstuž
 				- kostní buňky jsou neuspořádané
-				- v tkáni jsou dutinky, které jsou vyztuženy trámci
+				- v tkáni jsou dutinky, které jsou vyztuženy jinými tkáněmi (př.: vazivem)
 - svalové
+	- protáhlé buňky
+	- mají schopnost se smršťovat
+		- obsahují komplexy bílkovin, které se mohou navzájem vůči sobě posouvat
+	- hladká svalová tkáň
+		- samostatně oddělené buňky
+		- každá buňka má jen jedno jádro
+		- neovladatelná vůlí
+		- pomalá práce
+		- tvoří orgány
+		- zajišťuje transport trubicemi, zužování a rozšiřování trubic, vyprazdňování dutin, uzávěry trubic
+	- příčně pruhovaná svalová tkáň
+		- spojené buňky
+		- tvoří velmi dlouhá vlákna
+		- mnohojaderné buňky
+		- úseky svalových bílkovin jsou vláknech stejně uspořádané a vytvářejí viditelné příčné pruhování (žíhání)
+		- je ovladatelná vůlí
+		- pracuje rychleji než hladká
+		- kosterní svaly, hlasivky, vůlí ovladatelní svěrače
+
+| vim                | tušim                                               | netušim               |
+| ------------------ | --------------------------------------------------- | --------------------- |
+| svazky vláken      | 30-40 % hmotnosti těla                              | inervace              |
+| vlákna             | velké hýždě                                         | myofibrila            |
+| rozdělení svalů    | srdeční má vlastnosti jak hladká i příčně pruhovaná | bílá a červená vlákna |
+| srdce pracuje 24/7 |                                                     | přepážky              |
+|                    |                                                     | kardiomyotcty         |
+
 - nervová
 - tělní tekutiny

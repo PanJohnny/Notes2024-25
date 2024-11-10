@@ -43,3 +43,19 @@
 - dílo:
 	- Magdaléna - veršovaný román
 	- Zde by měla kvést růže - veršované povídky
+- zabývá se hodně ženama
+## Otokar Březina
+- 1868 - 1929
+- básník, esejista
+- symbolismus
+- bohatý jazyk
+- mystika, tajemnost, duchovní hodnoty
+- samotář
+- dílo:
+	- Tajemné dálky
+	- Svítání na západě - oxymóron
+	- Větry od pólů
+	- Stavitelé chrámu
+	- Ruce
+	- Hudba pramenů - sbírka esejí
+	- korespondence s přáteli

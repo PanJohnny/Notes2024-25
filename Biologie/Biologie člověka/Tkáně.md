@@ -113,4 +113,4 @@
 		- tekutina vyplňující prostory mezi ostatními tkáňěmi v těle
 	- lymcha
 		- tkáňový mok, který se pohybuje v lymfatických cévách
-		- odváděn do krevního oběhu
+		- odváděn do krevního oběhu.

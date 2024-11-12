@@ -59,3 +59,25 @@
 	- Ruce
 	- Hudba pramenů - sbírka esejí
 	- korespondence s přáteli
+
+## Antonín Sova
+- (1864-1928)
+- studoval práva
+- 1. ředitel pražské Městské knihovny
+- pracoval v Ottově slovníku naučném
+- zádumčivý jihočeský básník - lyrik
+- plachý samotář
+- především ***impresionismus*** + částečně **symbolismus**
+- jemné nuance barev
+- **milostné obrazy propojuje s přírodou**
+- "básník podzimu" (melancholie a stesk)
+- dobře srozumitelný a přístupný
+- dílo:
+	- poezie
+		- **Květy intimních nálad**
+		- **Z mého kraje**
+		- **Ještě jednou se vrátíme**
+	- próza
+		- taky psal
+		- Ivův román
+		- Pankrác Budecius, kantor

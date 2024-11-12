@@ -55,7 +55,10 @@
 			- vzniká alkohol a sůl karboxylové kyseliny
 			- významná reakce pro výrobu Na a K solí kyselin palmitové a stearové
 			- základ mýdel
-	- reseterifikace
+	- reesterifikace
+		- mechanismus podobný hydrolýze esterů katalyzované kysele, druhý reaktant tvoří alkohol
+		- $CH_3COOCH_3 + CH_3CH_2CH_2OH \to CH_3COOCH_2CH_2CH_3 + CH_3OH$ (katalyzátor $H^+$)
+	-
 >halogenderivát
 ```smiles
 *-C(=o)-o-[X]

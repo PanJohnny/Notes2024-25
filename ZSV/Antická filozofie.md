@@ -129,3 +129,26 @@
 	- moudrost za peníze vadí
 - zajímají je jenom lidé
 - uspokojení cíle na úkor druhých
+- Protagoras z Abdery
+	- jsoucí jsou a nejsoucí nejsou
+	- subjektivismus → člověk rozhoduje co je a co není
+	- každý má pravdu
+	- můžu tvrdit, že je něco černýho, ale zároveň je to bílí
+	- praotec skepticismu
+	- právo přírody → silnějšího
+	- co je zlo, co je dobro? - relavitizace
+	- bohy nelze potvrdit ani vyvrátit
+- Gorgias z Leontyn
+	- nejsoucí = příroda
+	- 3 zásady
+		- nic není
+		- je-li i něco, nemůže to člověk poznat
+		- lze-li to i poznat, nelze to přece s bližním sdělit a jemu to vložit
+	- řeč = silná zbraň
+	- ispirace Zenonem a Parmenidem
+	- Sofisma - řečnické triky, logické úskoky, zneužití logiky 
+	    - Sofisma rohatých 
+	        1. Co si neztratil, to máš 
+			2. Neztratil si rohy 
+	        3. Máš rohy
+- Sokratés na ně kriticky navazuje

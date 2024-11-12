@@ -10,3 +10,11 @@
     - Někteří její počátek vidí v Trumanově doktríně 1947, která vyhlašuje válku komunismu 
     - Někteří její konec vidí s rozpadem sovětského svazu (1991) 
         - Vojenská vymezení proti komunismu
+- Trumanova doktrýna
+- Postupimská konference
+	- po válce
+- Řecko
+- levice x pravice
+- politika zadržování
+- bída v Evropě
+- Marshallův plán

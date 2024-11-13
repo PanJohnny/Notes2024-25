@@ -1,24 +1,15 @@
 {
   "nodes": [
     {
-      "id": "ee82c891df9976ba",
-      "type": "file",
-      "file": "Zeměpis/Austrooceánský makroregion.md",
-      "styleAttributes": {},
-      "x": -193,
-      "y": -99,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "a6085269ec78c229",
       "type": "text",
-      "text": "Test ze zeměpisu",
+      "text": "# Test Biologie 20. 11.\n[[Evoluce člověka]]\n[[Vývoj člověka]]\n[[Lidská etnika]]\n[[Tkáně]]",
       "styleAttributes": {},
       "x": -123,
       "y": -200,
-      "width": 260,
-      "height": 60
+      "width": 263,
+      "height": 240,
+      "color": "1"
     }
   ],
   "edges": [],

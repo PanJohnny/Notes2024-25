@@ -1,5 +1,9 @@
 # Funkční
 - odvozeny změnou karboxylové skupiny původní kyseliny odštěpením $-H$ nebo $-OH$
+- způsoby pojmenovávání
+	- systematické názvosloví
+	- triviální názvosloví
+	- opisem přes název kyseliny
 ## Soli
 ```smiles
 *-C(=o)-o-[Fe]
@@ -58,23 +62,60 @@
 	- reesterifikace
 		- mechanismus podobný hydrolýze esterů katalyzované kysele, druhý reaktant tvoří alkohol
 		- $CH_3COOCH_3 + CH_3CH_2CH_2OH \to CH_3COOCH_2CH_2CH_3 + CH_3OH$ (katalyzátor $H^+$)
-	-
->halogenderivát
+- Využití: 
+    - Potravinářství - chuťové přísady, výroba voňavek 
+        - Butylethanoát - hrušková esence 
+        - Methylbutanoát - jablková esence 
+    - Výroba mýdel 
+        - Alkalická hydrolýza estrů vyšších mastných kyselin a glycerolu 
+    - Ethylacetát - rozpouštědlo, odlakovač 
+    - Methylakrylát - výroba plexiskla 
+    - Bionafta - základ tvoří methylestery nenasycených karboxylových kyselin rostlinného původu
+## Halogenidy
 ```smiles
 *-C(=o)-o-[X]
 ```
->amid
+- hydroxylová skupina v karboxylové skupině je nahrazena halogenem
+- vlastnosti
+	- velmi reaktivní
+	- ostře páchnou
+	- kapalné a pevné
+- reakcí s alkoholy vznikají estery a halogenvodíky
+	- $CH_{3}COCl + CH_{3}CH_{2}OH \to CH_{3}COOCH_{2}CH_{3} + HCl$
+- využití
+	- acylační činidla v organických syntézách
+## Amidy
 ```smiles
 *-c(=o)-[NH2]
 ```
->anhydrát
+- hydroxylová skupina v karboxylové skupině je nahrazena aminoskupinou $-NH_{2}$
+- schopnost tvořit vodíkové můstky
+	- vysoké teploty tání a varu
+- kapalné a pevné
+- vznikají a připravují se termickým rozkladem amonných solí
+	- $RCOONH_{4} \to RCONH_{2} + H_{2}O$
+- využití
+	- organické syntézy
+	- formamid $HCONH_{2}$
+		- laboratorní rozpouštědlo
+## Nitrily
+- obsahují funkční skupinu $-C==N$
+- obvykle jedovaté kapaliny a pevné látky
+- vznikají dehydratací amidů
+	- $RCONH_{2} \to R-C==N$
+- 
+## Anhydridy
 ```smiles
 *-C(=O)-o-C(=O)-*
 ```
-- způsoby pojmenovávání
-	- systematické názvosloví
-	- triviální názvosloví
-	- opisem přes název kyseliny
+- vznikají kondenzací dvou karboxylových kyselin za odštěpení vody
+- vlastnosti
+	- anhydridy nižších kyselin
+		- ostře páchnou
+	- anhydridy vyšších kyselin
+		- pevné látky
+- využití
+	- acylační činidla
 # Substituční
 - odvozeny náhradou jednoho nebo více atomů vodíků v uhlíkovém řetězci karboxylové kyseliny jiným atomem
 -

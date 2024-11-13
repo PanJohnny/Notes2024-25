@@ -27,3 +27,32 @@
 			- chybí na koncových částech
 				- nahrazena sklovitou chrupavkou
 		- na povrch se dále upínají vazy a svaly pomocí šlach
+	- vnitřní stavba
+		- vlastní kostní tkáň
+			- tvořena
+				- kostními buňkami = osteocyty
+				- mezibuněčnou hmotou uspořádanou do vrstev = lamel
+			- dělení
+				- kost houbová (spongiózní)
+					- epifýzy dlouhých kostí + vnitřek kostí plochých a krátkých
+					- systém tenkých trámečků - tvoří prostorovou síť
+					- síť uspořádána podle směru zatížení kosti = architektonika kosti
+				- kost hutná (kompaktní)
+					- tělo dlouhých kostí a povrch krátkých a plochých
+					- tvořena z hustě uspořádané kostní tkáně
+						- základem je válcový útvar osteon
+							- složen z kruhovitě uspořádaných lamel okolo Haversova kanálku
+								- kanálkem prochází cévy a nervy
+		- střed kosti
+			- kostní dřeň
+				- tvořena vazivovými vlákny s kmenovými buňkami a husté sítě cév (vlásečnic)
+				- vyplňuje dutiny dlouhých kostí a trámčinu v kosti houbovité
+				- dělení
+					- červená kostní dřeň
+						- krvetvorba = vznik krvinek (červených i bílých) a krevních destiček
+						- v dětství ve většině kostí
+						- v dospělosti zachována v plochých a krátkých kostech
+					- žlutá kostní dřeň
+						- vzniká z červené v dutinách dlouhých kostí
+							- usazuje se v ní tuk
+						- ztrácí schopnost krvetvorby

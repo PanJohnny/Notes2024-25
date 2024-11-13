@@ -1,0 +1,22 @@
+- u průměrného člověka tvoří cca 15 % hmotnosti
+- počet kostí se v průběhu života mění
+	- novorozenec až 270 kostí
+	- dospělý cca 206 kostí → některé kosti v průběhu života srůstají
+- funkce
+	- vnitřní opora těla
+	- spolu se svaly umožňuje pohyb
+	- chrání důležité orgány (mozek, mícha, srdce, plíce, ... )
+	- krvetvorba v kostní dřeni
+	- zásobárna vápníku a fosforu
+- tvary kostí
+	- dlouhé
+		- kost pažní, loketní
+		- střední část = diafýza
+		- kloubní konce = epifýza
+	- krátké
+		- zápěstní, zánártní kůstky
+	- ploché
+		- kosti lebky, lopatky, hrudní kost
+	- nepravidelné
+		- obratle, dolní čelist
+- 

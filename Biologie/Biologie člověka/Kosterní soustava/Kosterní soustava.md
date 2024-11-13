@@ -19,4 +19,11 @@
 		- kosti lebky, lopatky, hrudní kost
 	- nepravidelné
 		- obratle, dolní čelist
-- 
+- stavba dlouhé kosti
+	- povrch
+		- kryt tuhou vazivovou blánou = okostice
+			- bohatě prokrvená a inervovaná
+			- zajišťuje výživu kosti, růst do šířky, hojení zlomenin
+			- chybí na koncových částech
+				- nahrazena sklovitou chrupavkou
+		- na povrch se dále upínají vazy a svaly pomocí šlach

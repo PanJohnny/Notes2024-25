@@ -102,6 +102,6 @@
 		- obsahuje krevní buňky (červené a bílé krvinky) a další tělíska (krevní destička)
 	- tkáňový mok
 		- tekutina vyplňující prostory mezi ostatními tkáňěmi v těle
-	- lymcha
+	- lymfa
 		- tkáňový mok, který se pohybuje v lymfatických cévách
 		- odváděn do krevního oběhu.

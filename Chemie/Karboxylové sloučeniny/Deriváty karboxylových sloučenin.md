@@ -103,7 +103,7 @@
 - obvykle jedovaté kapaliny a pevné látky
 - vznikají dehydratací amidů
 	- $RCONH_{2} \to R-C==N$
-- 
+-
 ## Anhydridy
 ```smiles
 *-C(=O)-o-C(=O)-*

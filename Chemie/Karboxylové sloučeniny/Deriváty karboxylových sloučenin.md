@@ -155,4 +155,12 @@ CCC([Br])C(=o)o
 - krystalické, mnohé jedovaté, leptají pokožku
 - halogen vykazuje záporný indukční efekt → silnější než nesubstituované kyseliny
 	- vzdálenost halogenu od karboxylové skupiny snižuje sílu I-efektu (čím dál, tím slabší)
-	- 
+	- s rostoucím protonovým číslem halogenu taktéž klesá síla
+	- s rostoucím počtem atomů halogenu roste síla
+- příprava
+	- α a β-dihalogen kyseliny
+		- adice halogenu na nenasycené kyseliny
+	- β-halogen kyseliny
+		- adice halogenvodíku na nenasycené kyseliny
+	- α-kyseliny
+		- katalytická halogenace karboxylových kyselin (červený fosfor)

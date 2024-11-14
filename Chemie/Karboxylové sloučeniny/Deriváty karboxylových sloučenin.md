@@ -150,3 +150,9 @@ CCC([Br])C(=o)o
 		- substituce halogenovým atomem zvyšuje kyselost
 		- přítomná aminoskupina způsobuje amfoternost molekuly
 	- esterifikace, neutralizace
+## Halogenkyseliny
+- náhradou jednoho nebo více vodíků v uhlíkatém řetězci atomem halogenu
+- krystalické, mnohé jedovaté, leptají pokožku
+- halogen vykazuje záporný indukční efekt → silnější než nesubstituované kyseliny
+	- vzdálenost halogenu od karboxylové skupiny snižuje sílu I-efektu (čím dál, tím slabší)
+	- 

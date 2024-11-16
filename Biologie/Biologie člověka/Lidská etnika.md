@@ -12,7 +12,7 @@
 - výrazný nos, širší pánev
 - původní plemeno v Evropě a na Blízkém východě
 
-![pobřežní hlídka](https://www.informuji.cz/data_articles/2017156114629.jpg)
+![pobřežní hlídka](https://www.cinematografo.it/wp-content/uploads/2017/05/Baywatch_Zac-Efron-Dwayne-Johnson-e1496234680252.jpg)
 
 ## Žlutohnědé (mongoloidní) plemeno
 - barva pleti nažloutlá, světlá až snědá

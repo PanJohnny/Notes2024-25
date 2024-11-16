@@ -46,7 +46,7 @@
       "query": "path:Literatura  ",
       "color": {
         "a": 1,
-        "rgb": 12895428
+        "rgb": 15784887
       }
     },
     {
@@ -54,6 +54,13 @@
       "color": {
         "a": 1,
         "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Mluvnice  ",
+      "color": {
+        "a": 1,
+        "rgb": 2129441
       }
     }
   ],

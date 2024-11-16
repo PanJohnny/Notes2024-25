@@ -42,7 +42,7 @@ $$
 
 ---
 
-**Proud v kovech** [[Elektrický proud v kovech]]
+**Proud v kovech**
 $$
 \begin{gather}
 R = \rho \frac{l}{S} \\ \\

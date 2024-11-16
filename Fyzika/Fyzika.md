@@ -64,7 +64,7 @@ $$
 | R   | $R = R_1 + R_2 + \cdots + U_n$ | $\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} + \cdots + \frac{1}{R_n}$ |
 
 **Kapacita** [[Kapacita|*]]
-$[C] = F$ (Farad)
+$[C] = F$ (Farad))
 $$
 C = \varepsilon_{0}\varepsilon_{r}\frac{S}{l}
 $$

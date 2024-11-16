@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-file:excalidraw",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,7 +11,49 @@
       "query": "path:Dějepis  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 767486
+      }
+    },
+    {
+      "query": "path:ZSV ",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
+    },
+    {
+      "query": "path:Biologie  ",
+      "color": {
+        "a": 1,
+        "rgb": 9476094
+      }
+    },
+    {
+      "query": "path:Zeměpis  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Chemie  ",
+      "color": {
+        "a": 1,
+        "rgb": 16449791
+      }
+    },
+    {
+      "query": "path:Literatura  ",
+      "color": {
+        "a": 1,
+        "rgb": 12895428
+      }
+    },
+    {
+      "query": "path:Fyzika  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -25,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 0.4444444444444444,
+  "close": false
 }

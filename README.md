@@ -43,7 +43,7 @@ Odešle všechny změny do jiného repozitáře
 => Hodí změny na GitHub
 
 > [!NOTE]
-> Může se stát, že se tohle posere. V tom případě bych udělal pull. Jestli to nebude fungovat ani potom tak dej vědět, protože je něco v prdeli. 
+> Může se stát, že se tohle posere. V tom případě bych udělal pull. Jestli to nebude fungovat ani potom tak dej vědět, protože je něco v prdeli.
 ### pull
 Command pallet: `Git: Pull`
 
@@ -65,7 +65,7 @@ $$
 Pokud je branch na githubu aktuální a máš merge conflicty
 ```sh
 git fetch
-git restore --hard origin/main
+git reset --hard origin/main
 ```
 **Pokud je tvůj branch aktuální**
 Tak mi dej sakra vědět, protože by se to mohlo kompletně dosrat a minulým postupem bys přišel o veškerý progress!

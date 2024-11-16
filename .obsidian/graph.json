@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "-file:excalidraw",
+  "search": "-file:excalidraw -file:README.md -path:Květiny  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -71,16 +71,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.00598958333333,
+  "lineSizeMultiplier": 0.929427083333333,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 14.6354166666667,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.19753086419753085,
+  "centerStrength": 0.346354166666667,
+  "repelStrength": 11.71875,
+  "linkStrength": 0.705729166666667,
+  "linkDistance": 163,
+  "scale": 0.2962962962962961,
   "close": false
 }

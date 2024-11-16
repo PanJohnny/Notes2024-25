@@ -1,6 +1,6 @@
 [[Halogenderiváty]]
 [[Karbonylové sloučeniny]]
-[[Karboxylové kyseliny]]
+[[Karboxylové sloučeniny]]
 
 >>https://www.chemicalaid.com/tools/organic-iupac-naming.php?hl=en
 ```

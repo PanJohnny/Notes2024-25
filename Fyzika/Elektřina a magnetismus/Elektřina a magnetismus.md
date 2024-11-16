@@ -1,0 +1,2 @@
+[[Elektrický proud]]
+[[Polovodiče]]

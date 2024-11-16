@@ -175,3 +175,6 @@ c1(=o)(o)ccccc1
 ```smiles
 C(=O)(O)c1ccccc1C(O)=O
 ```
+
+[[Názvosloví derivátů karboxylových kyselin]]
+[[Názvosloví deriváty karboxylových kyselin 2]]

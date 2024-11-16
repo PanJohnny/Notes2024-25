@@ -10,7 +10,7 @@
     "theme": "dark"
   },
   "dataview": true,
-  "inlineSmiles": false,
+  "inlineSmiles": true,
   "inlineSmilesPrefix": "$smiles=",
   "core": "smiles-drawer",
   "commonOptions": {

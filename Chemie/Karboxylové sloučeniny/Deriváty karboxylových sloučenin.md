@@ -99,11 +99,21 @@
 	- formamid $HCONH_{2}$
 		- laboratorní rozpouštědlo
 ## Nitrily
-- obsahují funkční skupinu $-C==N$
+- obsahují funkční skupinu $-C\equiv N$
 - obvykle jedovaté kapaliny a pevné látky
 - vznikají dehydratací amidů
-	- $RCONH_{2} \to R-C==N$
--
+	- $RCONH_{2} \to R-C\equiv N$
+## Deriváty kyseliny uhličité
+- Z hlediska struktury se vlastně jedná o látku s karbonylovou skupinou, na níž jsou navázány dvě $OH-$ skupiny 
+- Dva významné deriváty
+    - Močovina $CO(NH_{2})_{2}$ (diamid kyseliny uhličité) 
+        - První organická  látka, která byla uměle 
+        - Vyrábí se reakcí $CO_{2}$ s amoniakem $NH_{3}$ 
+        - Krmné směsi pro dobytek, aminoplasty 
+    - Fosgen $COCl_{2}$ (dichlorid kyseliny uhličité) 
+        - Bezbarvý jedovatý plyn (bojová chemická látka v 1. sv. válce 
+        - Reakcí $CO$ s $Cl_{2}$
+        - Jeho reakcí s amoniakem vzniká močovina
 ## Anhydridy
 ```smiles
 *-C(=O)-o-C(=O)-*
@@ -117,5 +127,40 @@
 - využití
 	- acylační činidla
 # Substituční
-- odvozeny náhradou jednoho nebo více atomů vodíků v uhlíkovém řetězci karboxylové kyseliny jiným atomem
--
+- odvozeny náhradou jednoho nebo více atomů vodíků v uhlíkovém řetězci karboxylové kyseliny jiným atomem nebo skupinou atomů
+-  podobné vlastnosti jako původní kyseliny
+	- nemění se funkční skupina (schopnost odštěpit vodík)
+- nejvýznaměnější
+	- halogenkyseliny
+	- hydroxykyseliny
+	- aminokyseliny
+	- ketokyseliny (oxokyseliny)
+- názvosloví
+	- platí věskerá pravidla, které jsme se zatím naučili
+	- uhlíky jsou označovány arabskými čísly nebo malými řeckými písmeny (již se nedoporučuje)
+		- arabská čísla se číslují od uhlíku v karboxylové skupině **včetně**
+		- řecká písmena se číslují od uhlíku v karboxylové skupině **mimo něj**
+		- pokud je více karboxylových kyselin, čísluje se tak, aby substituent měl co **nejmenší číslo**
+	- př. kyselina 2-brommáselná/$\alpha-butanová$ kyselina
+```smiles  
+CCC([Br])C(=o)o
+ ```
+ - chemické vlastnosti
+	- charakteristické skupiny a karboxylová skupina se navzájem ovlivňují
+		- substituce halogenovým atomem zvyšuje kyselost
+		- přítomná aminoskupina způsobuje amfoternost molekuly
+	- esterifikace, neutralizace
+## Halogenkyseliny
+- náhradou jednoho nebo více vodíků v uhlíkatém řetězci atomem halogenu
+- krystalické, mnohé jedovaté, leptají pokožku
+- halogen vykazuje záporný indukční efekt → silnější než nesubstituované kyseliny
+	- vzdálenost halogenu od karboxylové skupiny snižuje sílu I-efektu (čím dál, tím slabší)
+	- s rostoucím protonovým číslem halogenu taktéž klesá síla
+	- s rostoucím počtem atomů halogenu roste síla
+- příprava
+	- α a β-dihalogen kyseliny
+		- adice halogenu na nenasycené kyseliny
+	- β-halogen kyseliny
+		- adice halogenvodíku na nenasycené kyseliny
+	- α-kyseliny
+		- katalytická halogenace karboxylových kyselin (červený fosfor)

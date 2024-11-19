@@ -141,7 +141,7 @@
 		- arabská čísla se číslují od uhlíku v karboxylové skupině **včetně**
 		- řecká písmena se číslují od uhlíku v karboxylové skupině **mimo něj**
 		- pokud je více karboxylových kyselin, čísluje se tak, aby substituent měl co **nejmenší číslo**
-	- př. kyselina 2-brommáselná/$\alpha-butanová$ kyselina
+	- př. kyselina 2-brommáselná/α-butanová kyselina
 ```smiles  
 CCC([Br])C(=o)o
  ```
@@ -162,5 +162,36 @@ CCC([Br])C(=o)o
 		- adice halogenu na nenasycené kyseliny
 	- β-halogen kyseliny
 		- adice halogenvodíku na nenasycené kyseliny
+		- $CH_{2}=CH-COOH + HCl \to CH_{2}(Cl)-CH_{2}-COOH$
 	- α-kyseliny
 		- katalytická halogenace karboxylových kyselin (červený fosfor)
+	- Markovnikovovo pravidlo
+		- při adici na nesouměrný alken se elektronegativnější část činidla váže na uhlík s vyšším počtem vodíků
+- reakce
+	- zahříváním α-halogenkyselin s vodnými roztoky hydroxidů vznikají soli α-hydroxykyselin (jejich hydrolýzou pak samotné α-hydroxykyseliny)
+- zástupci
+	- kyselina chloroctová
+		- $CH_{2}ClCOOH$
+		- leptavá
+		- organické syntézy
+	- kyselina trichlorová
+		- $CCl_{3}COOH$
+		- jedna z nejsilnějších kyselin vůbec
+		- hubení plevele
+## Hydroxykyseliny
+- za normálních podmínek krystalické
+- rozpustné ve vodě
+- hydroxylová skupina vykazuje záporný indukční efekt (slabší než halogeny, avšak silnější než nesubstituované karboxylové sloučeniny)
+	- vzdálenost hydroxylové skupiny od karboxylové skupiny snižuje sílu I-efektu (čím dál, tím slabší)
+	- s rostoucím počtem hydroxylových skupin roste síla
+- příprava
+	- α-hydroxykyseliny
+		- hydrolýza sodných solí α-halogen kyselin
+	- aromatické hydroxykyseliny
+		- reakce fenolátu s $CO_2$
+- optická izomerie
+	- chirální uhlík
+	- optické antipody
+		- stejné vlastnosti kromě točivosti roviny polarizovaného světla
+	- racemická směs
+		- 1:1 směs obou antipod

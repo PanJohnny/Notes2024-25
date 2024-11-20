@@ -2,10 +2,12 @@
 - vlastní
 	- termistor
 		- vede proud jen po zahřátí
+			- snižuje se odpor
+	- fotorezistor
+		- svítí na to= snižuje se odpor
 - příměsový
 - tranzistor
 	- vznikne spojením dvou PN přechodů
 	- NPN a PNP
 	- NPN šipka jde ven
 	![[Drawing 2024-11-13 12.07.13.excalidraw]]
-	

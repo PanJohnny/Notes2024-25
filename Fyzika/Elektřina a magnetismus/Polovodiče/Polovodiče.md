@@ -1,4 +1,4 @@
-- vedou proud jen za určitých podmínek
+- vedou proud jen za určitých podmínek [[Elektrické přeměny v elektrických obvodech]]
 - vlastní
 	- termistor
 		- vede proud jen po zahřátí

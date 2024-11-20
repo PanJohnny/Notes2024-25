@@ -2,57 +2,105 @@
 - počet kostí se v průběhu života mění
 	- novorozenec až 270 kostí
 	- dospělý cca 206 kostí → některé kosti v průběhu života srůstají
-- funkce
-	- vnitřní opora těla
-	- spolu se svaly umožňuje pohyb
-	- chrání důležité orgány (mozek, mícha, srdce, plíce, ... )
-	- krvetvorba v kostní dřeni
-	- zásobárna vápníku a fosforu
-- tvary kostí
-	- dlouhé
-		- kost pažní, loketní
-		- střední část = diafýza
-		- kloubní konce = epifýza
-	- krátké
-		- zápěstní, zánártní kůstky
-	- ploché
-		- kosti lebky, lopatky, hrudní kost
-	- nepravidelné
-		- obratle, dolní čelist
-- stavba dlouhé kosti
-	- povrch
-		- kryt tuhou vazivovou blánou = okostice
-			- bohatě prokrvená a inervovaná
-			- zajišťuje výživu kosti, růst do šířky, hojení zlomenin
-			- chybí na koncových částech
-				- nahrazena sklovitou chrupavkou
-		- na povrch se dále upínají vazy a svaly pomocí šlach
-	- vnitřní stavba
-		- vlastní kostní tkáň
-			- tvořena
-				- kostními buňkami = osteocyty
-				- mezibuněčnou hmotou uspořádanou do vrstev = lamel
+## funkce
+- vnitřní opora těla
+- spolu se svaly umožňuje pohyb
+- chrání důležité orgány (mozek, mícha, srdce, plíce, ... )
+- krvetvorba v kostní dřeni
+- zásobárna vápníku a fosforu
+## tvary kostí
+- dlouhé
+	- kost pažní, loketní
+	- střední část = diafýza
+	- kloubní konce = epifýza
+- krátké
+	- zápěstní, zánártní kůstky
+- ploché
+	- kosti lebky, lopatky, hrudní kost
+- nepravidelné
+	- obratle, dolní čelist
+## stavba dlouhé kosti
+- povrch
+	- kryt tuhou vazivovou blánou = okostice
+		- bohatě prokrvená a inervovaná
+		- zajišťuje výživu kosti, růst do šířky, hojení zlomenin
+		- chybí na koncových částech
+			- nahrazena sklovitou chrupavkou
+	- na povrch se dále upínají vazy a svaly pomocí šlach
+- vnitřní stavba
+	- vlastní kostní tkáň
+		- tvořena
+			- kostními buňkami = osteocyty
+			- mezibuněčnou hmotou uspořádanou do vrstev = lamel
+		- dělení
+			- kost houbová (spongiózní)
+				- epifýzy dlouhých kostí + vnitřek kostí plochých a krátkých
+			- systém tenkých trámečků - tvoří prostorovou síť
+				- síť uspořádána podle směru zatížení kosti = architektonika kosti
+			- kost hutná (kompaktní)
+				- tělo dlouhých kostí a povrch krátkých a plochých
+				- tvořena z hustě uspořádané kostní tkáně
+					- základem je válcový útvar osteon
+						- složen z kruhovitě uspořádaných lamel okolo Haversova kanálku
+							- kanálkem prochází cévy a nervy
+	- střed kosti
+		- kostní dřeň
+			- tvořena vazivovými vlákny s kmenovými buňkami a husté sítě cév (vlásečnic)
+			- vyplňuje dutiny dlouhých kostí a trámčinu v kosti houbovité
 			- dělení
-				- kost houbová (spongiózní)
-					- epifýzy dlouhých kostí + vnitřek kostí plochých a krátkých
-					- systém tenkých trámečků - tvoří prostorovou síť
-					- síť uspořádána podle směru zatížení kosti = architektonika kosti
-				- kost hutná (kompaktní)
-					- tělo dlouhých kostí a povrch krátkých a plochých
-					- tvořena z hustě uspořádané kostní tkáně
-						- základem je válcový útvar osteon
-							- složen z kruhovitě uspořádaných lamel okolo Haversova kanálku
-								- kanálkem prochází cévy a nervy
-		- střed kosti
-			- kostní dřeň
-				- tvořena vazivovými vlákny s kmenovými buňkami a husté sítě cév (vlásečnic)
-				- vyplňuje dutiny dlouhých kostí a trámčinu v kosti houbovité
-				- dělení
-					- červená kostní dřeň
-						- krvetvorba = vznik krvinek (červených i bílých) a krevních destiček
-						- v dětství ve většině kostí
-						- v dospělosti zachována v plochých a krátkých kostech
-					- žlutá kostní dřeň
-						- vzniká z červené v dutinách dlouhých kostí
-							- usazuje se v ní tuk
-						- ztrácí schopnost krvetvorby
+				- červená kostní dřeň
+					- krvetvorba = vznik krvinek (červených i bílých) a krevních destiček
+					- v dětství ve většině kostí
+					- v dospělosti zachována v plochých a krátkých kostech
+				- žlutá kostní dřeň
+					- vzniká z červené v dutinách dlouhých kosti
+					- usazuje se v ní tuk
+					- ztrácí schopnost krvetvorby
+## vývoj kostí
+- kost vzniká osifikací z chrupavky
+	- většina kostí
+- nebo osifikací z vaziva
+	- ploché kosti na lebce a klíční kost
+- osifikace
+	- začíná průnikem cév + kostitvorných buněk (osteoblastů)do chrupavčitého základu
+	- osteoblasty vytvoří jádro kostní tkáně, z něj se osifikace šíří dále		- osteoblasty (žírné buňky) působí opačně → odbourávají kost, kde nemá být (dutiny dlouhých kostí) + ničí poškozené kostní buňky
+- postupná regenerace a přestavba kostí probíhá po celý život
+## růst kostí
+- do šířky
+	- zaišťuje vnitřní vrstva okostnice
+- do délky
+	- růstové chrupavky mezi epifýzou a diafýzou
+- růst ukončen okolo 16. roku u dívek a okolo 18. roku u chlapců
+	- růstové chrupavky postupně kostnatějí
+## spojení kostí
+- pohyblivé
+	- kloub (koleno, rameno)
+		- stavba
+			- 2 styčné plochy
+				- kloubní hlavice a jamka
+					- pokryté chrupavkou
+					- mezi nimi
+						- úzká dutina vyplněná kloubním mazivem
+							- snižuje tření
+							- vyživuje chrupavky
+					- spojeny vazivovým kloubním pouzdrem
+						- vnitřní vrstva = synoviální membrána
+							- produkuje maz
+		- dělení
+			- podle počtu spojených kostí
+				- jednoduché
+					- spojují dvě kosti (kyčelní)
+				- složené
+					- více než dvě kosti (kolenní, klouby zápěstí)
+			- podle tvaru kloubních ploch
+				- kulovitý
+					- pohyb všemi směry (ramenní, kyčelní)
+				- válcovitý
+					- pouze natažení nebo ohnutí
+				- sedlový
+					- obě kosti mají dutou i vypouklou část
+- pevné
+	- srůst kostí (kost pánevní, křížová)
+	- vazivo (švy na lebce)
+	- chrupavka (žebra s hrudní kostí)
+-

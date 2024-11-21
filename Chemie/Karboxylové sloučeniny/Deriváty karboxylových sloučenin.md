@@ -191,7 +191,91 @@ CCC([Br])C(=o)o
 		- reakce fenolátu s $CO_2$
 - optická izomerie
 	- chirální uhlík
+		- uhlík, který má na každé vazbě jiný atom či skupinu atomů
 	- optické antipody
 		- stejné vlastnosti kromě točivosti roviny polarizovaného světla
 	- racemická směs
 		- 1:1 směs obou antipod
+- zástupci
+	- kyselina mléčná
+		- 2-hydroxypropanová kyselina
+		- vzniká mléčným kvašením cukru
+		- existuje ve dvou enantiomerech
+			- levotočivá
+				- D-mléčná kyselina/D-2-hydroxypropanová kyselina
+			- pravotočivá
+				- L-mléčná kyselina/L-2-hydroxypropanová kyselina
+				- vzniká jako produkt metabolismu sacharidů ve svalech
+					- laktát
+		- využití
+			- pekařství (E270)
+			- koželužství
+			- pivovarnictví
+			- barvení a zušlechťování textilií
+	- kyselina jablečná
+		- hydroxyjantarová/2-hydroxybutandiová
+		- nezralé ovoce, trpké nebo kyselé pokrmy
+		- aniont = malát
+		- potravinářství (E296)
+	- kyselina vinná
+		- 2,3-dihydroxyjantarová/2,3-dihydroxibutandiová
+		- výskyt v ovoci
+			- hlavně racemát
+		- potravinářství
+			- úprava kyselosti vín
+			- zábrana žluknutí tuků
+	-  kyselina citronová
+		- 2-hydroxypropan-1,2,3trikarboxylová kyselina
+			- v (hlavně) citrusových plodech
+			- součást citrátového (krebsova cyklu)
+				- meziprodukt metabolismu živin
+			- konzervant
+	- kyselina salycilová
+		- 2-hydroxybenzoová kyselina
+		- lékařství
+			- hlavně její deriváty
+				- kyselina o-acetylsalyciová
+					- acylpyrin, aspirin (antipyretikum, analgetikum)
+> kyselina máselná
+```smiles
+O=C(O)CCC
+```
+> kyselina jablečná
+```smiles
+O=C(O)CC(O)C(=O)O
+```
+> kyselina citronová
+```smiles
+OC(=O)CC(O)(C(=O)O)CC(=O)O
+```
+> kyselina salyciová
+```smiles
+O=C(O)c1ccccc1O
+```
+> acetylsalicová kyselina
+```smiles
+O=C(C)Oc1ccccc1C(=O)O
+```
+## Oxokyseliny
+- obsahují karboxylovou i karbonylovou skupinu
+- ketokyseliny
+	- kyselina pyrohroznová
+		- 2-oxopropanová kyselina
+		- její aniont je produkt glykolýzy (metabolismus sacharidů)
+	- kyselina acetoctová
+		- 3-oxobutanová kyselina
+		- produkt metabolismu tuků
+	- kyselina oxaloctová
+		- součást Krebsova cyklu
+> kyselina pyrohroznová
+```smiles
+O=C(C(=O)O)C
+```
+> kyselina acetoctová
+```smiles
+O=C(C)CC(=O)O
+```
+> kyselina oxaloctová
+```smiles
+O=C(O)C(=O)CC(=O)O
+```

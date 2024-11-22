@@ -103,4 +103,30 @@
 	- srůst kostí (kost pánevní, křížová)
 	- vazivo (švy na lebce)
 	- chrupavka (žebra s hrudní kostí)
--
+# Kostra
+- osová kostra
+	- podle osy souměrnosti těla
+	- lebka, páteř a hrudník
+- kostra končetin (2x horní 2x dolní)
+	- tvořena pletencem
+		- připojuje končetinu k osové kostře
+	- kostra volné končetiny
+- funkce
+	- viz [funkce]
+- Lebka
+	- chrání mozek, zrakové, čichové a sluchové orgány
+	- mozková část (mozkovna)
+		- uložení mozku
+	- obličejová část
+		- xicht
+	- na lebce jsou patrné pohlavní rozdíly
+	- kosti lebky
+		- kost čelní
+			- zakládá se jako párová, v dospělosti nepárová
+			- tvoří základ čela (viz klínská) a horní okraj očnic (nadočnicové oblouky)
+		- kost temenní
+			- párová
+			- šev šípový
+				- spojení dvou kostí temenních
+			- šev korunový
+				- spojení s kostí čelní

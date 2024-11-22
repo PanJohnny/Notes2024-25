@@ -130,3 +130,26 @@
 				- spojení dvou kostí temenních
 			- šev korunový
 				- spojení s kostí čelní
+		- kost týlní
+			- nepárová
+			- obsahuje týlní otvor (prostup pro míchu)
+			- kloubní výběžky pro první krční obratel
+			- lambdový šev
+				- spojení s kostí temenní
+		- kost spánková
+			- párová, srostlá z několika částí
+			- výběžky pro épon svalů
+			- kloubní jáma pro dolní čelist
+			- s výběžkem lícní kosti tvoří tzv. jařmový oblouk
+			- šev šupinový - spojení s kostí temenní
+		- kost skalní
+			- vnitřní součást kosti spánkové
+			- obsahuje orgány ucha (včetně tří sluchových kůstek)
+		- kost klínová
+			- nepárová
+			- složitý tvar (velká a malá křídla)
+			- turecké sedlo
+				- žlábek pro hypofýzu
+		- kost čichová
+			- tvoří strop nostní dutiny
+			- děrovaná prostupy čichového nervu do mozku

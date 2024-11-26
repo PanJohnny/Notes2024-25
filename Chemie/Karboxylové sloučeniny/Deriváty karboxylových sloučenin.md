@@ -236,6 +236,20 @@ CCC([Br])C(=o)o
 			- hlavně její deriváty
 				- kyselina o-acetylsalyciová
 					- acylpyrin, aspirin (antipyretikum, analgetikum)
+	- kyselina uhličitá
+		- hydroxymravenčí kyselina
+		- nejjednodušší hydroxykyselina
+		- močovina
+			- diamid kyseliny uhličité = urea
+			- první synteticky vyrobená organická látka
+			- příprava reakcí amoniaku s oxidem uhličitým
+				- $CO_{2} + 2NH_{3} \to NH_{2}CO_{2}NH_{4}\to CO(NH_{2})_{2}$
+			- výroba plastů a léků, dusíkaté hnojivo
+		- fosgen
+			- dichlorid kyseliny uhličité
+			- bezbarvý
+			- toxický (WWI - bojový plyn, vzniká plicní edém)
+			- důležitá průmyslová surovina (příprava chlorovaných derivátů)
 > kyselina máselná
 ```smiles
 O=C(O)CCC
@@ -255,6 +269,18 @@ O=C(O)c1ccccc1O
 > acetylsalicová kyselina
 ```smiles
 O=C(C)Oc1ccccc1C(=O)O
+```
+> kyselina uhličitá
+```smiles
+c(o)(o)=o
+```
+> močovina
+```smiles
+c(=o)(N)N
+```
+> fosgen
+```smiles
+c(=o)([Cl])[Cl]
 ```
 ## Oxokyseliny
 - obsahují karboxylovou i karbonylovou skupinu
@@ -279,3 +305,19 @@ O=C(C)CC(=O)O
 ```smiles
 O=C(O)C(=O)CC(=O)O
 ```
+## Aminokyseliny
+- mají na nuhlíkatém řetězci navázanou aminoskupinu $-NH_{2}$
+- v přírodě se obvykle vyskytují α-aminokyseliny
+- tvoří základní stavební jednotky bílkovin
+- fyzikální vlastnosti
+	- krystalické látky
+	- vysoké body tání
+	- rozpustné obvykle pouze ve vodě
+- příprava
+	- α-aminokyseliny
+		- reakcí α-halogenkyselin s vodným roztokem amoniaku
+	- β-aminokyseliny
+		- adice amoniaku na α,β-nenasycené kyseliny
+	- aromatické aminokyseliny
+		- redukcí příslušných aromatických nitrosloučenin
+		- 

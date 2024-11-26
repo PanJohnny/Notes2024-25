@@ -228,13 +228,13 @@
       "replaced": "alpha",
       "value": "α",
       "group": "Greek Letters",
-      "count": 13
+      "count": 18
     },
     "beta": {
       "replaced": "beta",
       "value": "β",
       "group": "Greek Letters",
-      "count": 2
+      "count": 4
     },
     "gamma": {
       "replaced": "gamma",

@@ -320,4 +320,20 @@ O=C(O)C(=O)CC(=O)O
 		- adice amoniaku na α,β-nenasycené kyseliny
 	- aromatické aminokyseliny
 		- redukcí příslušných aromatických nitrosloučenin
-		- 
+- chemické vlastnosti
+	- amfoterní látky
+		- přítomna bazická ($-NH_{2}$) i kyselá ($-COOH$) skupina
+		- reakce kyseliny aminooctové s kyselinou chlorovodíkovou
+			- vzniká hydrogenchlorid kyseliny aminooctové
+		- reakce kyseliny aminooctové s hydroxydem sodným
+			- vzniká aminooctan sodný a voda
+	- počet aminoskupin a karboxylových skupin v molekule
+		- stejný → přibližně neutrální reakce
+		- víc amino → zásadité reakce
+		- víc karboxylo → kyselé reakce
+```smiles
+c(N)c(=o)o.[Cl]-[H]>>c(N[Cl])c(=o)o
+```
+```smiles
+c(N)c(=o)o.o-[Na]>>c(N)c(=o)o-[Na]
+```

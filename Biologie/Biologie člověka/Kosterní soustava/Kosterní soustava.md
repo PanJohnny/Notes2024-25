@@ -211,5 +211,32 @@
 				- napojeníé pánevních kostí
 			- kostrč
 				- 4-5 zakrnělých srostlých obratlů
+		- v souvislosti se vzpřímenou postavou má lidská páteř dvouesovité zakřivení
+			- odpružení těla, tlumení nárazů
+			- 2 chtěné typy vyklenutí
+				- dopředu = lordóza
+					- krční + bederní
+				- dozadu = kyfóza
+					- hrudní + křížová
+				- skolióza
+					- vybočení páteře do strany → patologický jev
+				- "tak ta má tu prdel úplně takhle krásně"
 	- žebra
+		- 12 párů
+		- kloubě napojeny na obratle
+		- dělení
+			- pravá žebra
+				- 7 párů
+				- upínají se chrupavkou přímo na hrudní kost
+			- nepravá žebra
+				- 3 páry
+				- upínají se chrupavkou n apředchozí žebro
+			- volná žebra
+				- 2 páry
+				- končí volně ve svalovině
 	- hrudní kost
+		- rozdělena na 3 části
+			- rukojeť
+			- tělo
+			- mečovitý výběžek
+			- na rukojeť se upínají klíční kosti

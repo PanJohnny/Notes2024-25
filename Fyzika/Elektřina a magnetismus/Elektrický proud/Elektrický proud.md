@@ -4,3 +4,5 @@
 [[Zapojování resistorů]]
 [[Vliv elektrického pole na látku]]
 [[Kapacita]]
+
+[[Elektrický proud v kapalinách]]

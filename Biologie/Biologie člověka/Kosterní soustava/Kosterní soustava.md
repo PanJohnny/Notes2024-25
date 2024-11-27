@@ -119,6 +119,23 @@
 		- uložení mozku
 	- obličejová část
 		- xicht
+		- párové kosti
+			- horní čelist
+			- lícní kost (jařmová)
+				- její výběžek + výběžek kosti spánkové tvoří jařmový oblouk
+			- slzní kost
+			- nosní kost
+			- patrová kost
+				- zadní část tvrdého patra
+		- nepárové kosti
+			- radličná kost
+			- dolní čelist
+				- kloubně spojena se spánkovou kostí
+			- jazylka
+				- nepárová kůstka pod dolní čelistí
+				- podepírá jazyk
+				- je na ni zavěšen hrtan
+				- vazivem připojena na bodcovitý výběžek kostí spánkových
 	- na lebce jsou patrné pohlavní rozdíly
 	- kosti lebky
 		- kost čelní
@@ -153,3 +170,46 @@
 		- kost čichová
 			- tvoří strop nostní dutiny
 			- děrovaná prostupy čichového nervu do mozku
+- kostra trupu
+	- páteř
+		- tvoří hlavní osu těla
+		- chrání míchu
+		- stavba obratle
+			- tělo
+				- směřuje dopředu
+				- těla obratlů jsou spojena meziobratlovými ploténkami
+			- oblouk
+				- nasedá na tělo
+				- uzavírá otvor, kterým prochází mícha
+			- trnový výběžek
+				- vyrůstá z oblouku dozadu
+			- příčné výběžky
+				- vyrůstají z oblouku do stran
+		- složena z 33-34 obratlů
+		- stavba páteře
+			- krční páteř
+				- 7 obratlů
+				- 1. obratel
+					- nosič (atlas)
+					- nemá tělo a trnový výběžek
+					- kloubně napojen na týlní kost
+					- vertikální (kývavé pohyby hlavy)
+				- 2. obratel
+					- čepovec (axis)
+					- má čep
+						- na něj nasedá nosič
+					- horizontání (otáčivé) pohyby hlavy
+			- hrudní páteř
+				- 12 obratlů
+				- mají kloubní plošky, na které nasedají žebra
+			- bederní páteř
+				- 5 obratlů
+				- mají mohutná těla
+				- nesou největší zátěž
+			- křížová kost
+				- 5 srostlých obratlů
+				- napojeníé pánevních kostí
+			- kostrč
+				- 4-5 zakrnělých srostlých obratlů
+	- žebra
+	- hrudní kost

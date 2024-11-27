@@ -75,9 +75,22 @@
 - dílo:
 	- poezie
 		- **Květy intimních nálad**
+			- impresionismus
 		- **Z mého kraje**
 		- **Ještě jednou se vrátíme**
 	- próza
 		- taky psal
 		- Ivův román
 		- Pankrác Budecius, kantor
+
+## Vilém Mrštík
+- 1863-1912
+- prozaik, dramatik, literární kritik, překladatel
+- nedokonči studium práv, věnoval se literatuře
+- **impresionismus** + **naturalismus** + **realismus**
+- propagátor ruského a francouzského realismu
+- má bratra Aloise
+- dlouholeté psychické problémy ⇒ tvůrčí krize
+- dílo:
+	- **Maryša** - realismus; s bratrem; divadlo
+	- 

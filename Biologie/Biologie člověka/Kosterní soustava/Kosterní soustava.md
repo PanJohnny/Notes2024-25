@@ -230,7 +230,7 @@
 				- upínají se chrupavkou přímo na hrudní kost
 			- nepravá žebra
 				- 3 páry
-				- upínají se chrupavkou n apředchozí žebro
+				- upínají se chrupavkou na předchozí žebro
 			- volná žebra
 				- 2 páry
 				- končí volně ve svalovině

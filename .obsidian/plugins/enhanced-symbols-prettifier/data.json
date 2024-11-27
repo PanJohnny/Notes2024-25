@@ -4,7 +4,7 @@
       "replaced": "->",
       "value": "→",
       "group": "Arrows",
-      "count": 12
+      "count": 9
     },
     "<-": {
       "replaced": "<-",
@@ -25,7 +25,7 @@
       "replaced": "=>",
       "value": "⇒",
       "group": "Arrows",
-      "count": 6
+      "count": 7
     },
     "=/=": {
       "replaced": "=/=",
@@ -228,13 +228,13 @@
       "replaced": "alpha",
       "value": "α",
       "group": "Greek Letters",
-      "count": 18
+      "count": 13
     },
     "beta": {
       "replaced": "beta",
       "value": "β",
       "group": "Greek Letters",
-      "count": 4
+      "count": 2
     },
     "gamma": {
       "replaced": "gamma",

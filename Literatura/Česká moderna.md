@@ -92,5 +92,29 @@
 - má bratra Aloise
 - dlouholeté psychické problémy ⇒ tvůrčí krize
 - dílo:
-	- **Maryša** - realismus; s bratrem; divadlo
-	- 
+	- drama
+		- **Maryša** - realismus; s bratrem; divadlo; domácí násilí
+	- próza
+		- **Santa Lucia**
+		- **Pohádka máje** - impresionistický román, film (1940)
+
+## Josef Karel Šlejhar
+- 1864-1914
+- prozaik
+- zobrazuje pesimismus, destruktivní působení moderní civilizace
+- využívá šokující detaily
+- nedokončil studium na technické univerzitě
+- **naturalismus** - krutost, bezohlednost, živočišnost, ...
+- dílo:
+	- **Kuře melancholik** (1889) - paralela kuře a dítě; film (1999)
+
+# 2. Anarchističtí buřiči
+- mladí spisovatelé počátku 20. století
+- navazují na generaci 90. let 19. století
+- "**básnící života a vzdoru**" - většina odpor vůči společnosti + příklon k životu
+- stejný věk, bohémský život, satanismus, anarchismus
+- časopis **Nový kult**
+- **realismus** + **impresionismus** + **dekadence**
+- přirozenější, hovorovější, jasnější jazyk - bez složité mnohoznačnosti (abstraktní symboly nahrazují přímým pojmenováním a věcnosti)
+- směřují k lidové tvorbě - lidová píseň, městský folklór
+- **BEZRUČ, GELLNER, ŠRÁMEK, TOMAN, DYK, NEUMANN**

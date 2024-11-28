@@ -4,7 +4,8 @@
 	- rozbijeme molekuly (disociace)
 - elektrolýza
 - Faradayův zákon elektrolýzy
-	- Vzorec:$$
+	- Vzorec:
+		$$
 \begin{gather}
 m=\frac{M}{N_{A}}\cdot \frac{It}{ze} \\
 M\dots \text{molární hmotnost}  \\

@@ -309,6 +309,8 @@ O=C(O)C(=O)CC(=O)O
 - mají na nuhlíkatém řetězci navázanou aminoskupinu $-NH_{2}$
 - v přírodě se obvykle vyskytují α-aminokyseliny
 - tvoří základní stavební jednotky bílkovin
+- názvosloví
+	- [[Názvosloví aminokyselin]]
 - fyzikální vlastnosti
 	- krystalické látky
 	- vysoké body tání
@@ -331,9 +333,28 @@ O=C(O)C(=O)CC(=O)O
 		- stejný → přibližně neutrální reakce
 		- víc amino → zásadité reakce
 		- víc karboxylo → kyselé reakce
+	-  vnitřní sůl
+		- = amfion
+		- iontová forma molekuly aminokyseliny
+		- v molekule je zároveň $-COO^-$ a $NH_{3}^+$
+	- izoelektrický bod
+		- hodnota pH, při které jsou ionizovány obě charakteristické skupiny v aminokyselině
+		- charakteristický pro každou aminokyselinu
+		- aminokyselina v něm má nejnižší rozpustnost
+	- peptidická vazba
+		- vzniká spojení aminoskupiny jedné molekuly a karboxylu druhé molekuly
+		- odštěpuje se voda
+		- spojením dvou aminokyselin vzniká dipeptid, tří tripeptid
+			- velký počet molekul (více než 100) = polypeptid
+> reakce kyseliny aminooctové s kyselinou chlorovodíkovou
 ```smiles
 c(N)c(=o)o.[Cl]-[H]>>c(N[Cl])c(=o)o
 ```
+> reakce kyseliny aminooctové s hydroxydem sodným
 ```smiles
-c(N)c(=o)o.o-[Na]>>c(N)c(=o)o-[Na]
+c(N)c(=o)o.o-[Na]>>c(N)c(=o)o-[Na].O
+```
+> peptidická vazba (glycin + alanin)
+```smiles
+C(N)C(=o)o.CC(N)C(=o)o>>C(N)C(=o)NC(C)C(=O)o.O
 ```

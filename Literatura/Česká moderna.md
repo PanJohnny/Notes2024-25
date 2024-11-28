@@ -118,3 +118,13 @@
 - přirozenější, hovorovější, jasnější jazyk - bez složité mnohoznačnosti (abstraktní symboly nahrazují přímým pojmenováním a věcnosti)
 - směřují k lidové tvorbě - lidová píseň, městský folklór
 - **BEZRUČ, GELLNER, ŠRÁMEK, TOMAN, DYK, NEUMANN**
+
+## Petr Bezruč
+- 1867-1958
+- vlastním jménem Vladimír Vašek
+- nedokončil studium filologie, pracoval jako poštovní úředník
+- básník, **ostravský revolucionář**
+- slezská region - vliv kultury české, německé, polské, židovské
+- vnímán jako mluvčí lidu - stylizace do podoby "barda z Beskyd"
+- **sociální a národnostní tématika** - upozorňuje na problémy "svého" regionu (na útlak obyvatel)
+- lašské 

@@ -2,13 +2,13 @@
 - počet kostí se v průběhu života mění
 	- novorozenec až 270 kostí
 	- dospělý cca 206 kostí → některé kosti v průběhu života srůstají
-## funkce
+## Funkce
 - vnitřní opora těla
 - spolu se svaly umožňuje pohyb
 - chrání důležité orgány (mozek, mícha, srdce, plíce, ... )
 - krvetvorba v kostní dřeni
 - zásobárna vápníku a fosforu
-## tvary kostí
+## Tvary kostí
 - dlouhé
 	- kost pažní, loketní
 	- střední část = diafýza
@@ -19,7 +19,7 @@
 	- kosti lebky, lopatky, hrudní kost
 - nepravidelné
 	- obratle, dolní čelist
-## stavba dlouhé kosti
+## Stavba dlouhé kosti
 - povrch
 	- kryt tuhou vazivovou blánou = okostice
 		- bohatě prokrvená a inervovaná
@@ -56,7 +56,7 @@
 					- vzniká z červené v dutinách dlouhých kosti
 					- usazuje se v ní tuk
 					- ztrácí schopnost krvetvorby
-## vývoj kostí
+## Vývoj kostí
 - kost vzniká osifikací z chrupavky
 	- většina kostí
 - nebo osifikací z vaziva
@@ -65,14 +65,14 @@
 	- začíná průnikem cév + kostitvorných buněk (osteoblastů)do chrupavčitého základu
 	- osteoblasty vytvoří jádro kostní tkáně, z něj se osifikace šíří dále		- osteoblasty (žírné buňky) působí opačně → odbourávají kost, kde nemá být (dutiny dlouhých kostí) + ničí poškozené kostní buňky
 - postupná regenerace a přestavba kostí probíhá po celý život
-## růst kostí
+## Růst kostí
 - do šířky
 	- zaišťuje vnitřní vrstva okostnice
 - do délky
 	- růstové chrupavky mezi epifýzou a diafýzou
 - růst ukončen okolo 16. roku u dívek a okolo 18. roku u chlapců
 	- růstové chrupavky postupně kostnatějí
-## spojení kostí
+## Spojení kostí
 - pohyblivé
 	- kloub (koleno, rameno)
 		- stavba
@@ -113,7 +113,8 @@
 	- kostra volné končetiny
 - funkce
 	- viz [funkce]
-- Lebka
+### Lebka
+- jeff
 	- chrání mozek, zrakové, čichové a sluchové orgány
 	- mozková část (mozkovna)
 		- uložení mozku
@@ -168,8 +169,9 @@
 			- turecké sedlo
 				- žlábek pro hypofýzu
 		- kost čichová
-			- tvoří strop nostní dutiny
+			- tvoří strop nosní dutiny
 			- děrovaná prostupy čichového nervu do mozku
+### Kostra trupu
 - kostra trupu
 	- páteř
 		- tvoří hlavní osu těla
@@ -240,3 +242,92 @@
 			- tělo
 			- mečovitý výběžek
 			- na rukojeť se upínají klíční kosti
+### Kostra končetin
+- ke kostře trupu připojeny pomocí **pletence**
+- **horní končetina**
+	- **pletenec lopatkový**
+		- tvořen lopatkou a kostní klíční
+- **dolní končetina**
+	- **pletenec pánevní**
+		- tvořen pánevními kostmi a kostní křížovou
+#### Horní končetina
+- **pletenec lopatkový**
+	- **lopatka**
+		- plochá trojúhelníková kost
+		- připojena k trupu svaly
+	- **klíční kost**
+		- 12-16 cm, esovitě prohnutá
+		- upíná se na výběžek lopatko (nadpažek) + na rukojeť hrudní kosti
+- **kostra velké horní končetiny**
+	- **paže**
+		- **pažní**
+		- **loketní**
+			- směřuje k malíkové hraně ruky
+		- **vřetení**
+			- směřuje k palcové straně ruky
+	- **ruka**
+		- **kosti zápěstní**
+			- 8 kůstek ve dvou řadách
+		- **kosti záprstní**
+			- 5 kůstek
+		- **články prstů**
+			- 14 kostí
+			- 4 prsty mají 3 články
+			- palec 2 články
+- **klouby**
+	- **ramenní**
+		- pažní, lopatka, klíční
+		- velká pohyblivost
+	- **loketní**
+		- pažní, vřetenní, loketní
+	- **zápěstní**
+		- loketní, vřetenní, kůstky zápěstí
+	- **klouby ruky**
+		- umožňují pohyb prstů
+			- jemná motorika
+#### Dolní končetina
+- **pletenec pánevní**
+	- **pánev**
+		- 2 kosti **pánevní**
+			- vzniká srůstem tří kostí
+				- **kyčelní**
+				- **sedací**
+				- **stydká**
+			- kloubně připojena ke kosti křížové
+			- vpředu spojena sponou stydkou s druhou kostí pánevní
+		- kost **křížová**
+		- chrupavčitá **spona stydká** vpředu
+		- ženská pánev
+			- nižší, širší, otevřenější
+- **kostra volné dolní končetiny**
+	- **kost stehenní**
+		- nejsilnější kost v těle
+		- krček kosti stehenní
+			- zúžená část za hlavicí kyčelního kloubu
+	- **čéška**
+		- vrostlá do šlachy čtyřhlavého svalu stehenního
+		- chrání kolenní kloub
+	- **kost holenní**
+		- mohutnější, na palcové straně → vnitřní kotník
+	- **kost lýtková**
+		- na malíkové straně → zevní kotník
+	- **chodidlo**
+		- **7 kostí zánártních**
+			- největší **kost patní**
+				- upíná se na ni **Achillova šlacha**
+			- **kost hlezenní**
+				- kloubně spojená s oběma bércovými
+		- **5 kostí nártních**
+		- **14 článků prstů**
+		- kosti pomocí vazů a šlach vytváří **příčnou a podélnou klenbu** → zmírňují nárazy při chůzi → snižuje zátěž kloubů
+- **klouby dolní končetiny**
+	- **kyčelní**
+		- spojuje pánev s kostí stehenní
+		- při poškození se provádí náhrada kyčelního kloubu
+	- **kolenní**
+		- největší a nejsložitější kloub
+		- kost **stehenní, holenní, lýtková** + dvě chrupavčité destičky = **menisky + čéška**
+		- pro zpevnění slouží zkřížené a postranní vazy
+	- **hlezenní**
+		- tvoří ho kost holenní, lýtková + zánártní
+		- podvrtnutí

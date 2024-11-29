@@ -1,0 +1,22 @@
+- nefunguje rozpuštění
+- nutnost rozbíjet částice
+- ionizace plynu
+	- velké napětí
+	- zahřátí plynu
+	- ozáření plynu
+- 2 možnosti
+	- nesamostatný výboj
+		- nutnost ionizátoru
+	- samostatný výboj
+		- není potřeba ionizátor, ionizuje sám
+![[Drawing 2024-11-29 11.09.25.excalidraw]]
+- druhy
+	- jiskrový výboj
+		- vyrovná napětí mezi 2 místy (2 nabitá tělesa)
+		- přeskočí z místa na místo
+		- př. blesk, oblékání svetru
+	- obloukový výboj
+		- vysoké napětí
+		- např. oblouková svářečka
+	- koróna
+		- poblíž velmi vysokhéo...

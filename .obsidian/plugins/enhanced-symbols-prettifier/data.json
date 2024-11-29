@@ -3,7 +3,8 @@
     "->": {
       "replaced": "->",
       "value": "→",
-      "group": "Arrows"
+      "group": "Arrows",
+      "count": 1
     },
     "<-": {
       "replaced": "<-",
@@ -214,7 +215,8 @@
     "prod": {
       "replaced": "prod",
       "value": "∏",
-      "group": "Mathematical Operators"
+      "group": "Mathematical Operators",
+      "count": 1
     },
     "delta": {
       "replaced": "delta",

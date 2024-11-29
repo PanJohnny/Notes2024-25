@@ -132,3 +132,116 @@ profil
 
 ## Drogová válka
 - dlouhodobý ozbrojený konflikt mezi vládou Mexika a drogovými kartely
+# Ekvádor 
+- Hlavní město: Quito 
+- Hodně aktivních sopek 
+- Nejvyšší činná hora: Cotopaxi 
+- Nejvyšší hora: Chimborazo 
+- Těžba ropy 
+- 70 % energie z vody 
+- Banány, káva, rybolov 
+- Velká indiánská populace 
+    - Kičuánci 
+        - Rodí se chudokrevní - možný genetický drift 
+- 19 sopečných ostrovů 
+- Charles Darwin navštívil Galapágy 
+# Peru
+- Centrum říše Inků 
+- Nejvyšší hora: Huascarán (6778 m. n. m.) 
+    - Lavina, ve které zahynulo 15 českých horolezců 
+- Jezero Titicaca 
+- Jezero Popoo 
+# Bolívie
+- Vnitrozemská 
+- Název podle osobonosti 
+- Republika 
+- Dvě hlavní města 
+    - La Paz 
+    - Sucre 
+- Náhorní plošina Antiplan 
+- Nejvýše položené město s více než 100 000 obyvateli - Potosí 
+- Těží cín, zinek, wolfram, stříbro, zlato, ropa a zemní plyn
+
+# Chile
+- Santiago de Chile
+- dlouhá úzká
+- 6870 metrů nejvyšší hora
+- spoustu ostrovů (3000) - např. Velikonoční ostrov
+- diktátoři v minulosti
+	- Salvádor Caliente
+	- Generál Pinochet
+		- velký diktátor co tam byl
+		- krutej armádní militantní režim
+- vyspělá země
+- má tropický i subpolární pás
+- těžba mědi
+- poušť Atakama a Patagonie
+- ostrov Juana Fernandeze
+- množství barevných kovů
+- Chilský ledek
+- vodní elektrárny k výrobě elektřiny
+- zemědělství
+	- suroviny v centrálním údolí
+	- obilniny
+	- vinná réva
+		- dobré fancy víno
+- přírodní zajímavosti
+	- vysoké hory
+	- mrazové poušti
+	- kolonie tučptáků
+		- tučpták patagonský
+	- druhy plameňáků - endemiti
+	- speciální jezera
+		- teplé
+		- termál
+# Venezuela
+- sever Jižní Ameriky
+- přístup k Atlantskému oceánu
+- docela hodně ostrovů (asi 70)
+- Guyanská vysočina
+	- nejstarší horský celek na světě
+	- 5000 metrů jmenuje se Pico de Bolívar
+- jezero Maracaido
+	- těžba ropy
+	- kapička taková
+	- se to tam tak tak
+- 1914 objevení ropy
+	- před Texasem
+- Ázerdbajdžán
+	- první stát, kde se objevila ropa
+	- to ještě v Texasu nebylo nic
+- ropná horečka
+	- černé zlato
+- údajně se tam nachází Eldorado
+	- symbol bohatství
+	- stát
+- velké ekonomické problémy
+	- hýbala se cena ropy
+	- nahoru a dolu, nahoru a dolu ⇒ velikánská problémy ⇒ pořádně se zadlužila ⇒ regulérní bankrot ⇒ do dneška se s tím potýká
+- jo a nachází se zde nejvyšší vodopád na světě
+	- pilot James Angel ho objevil
+	- Angelův vodopád
+	- 979 metrů
+# Kolumbie
+- přístup k Atlantiku a Oceánu
+- uprostřed Panamská šíje
+- Bogota
+- 530 milionů obyvatel
+- výbežky And
+- Orinonská nížina
+- Amazonská nížina
+- hodně sopek
+- llanos = savany \[janos\]
+- jinak zase opět tady máme blízkost rovníku takže tady zase jako platí všechny biomy
+	- pouště
+	- savany
+	- zamrzlý místa
+- srážky
+	- vysoká vlhkost
+	- jen jedno roční období
+- bohatství na nerostné suroviny
+- ropa a uhlí (double černý drahý)
+- bolestivé místo Jižní Ameriky
+	- nelegální vývoz drog (kokain a mařka)
+	- kartely
+	- bojujou spolu kartely

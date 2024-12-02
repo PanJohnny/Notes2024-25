@@ -112,7 +112,7 @@
 		- připojuje končetinu k osové kostře
 	- kostra volné končetiny
 - funkce
-	- viz [funkce]
+	- viz [[#Funkce]]
 ### Lebka
 - jeff
 	- chrání mozek, zrakové, čichové a sluchové orgány

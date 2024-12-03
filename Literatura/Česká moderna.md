@@ -25,7 +25,7 @@
 - krátké trvání skupiny
 - "otevírání oken do Evropy"
 - symbolismus + impresionismus + naturalismus
-- Machar + Šalda + Březina + Sova + Mrštík + Šlejhar
+- [[#Josef Svatopluk Machar]] + Šalda + [[#Otokar Březina]] + [[#Antonín Sova]] + [[#Vilém Mrštík]] + [[#Josef Karel Šlejhar]]
 - Manifest české moderny
 	- napsáno 1985
 	- autoři: F. X. Šalda, J. S. Machar
@@ -117,7 +117,7 @@
 - **realismus** + **impresionismus** + **dekadence**
 - přirozenější, hovorovější, jasnější jazyk - bez složité mnohoznačnosti (abstraktní symboly nahrazují přímým pojmenováním a věcnosti)
 - směřují k lidové tvorbě - lidová píseň, městský folklór
-- **BEZRUČ, GELLNER, ŠRÁMEK, TOMAN, DYK, NEUMANN**
+- **[[#Petr Bezruč]], GELLNER, ŠRÁMEK, TOMAN, DYK, NEUMANN**
 
 ## Petr Bezruč
 - 1867-1958
@@ -127,4 +127,17 @@
 - slezská region - vliv kultury české, německé, polské, židovské
 - vnímán jako mluvčí lidu - stylizace do podoby "barda z Beskyd"
 - **sociální a národnostní tématika** - upozorňuje na problémy "svého" regionu (na útlak obyvatel)
-- lašské 
+- lašské nářečí, hovorové výrazy, knižní jazyk
+- některé jeho básně zhudebněny, např. J. Nohavica
+- **Slezské písně**
+
+## František Gellner
+- 1881-1914
+- básník. prozaik, karikaturista
+- **deziluze** z konce století + znechucení současnou společností
+- **prozaizace básnického jazyka** (hovorové výrazy, popěvky, ...)
+- (politická) satira
+- anarchismus - časopis Nový kult
+- po vojenské službě žil převážně v zahraničí (studium malířství)
+- od 1911 žil v Brně - redaktor Lidových novin
+- na začátku sv. v. narukoval na haličskou frontu - nezvěstný 13. 9. 1914

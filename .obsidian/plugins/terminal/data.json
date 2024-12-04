@@ -69,7 +69,7 @@
     },
     "linuxExternalDefault": {
       "args": [],
-      "executable": "xterm",
+      "executable": "/bin/bash",
       "name": "",
       "platforms": {
         "linux": true
@@ -87,7 +87,7 @@
     },
     "linuxIntegratedDefault": {
       "args": [],
-      "executable": "/bin/sh",
+      "executable": "/bin/bash",
       "name": "",
       "platforms": {
         "linux": true

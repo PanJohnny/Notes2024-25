@@ -68,7 +68,7 @@
 - postupná regenerace a přestavba kostí probíhá po celý život
 ## Růst kostí
 - do šířky
-	- zaišťuje vnitřní vrstva okostnice
+	- zajišťuje vnitřní vrstva okostice
 - do délky
 	- růstové chrupavky mezi epifýzou a diafýzou
 - růst ukončen okolo 16. roku u dívek a okolo 18. roku u chlapců

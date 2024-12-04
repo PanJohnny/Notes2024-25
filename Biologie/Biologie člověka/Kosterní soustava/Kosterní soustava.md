@@ -103,7 +103,7 @@
 	- srůst kostí (kost pánevní, křížová)
 	- vazivo (švy na lebce)
 	- chrupavka (žebra s hrudní kostí)
-# Kostra
+## Kostra
 - osová kostra
 	- podle osy souměrnosti těla
 	- lebka, páteř a hrudník

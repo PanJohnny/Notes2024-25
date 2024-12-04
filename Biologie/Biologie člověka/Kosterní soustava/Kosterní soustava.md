@@ -63,11 +63,12 @@
 	- ploché kosti na lebce a klíční kost
 - osifikace
 	- začíná průnikem cév + kostitvorných buněk (osteoblastů)do chrupavčitého základu
-	- osteoblasty vytvoří jádro kostní tkáně, z něj se osifikace šíří dále		- osteoblasty (žírné buňky) působí opačně → odbourávají kost, kde nemá být (dutiny dlouhých kostí) + ničí poškozené kostní buňky
+	- osteoblasty vytvoří jádro kostní tkáně, z něj se osifikace šíří dále
+	- osteoklasty (žírné buňky) působí opačně → odbourávají kost, kde nemá být (dutiny dlouhých kostí) + ničí poškozené kostní buňky
 - postupná regenerace a přestavba kostí probíhá po celý život
 ## Růst kostí
 - do šířky
-	- zaišťuje vnitřní vrstva okostnice
+	- zajišťuje vnitřní vrstva okostice
 - do délky
 	- růstové chrupavky mezi epifýzou a diafýzou
 - růst ukončen okolo 16. roku u dívek a okolo 18. roku u chlapců

@@ -19,4 +19,11 @@
 		- vysoké napětí
 		- např. oblouková svářečka
 	- koróna
-		- poblíž velmi vysokhéo...
+		- poblíž velmi vysokého napětí dochází k ionizaci plynu
+		- neviditelná
+- výboj za sníženého tlaku
+	- stačí nízké napětí (menší odpor molekul)
+	- z úzkých pramínků přechází v širší kužely
+	- při snížení tlaku až k vakuu přechází v katodové záření
+		- proud elektronů v (téměř) vakuu
+		- využití ve starých monitorech a RTG

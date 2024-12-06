@@ -23,12 +23,81 @@
     {
       "id": "541ebe75a132475f",
       "type": "file",
-      "file": "Dějepis/Druhá světová válka/Druhá světová válka.md",
+      "file": "Dějepis/Druhá světová válka.md",
       "styleAttributes": {
         "border": null
       },
       "x": -320,
       "y": -80,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "bd5a0e89f19c4a22",
+      "type": "file",
+      "file": "Dějepis/Studená válka.md",
+      "styleAttributes": {},
+      "x": 120,
+      "y": -80,
+      "width": 760,
+      "height": 400
+    },
+    {
+      "id": "b288b9665bd2eeb7",
+      "type": "text",
+      "text": "1945",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 360,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "2964eef33682fab1",
+      "type": "text",
+      "text": "1947",
+      "styleAttributes": {},
+      "x": 120,
+      "y": -180,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "e105dcfa4d19b1dd",
+      "type": "file",
+      "file": "Dějepis/Německá otázka.md",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 460,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "bd1d3b0c632a2cb5",
+      "type": "text",
+      "text": "1950",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 360,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "0493e757e2924712",
+      "type": "text",
+      "text": "1991",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -180,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "9fe90875bf106fa0",
+      "type": "file",
+      "file": "Dějepis/ČSSR po roce 1945.md",
+      "x": -40,
+      "y": 920,
       "width": 400,
       "height": 400
     }
@@ -39,6 +108,22 @@
       "fromNode": "737a016fbfcbfb97",
       "fromSide": "right",
       "toNode": "f935d8865cbb9929",
+      "toSide": "left"
+    },
+    {
+      "id": "b357d2920dc5f9e1",
+      "styleAttributes": {},
+      "fromNode": "b288b9665bd2eeb7",
+      "fromSide": "right",
+      "toNode": "bd1d3b0c632a2cb5",
+      "toSide": "left"
+    },
+    {
+      "id": "e36fa4d45ba0f308",
+      "styleAttributes": {},
+      "fromNode": "2964eef33682fab1",
+      "fromSide": "right",
+      "toNode": "0493e757e2924712",
       "toSide": "left"
     }
   ],

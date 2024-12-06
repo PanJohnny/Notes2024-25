@@ -27,3 +27,69 @@
 	- glykogen, kreatinfosfát, kys. mléčná, enzymy, ...
 - 1% anorganické
 	- Ca, K, Mg, Fe, P
+## Funkce svalů
+- dominantní funkce - **kontraktilita** = schopnost vztahů se stáhnout a uvolnit
+- podnět pro stah přichází po nervovém vlákně
+	- na konci se větví
+		- inervuje větší počet svalových vláken
+- jedno nervové vlákno a všechny svalové, které inervuje se označují jako tzv. **motorická jádnotka**
+- **přenos vzruchu**
+	- vylití mediátoru **acetylcholinu** do **nervosvalové ploténky**
+- **průběh svalové reakce:**
+	- vylití mediátoru → **vznik akčního potenciálu** na svalovém vláknu → **uvolnění vápenatých iontů z endoplazmatického retikula**
+	- **vápenaté ionty** naruší vazbu držící *aktin* a *miozin* ([[#Svalové vlákno]]) od sebe → **zasouvání vláken aktinu mezi vlákna myozinu** ==> ***zkrácení***
+	- po **návratu vápenatých iontů do endoplazmatického retikula** - obnovená vazby a návrat svalů do původní pozice ==> ***relaxace***
+- pro správnou funkci - potřeba **velkého množství energie** v podobě ATP → vznik odštěpením glukózy za přítomnosti $O_{2}$
+- při dlouhodobé zátěži - nedostatečné doplňování $O_{2}$ → **kyslíkový dluh** → hromadění kyseliny mléčné → tuhnutí, bolest
+- svaly jsou **důležité pro termoregulaci** = tvorba tepla
+- **dělení:**
+	- podle **krajiny**:
+		- ohybače, natahovače, odtahovače, přitahovače, svěrače, ...
+	- podle **směru svalových snopců**:
+		- přímý, šikmý, příčný
+	- podle **krajiny kde leží**
+		- prsní, čelní
+	- podle **stavby**:
+		- dvojhlavý, trojhlavý, čtyřhlavý
+- svaly činnosti doplňují
+	- antagonisté = opačný pohyb
+	- synergisté = spolupracují
+## Poruchy svalové soustavy
+- **natržení**: úponu, svalu, šlach
+- **záněty šlach**
+- **svalová atrofie** = ochabnutí svalů
+- **obrna**
+	- porucha hybnosti (neovládání svalů)
+	- důsledek poškození inervace svalů
+- **plegie** = úplné ochrnutí
+- **paréza** = částečné ochrnutí
+## Svaly hlavy
+- **mimické** - jedním koncem se upínají na kůži
+	- kruhový oční, kruhový ústní, čelní, smíchový, nosní, lícní
+- **žvýkací** - zajišťují pohyb dolní čelisti (upínají se jen na kosti)
+	- spánkový, žvýkací
+## Svaly krku
+- **zdvihač hlavy**
+- **svaly kloněné**
+## Svaly trupu
+### Svaly hrudníku
+- **velký sval prsní**
+- **malý prsní sval**
+- **sval pilovitý přední**
+- **mezižeberní svaly**
+	- vnitřní a vnější
+	- zajišťují dýchací pohyby hrudníku
+- **bránice**
+	- napomáhá dýchání
+	- odděluje dutiny hrudní a břišní
+### Svaly břicha
+- **přímý sval břišní**
+- **zevní šikmý sval břišní**
+- **příčný sval břišní**
+### Svaly pánevního dna
+- **zdvihač řitní**
+### Svaly zad
+- **sval trapézový**
+- **široký sval zádový**
+- **sval rombický**
+- **vzpřimovače páteře**

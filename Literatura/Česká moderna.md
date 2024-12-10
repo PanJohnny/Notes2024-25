@@ -129,7 +129,8 @@
 - **sociální a národnostní tématika** - upozorňuje na problémy "svého" regionu (na útlak obyvatel)
 - lašské nářečí, hovorové výrazy, knižní jazyk
 - některé jeho básně zhudebněny, např. J. Nohavica
-- **Slezské písně**
+- dílo:
+	- **Slezské písně**
 
 ## František Gellner
 - 1881-1914
@@ -141,3 +142,15 @@
 - po vojenské službě žil převážně v zahraničí (studium malířství)
 - od 1911 žil v Brně - redaktor Lidových novin
 - na začátku sv. v. narukoval na haličskou frontu - nezvěstný 13. 9. 1914
+- básně často zhudebňovány (Myšík, Nohavica, Visací zámek)
+- dílo:
+	- **Po nás ať přijde potopa!** (1901) - pesimismus, rezignace
+	- **Radosti života** (1903) - (sebe)ironie, smutek
+## Fráňa Šrámek
+- 1877-1352
+- narozen v Sobotce 1957
+- básník, prozaik, publicista
+- silná emocionálnost (citové zmatky, bohatá obraznost, umění náznaku zachycení)
+- nastupuje na vojenskou službu
+- dvakrát vězněn
+- 

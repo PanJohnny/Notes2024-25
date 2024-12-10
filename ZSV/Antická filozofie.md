@@ -151,4 +151,75 @@
 	        1. Co si neztratil, to máš 
 			2. Neztratil si rohy 
 	        3. Máš rohy
-- Sokratés na ně kriticky navazuje
+- Sokrates na ně kriticky navazuje
+## Sokrates
+
+## Platon
+- Žákem Sokrata 
+    - Když Sokrata veřejně popravili ztratil veškerou naději v současný politický systém 
+- Jeden z nejznámějších filozofů všech dob 
+- Z vážené rodiny - každý rodinný člen z váženého rodu 
+- Propojení filozofie a politiky 
+- Psal básně 
+    - Údajně spálil všechny básně, když četl Sokratovy texty a stal se jeho žákem 
+- Mluví o důležitosti dialogu 
+    - Umím klást dobré otázky 
+    - Naslouchám 
+    - Společný zájem o cíl či odpověď 
+- "Já vás Atéňané ctím a miluji…" 
+    - Používá Platon k uctění Sokrata 
+- Sympozion - sešlost/hostina intelektuálů 
+- Kriton - název dialogu s tématikou zákonů 
+- Poznáváme rozpomínáním - vzpomenout si, když ještě duše nebyla v těle 
+- Teorie poznání - existuje Bůh, já a svět zev dialogu s tématikou zákonů 
+- Poznáváme rozpomínáním - vzpomenout si, když ještě duše nebyla v těle 
+- Teorie poznání - existuje Bůh, já a svět 
+- Teorie duše
+- Denjurgos - duchovní síla, stavitel, tvůrce světa věcí 
+	- Existence v těle je chápáno jako vězení 
+ - Ústava 
+    - Mýtus o jeskyni 
+        - Otroci přivázaní ke zdi vidí pouze stíny objektů a nemohou znát přesně pravdu, když ji konečně jeden z nich pozná, ostatní mu nevěří
+- Teorie duše
+- Denjurgos - duchovní síla, stavitel, tvůrce světa věcí 
+    - Existence v těle je chápáno jako vězení 
+- Ústava 
+    - Mýtus o jeskyni 
+        - Otroci přivázaní ke zdi vidí pouze stíny objektů a nemohou znát přesně pravdu, když ji konečně jeden z nich pozná, ostatní mu nevěří
+- stát lze rozdělit na složky stejně jako lidi
+	- řemeslníci a zemědělci
+		- smysl pro míru (např. kolik potomků mají)
+		- mohou mít rodinu a děti
+	- strážci a strážkyně
+		- fyzicky a intelektuálně zdatní
+		- chránit a spravovat stát
+		- společný tábor
+			- společné ženy a děti
+	- filozof = vládce
+		- nejlepší z nejlepších
+		- vrcholný post
+		- mnoho povinností vůči státu
+		- zajišťování blahobytu pro celou obec
+		- nic nemají
+- pohlaví jsou si rovna, ale muži jsou lepší
+## Aristotelés
+- žák Platóna
+	- v jeho škole
+- pocházel ze Stageiry
+- systematik
+	- velmi obsáhlé spisy
+	- sbírá nerosty a ústavy
+- zakládá Lykeion
+	- škola
+- učil se a působil v Aténách
+	- vyhnán
+- zasáhl do mnoha oblastí vědění
+	- logika
+		- sylogismus
+			- ustálený typ úsudku
+				- 2 premisy a závěr
+	- přírodní vědy (hlavně fyzika)
+		- zákony přírody
+		- botanika, zoologie, vesmír, ...
+	- metafyzika
+- duše

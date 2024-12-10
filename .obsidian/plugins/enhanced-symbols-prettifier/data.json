@@ -25,7 +25,7 @@
       "replaced": "=>",
       "value": "⇒",
       "group": "Arrows",
-      "count": 5
+      "count": 7
     },
     "=/=": {
       "replaced": "=/=",
@@ -135,7 +135,8 @@
     "=>>": {
       "replaced": "=>>",
       "value": "⇉",
-      "group": "Arrows"
+      "group": "Arrows",
+      "count": 1
     },
     "<<=": {
       "replaced": "<<=",
@@ -170,7 +171,8 @@
     ">>": {
       "replaced": ">>",
       "value": "≫",
-      "group": "Mathematical Operators"
+      "group": "Mathematical Operators",
+      "count": 1
     },
     "||": {
       "replaced": "||",

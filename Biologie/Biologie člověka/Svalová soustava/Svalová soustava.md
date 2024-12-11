@@ -1,3 +1,4 @@
+
 - tvořena **příčně pruhovaným kosterním svalstvem**
 - spolu s kostrou vytváří **pohybový aparát** člověka
 - ke kostře se upínají z vnější strany **vazivovými šlachami**
@@ -93,3 +94,24 @@
 - **široký sval zádový**
 - **sval rombický**
 - **vzpřimovače páteře**
+
+### Svaly horní končetiny
+- **deltový sval**
+- **dvojhlavý sval pažní** - biceps
+- **trojhlavý sval pažní**
+
+.-......,.,.-
+
+## Svaly dolní končetiny
+- *přední pohled*
+	- **sval bedrokyčlostehenní**
+	- **krejčovský sval**
+		- nejdelší v těle
+	- **čtyřhlavý sval stehenní**
+		- v jeho úponové šlaše zasunutá čéška
+	- **přední sval holenní**
+- *zadní pohled*
+	- **hýžďové svaly** - malý, střední, velký
+	- **dvojhlavý sval stehenní**
+	- **trojhlavý sval lýtkový**
+		- z něj Achillova šlacha na hrbol patní kosti

@@ -153,4 +153,45 @@
 - silná emocionálnost (citové zmatky, bohatá obraznost, umění náznaku zachycení)
 - nastupuje na vojenskou službu
 - dvakrát vězněn
-- 
+- anarchista, antimilitarista 
+- impresionismus + vitalismus (vyjádření radosti ze života) 
+- před válkou spolupráce se skupinou S. K. Neumanna 
+- později inklinuje k okruhu spisovatelů kolem K. Čapka 
+- díla: 
+    - poezie 
+        - **Modrý a rudý** (1906) 
+            - odpor k válce 
+            - pesimistická 
+        - **Splav** (1916) 
+        - **Stříbrný vítr** (1910) 
+        - **Tělo** (1919) 
+    - drama 
+        - **Léto** (1916) 
+            - dramatická paralela ke Splavu 
+        - **Měsíc nad řekou** (1922)
+## Karel Toman
+- 1877-1946 
+- vlastní jméno Antonín Bernášek 
+- básník, novinář, překladatel; cestovatel (Německo, Holandsko, Anglie, Francie…) 
+- netoužil po zajištěném postavení -> "tulák" 
+- kontakt s evropskými anarchistickými skupinami 
+- vliv dekadence a symbolismu 
+- autentická intimní lyrika + prosté symboly + návaznost na klasickou českou poezii a lidovou tvorbu + pokrytecká morálka je vystavena opovržení + touha po harmonické krajině domova a zároveň negace zastaralých životních forem 
+- nejznámější díla: 
+    - **Sluneční hodiny** (1913): 16 básní, motivy z cest 
+    - **Měsíce** (1918): 12 básní, mají symbolický ráz 
+        - **Září**
+## Viktor Dyk
+- 1977-1931
+- básník, prozaik, dramatik, publicista, kritik, překladatel, politik
+- požadoval samostatnost, po vzniku Československa nejprve poslancem, pak senátorem
+- dekadence a symbolismus
+- v díle: rozpor mezi ideálem a skutečností + vzpoura + láska k národu + nemelodický prostý verš + náznaky + ironické zkratky + kritizuje české poměry
+- dílo:
+	- **Krysař**
+		- novela
+	- poezie
+		- **Válečná tetralogie**
+		- **Devátá vlna**
+	- drama
+		- **Zmoudření dona Quijota**

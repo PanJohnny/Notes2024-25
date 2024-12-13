@@ -99,7 +99,11 @@
 - **deltový sval**
 - **dvojhlavý sval pažní** - biceps
 - **trojhlavý sval pažní**
-- **ohybače zápěstí a loktů**
+- **svaly předloktí**
+	- **natahovače zápěstí**
+	- **ohybače zápěstí**
+	- **natahovače prstů**
+	- **ohybače prstů**
 
 ## Svaly dolní končetiny
 - *přední pohled*

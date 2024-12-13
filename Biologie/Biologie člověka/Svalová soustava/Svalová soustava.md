@@ -95,12 +95,15 @@
 - **sval rombický**
 - **vzpřimovače páteře**
 
-### Svaly horní končetiny
+## Svaly horní končetiny
 - **deltový sval**
 - **dvojhlavý sval pažní** - biceps
 - **trojhlavý sval pažní**
-
-.-......,.,.-
+- **svaly předloktí**
+	- **natahovače zápěstí**
+	- **ohybače zápěstí**
+	- **natahovače prstů**
+	- **ohybače prstů**
 
 ## Svaly dolní končetiny
 - *přední pohled*

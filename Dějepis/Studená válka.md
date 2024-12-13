@@ -18,3 +18,4 @@
 - politika zadržování
 - bída v Evropě
 - Marshallův plán
+![](https://manipulatori.cz/wp-content/uploads/2019/04/FERDA01.jpg)

@@ -23,7 +23,7 @@
 	- odstraňování hranic mezi uměním slovesným, hudebním a výtvarným
 - působil na všechny básnické školy
 - chce měnit svět, umění **ihned revolucí** → **příklon k extremismu** (fašismus, komunismus, …)
-### Filipo Tommaso Marinetti
+### Filippo Tommaso Marinetti
 - Itálie
 - **zakladatel a teoretik**, básník, prozaik a dramatik
 - politické ambice, symp. fašizmu

@@ -152,9 +152,9 @@
 			2. Neztratil si rohy 
 	        3. Máš rohy
 - Sokrates na ně kriticky navazuje
-## Sokrates
+### Sokrates
 
-## Platon
+### Platon
 - Žákem Sokrata 
     - Když Sokrata veřejně popravili ztratil veškerou naději v současný politický systém 
 - Jeden z nejznámějších filozofů všech dob 
@@ -202,7 +202,7 @@
 		- zajišťování blahobytu pro celou obec
 		- nic nemají
 - pohlaví jsou si rovna, ale muži jsou lepší
-## Aristotelés
+### Aristotelés
 - žák Platóna
 	- v jeho škole
 - pocházel ze Stageiry
@@ -223,3 +223,4 @@
 		- botanika, zoologie, vesmír, ...
 	- metafyzika
 - duše
+- LÁTKA, FORMA, PŘÍČINA, ÚČEL - říct kdyžtak Skolilové

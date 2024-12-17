@@ -210,3 +210,5 @@
 	- Rudé zpěvy (1923): proletářská poezie
 
 ![[kostka.png]]
+
+## 3. Futurismus

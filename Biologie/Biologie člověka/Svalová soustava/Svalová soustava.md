@@ -9,8 +9,7 @@
 > svalová válkna > snopečky > snopce > svalové bříško > povázka = fascie
 - základem - **svalové vlákno** = dlouhá, vláknitá, mnohojaderná buňka
 - několik desítek vláken spojeno vazivem ve **snopeček** → ty dále spojeny do **snopců**
-- soubor snopců spojených vazivem = **svalové bříško** (**hlava**)
-- celý sval obalen vazivovou blánou **povázkou** (=fascie)
+
 #### Svalové vlákno
 - uvnitř podlouhlé útvary = **MYOFIBRILY**
 	- složeny z opakujících se válcovitých úseků = **SARKOMER**

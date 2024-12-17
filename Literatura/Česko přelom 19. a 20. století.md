@@ -195,3 +195,17 @@
 		- **Devátá vlna**
 	- drama
 		- **Zmoudření dona Quijota**
+## Stanislav Kostka Neumann
+- 1875-1947
+- narozen v pražské zámožné rodině, otec brzy zemřel
+- vychováván matkou a tetami v olšanské vile
+- 1893 odsouzen v procesu s Omladinou
+- **novinář** -> spolupráce s Moderní revuí, 1897 založil **Nový kult** (fungoval do r. 1905)
+> <span style="color: #1290FF">revue</span>
+> <span style="color: yellow">časopis náročnějšího obsahu</span>
+- přes padesát let tvůrčí činnosti => složitý umělecký vývoj (dekadence, symbolismus, civilismus, realismus, proletářská poezie....)
+- dnes uznáván především jako básník (lyrika milostná a přírodní)
+- dílo:
+	- **Kniha lesů, vod a strání** (1914): přírodní lyrika
+	- Nové zpěvy (1918): civilismus
+- Rudé zpěvy (1923): proletářská poezie

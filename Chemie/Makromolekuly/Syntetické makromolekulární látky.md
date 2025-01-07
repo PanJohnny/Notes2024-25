@@ -1,0 +1,24 @@
+- plasty, syntetické kaučuky a syntetická vlákna
+- vznikají polyreakcemi
+- další zpracování
+	- vytlačování, lisování, vyfukování
+- vlastnosti lze měnit přísadami
+	- pigmenty, změkčovadla, stabiloizátory
+- využití
+	- textil
+	- stavebnictví
+	- zdravotnictví
+	- elektrotechnika
+- výhody
+	- nízká hmotnost a hustota
+	- chemická odolnost
+	- izolační vlastnosti
+	- pevnost
+	- snadná tvarovatelnost
+	- nízké náklady na výrobu
+- nevýhody
+	- nižší odolnost vůči vysokým teplotám
+	- hořlavost
+	- horší propustnost plynů a vody
+	- odolné vůči biologickému rozkladu
+	- problém s likvidací

@@ -22,3 +22,26 @@
 	- horší propustnost plynů a vody
 	- odolné vůči biologickému rozkladu
 	- problém s likvidací
+- vlastnosti
+	- ovlivněny
+		- polymeračním stupněm n
+			- = počet jednotek v řetězci
+			- n < 10 - oligomery
+			- n > 10 - polymery
+		- typem monomerů
+		- strukturou
+		- substituenty vázanými na hlavním řetězci
+- dělení
+	- dle typu monomeru
+		- homopolymery
+			- vznikají polymerací jednoho typu monomerů
+			- *polyethylen*
+			- *polypropylen*
+			- *vinylové plasty*
+			- *polystyren*
+			- *molymethylmethakrylát*
+		- kopolymery
+			- vznikají polymerací více typů monomerů
+			- *polyamidy*
+			- *polyestery*
+			- *polyurethany*

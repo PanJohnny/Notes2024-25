@@ -4,7 +4,7 @@
       "replaced": "->",
       "value": "→",
       "group": "Arrows",
-      "count": 23
+      "count": 18
     },
     "<-": {
       "replaced": "<-",
@@ -192,8 +192,7 @@
     "...": {
       "replaced": "...",
       "value": "…",
-      "group": "Miscellaneous",
-      "count": 1
+      "group": "Miscellaneous"
     },
     "sqrt": {
       "replaced": "sqrt",

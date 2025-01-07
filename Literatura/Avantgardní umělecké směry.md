@@ -38,5 +38,16 @@
 - Rusko
 
 ## 2. Kubofuturismus
+- spojení kubismu a futorismu
+- dynamismus + snaha o autonomnost umělecké reality + kubistická technika vytváření věcí z částic = **mnohopohledovost**
+- zachycení skutečnosti z mnoha úhlů pohledu - polytematičnost
+- uvolnění struktury básně -> **kaligram**
+- spojení **asociace**
+- **Apollinaire**
+
+## Apolinaire
+- kaligramy
+	- **Paříž**
+
 ## 3. Dadaismus
 ## 4. Surrealismus

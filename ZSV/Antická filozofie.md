@@ -114,6 +114,15 @@
 - Platón
 - Aristotelés
 
+
+| Týpek       | Myšlení                                                                                 |
+| ----------- | --------------------------------------------------------------------------------------- |
+| Protagoras  | subjektivismus, praotec skepticismu, bohy nelze potvrdit ani vyvrátit, právo silnějšího |
+| Gorgias     | sofisma                                                                                 |
+| Sokrates    |                                                                                         |
+| Platon      |                                                                                         |
+| Aristotelés |                                                                                         |
+
 ### Sofisté
 - současníci Sókrata
 - nevytvořili školu ⇒ individualisté (rivalita)

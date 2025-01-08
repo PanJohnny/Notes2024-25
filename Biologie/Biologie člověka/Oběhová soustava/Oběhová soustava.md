@@ -88,14 +88,14 @@
 - Funkce
 	- Zástava krvácení - destičky uvolňují enzym trombokinázu -> za přítomnosti Ca iontů přeměňuje plazmatickou bílkovinu protrombin na trombin -> ten mění další bílkovinu fibrinogen na fibrin -> fibrin vytvoří síť vláken, která zachytí krevní buňky -> vzniká krevní koláč 
     - Po uzavření cévy proces ukončen protisrážlivými faktory 
-#### Krevní skupiny 
+### Krevní skupiny 
 - = třídění krve podle antigenů na povrchu erytrocytů 
 - Nejdůležitější AB0 systém a Rh faktor 
 - Krevní skupiny AB0 systému 
     - Aglutinogeny = antigeny na erytrocytu - AB 
     - Aglutininy = protilátky v plazmě - anti-A, anti-B 
     - Při kontaktu aglutinogenu (například B) s příslušným aglutininem (například anti-B) dojde k aglutinaci = shlukování erytrocytů -> tyto shluky ucpávají cévy, důsledkem může být i smrt 
-#### Rh faktor 
+### Rh faktor 
 - Rh pozitivní (Rh+): Rh antigen na povrchu erytrocytů - krev nevytváří protilátky anti-Rh 
 - Rh negativní (Rh-): na povrchu erytrocytů není Rh antigen - krev tvoří protilátky 
 - Nebezpečí u těhotných žen s Rh -> pokud plod Rh+ po otci, tvoří proti němu protilátky -> poškození krvinek dítěte 

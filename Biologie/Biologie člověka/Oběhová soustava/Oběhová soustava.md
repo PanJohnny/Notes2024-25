@@ -47,4 +47,59 @@
 - doba života proměnlivá (hodina až roky)
 - **funkce**
 	- obranyschopnost = **imunita**
-	- 
+	- Granulocyty 
+	    - Podle typu barvení se dělí: neutrofilní (nejvíce), eozinofilní, bazofilní 
+	    - Vznik: kostní dřeň 
+	    - Většina pohlcuje cizorodé částice fagocytózou 
+	- Agranulocyty 
+	    - Dělí se
+	        - Monocyty - největší 
+	            - Vznik: Kostní dřeň, slezina, játra, mízní uzliny 
+	            - Po vstupu do tkání se mění na makrofágy a fagocytují 
+	        - Lymfocyty - rozlišujeme T-lymfocyty a B-lymfocyty 
+	            - T-lymfocyty 
+	                - Dozrávají v brzlíku (thymus) 
+	                - Zajišťují buněčnou buněčnou imunitu -> cíleně bojují pro cizorodým buňkám + napadeným a pozměněným buňkám vlastního těla 
+	                - Působí potíže při transplantacích 
+	            - B-lymfocyty 
+	                - Dozrávají v kostní dřeni 
+	                - Zajišťují látkovou imunitu -> při kontaktu s antigenem se mění na plazmatické buňky produkující protilátky 
+	- Imunita 
+	    - = schopnost organismu bránit se cizorodým látkám 
+	    - Imunita nespecifická 
+	        - Tvoří "první linii" obrany, účinkuje okamžitě po napadení organismu 
+	        - Zajišťují granulocyty a monocyty 
+	        - Dále se podílí kůže, lysozym ve slinách, HCl v žaludku 
+	    - Imunita specifická 
+	        - Reakce na konkrétní antigeny = specifické cizorodé látky 
+	        - Zajišťují lymfocyty 
+	        - Při prvním setkání s antigenem pomalejší reakce - při dalším již rychlá díky tvorbě tzv. "paměťových lymfocytů" 
+	            - Tvorba paměťových T- a B-lymfocytů se využívá při očkování 
+	                - Aktivní imunizace 
+	                    - Vpravení oslabených virů do organismu -> vytvoření protilátek 
+	                    - Dlouhodobá paměť 
+	                - Pasivní imunizace 
+	                    - Tělo rovnou dostane protilátky 
+	                    - Po vymizení protilátek se organismus musí bránit sám 
+
+#### Krevní destičky (trombocyty) 
+- Nepravidelné úlomky velkých buněk kostní dřeně - megakaryocytů 
+- $200 - 300$ tisíc na $1 mm^3$ 
+- Funkce
+	- Zástava krvácení - destičky uvolňují enzym trombokinázu -> za přítomnosti Ca iontů přeměňuje plazmatickou bílkovinu protrombin na trombin -> ten mění další bílkovinu fibrinogen na fibrin -> fibrin vytvoří síť vláken, která zachytí krevní buňky -> vzniká krevní koláč 
+    - Po uzavření cévy proces ukončen protisrážlivými faktory 
+#### Krevní skupiny 
+- = třídění krve podle antigenů na povrchu erytrocytů 
+- Nejdůležitější AB0 systém a Rh faktor 
+- Krevní skupiny AB0 systému 
+    - Aglutinogeny = antigeny na erytrocytu - AB 
+    - Aglutininy = protilátky v plazmě - anti-A, anti-B 
+    - Při kontaktu aglutinogenu (například B) s příslušným aglutininem (například anti-B) dojde k aglutinaci = shlukování erytrocytů -> tyto shluky ucpávají cévy, důsledkem může být i smrt 
+#### Rh faktor 
+- Rh pozitivní (Rh+): Rh antigen na povrchu erytrocytů - krev nevytváří protilátky anti-Rh 
+- Rh negativní (Rh-): na povrchu erytrocytů není Rh antigen - krev tvoří protilátky 
+- Nebezpečí u těhotných žen s Rh -> pokud plod Rh+ po otci, tvoří proti němu protilátky -> poškození krvinek dítěte 
+- Transfuze 
+     - Musí souhlasit skupina AB0 i Rh faktor 
+     - Pouze v nouzi možné využít: 0 = 0 univerzální dárce / AB = univerzální příjemce 
+     - Vždy platí Rh- nesmí dostat Rh+

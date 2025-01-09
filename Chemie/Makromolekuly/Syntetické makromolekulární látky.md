@@ -45,3 +45,44 @@
 			- *polyamidy*
 			- *polyestery*
 			- *polyurethany*
+	- podle tvaru molekul
+		- ![[Pasted image 20250109082528.png]]
+	- dle zpracovatelnosti po ohřátí
+		- termoplasty
+			- teplem tvarovatelné
+			- lze opakovat
+			- obvykle lineární nebo větvené
+		- reaktoplasty (dříve termosety)
+			- teplem tvrditelné
+			- po vytvarování a vytvrzení lze znovu zahřát a tvarovat
+			- obvykle síťované řetězce
+		- elastomery
+			- natažením násobí délku, navrátí se do původního tvaru
+	- dle dopadu na životní prostředí
+		- plně syntetické
+			- odolné vůči biodegradaci
+		- polosyntetické (bioplasty)
+			- modifikace přírodních polymerů
+		- speciální skupiny
+			- plasty se zkrácenou životností
+			- woodplastic
+- reakce pro vznik polymerů
+	- polymerace
+	- polyadice
+	- polykondenzace
+## Polymerace
+- reagují nenasycené monomery za vzniku polymerů bez vedlejších produktů
+$$
+\begin{align}
+n H_{2}C = CH-X \to [-CH_{2}-CHX-]_{n}
+\end{align}
+$$
+- mechanismus - radikálový, iontový - tři fáze
+	- iniciace
+	- propagace
+	- terminace
+- polymery vzniklé polymerací
+	- polyethylen PE
+		- termoplast, který vzniká polymerací ethylen
+		- pevný, houževnatý; odolný vůči vodě; elektroizolant
+		- ![[PE.excalidraw]]

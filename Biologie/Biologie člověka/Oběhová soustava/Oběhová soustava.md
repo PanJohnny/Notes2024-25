@@ -141,3 +141,31 @@
 	- **poloměsíčité**
 		- mezi komorami a tepnami
 ![[Srdce.png]]
+### Činnost srdce
+- střídání **stahu = systola** a **ochabnutí = diastola**
+- obě poloviny vykonávají vždy stejné pohyby
+- lze rozlišit 3 fáze
+	1. **systola síní a diastola komor**
+		- síně vypuzují krev do komor
+		- komory jsou ochablé - nasávají krev
+	2. **diastola síní a systola komor**
+		- síně začnou ochabovat - nasávají krev ze žil
+		- komory se stahují → vytlačuje krev do tepen
+		- uzavřou se cípaté chlopně
+			- v hrudníku je slyšet úder = **první srdeční ozva**
+	3. **diastola síní a diastola komor**
+		- síně zůstávají ochablé
+		- komory ukončí stah a začnou ochabovat
+		- uzavřou se poloměsíčité chlopně
+			- je slyšet slabší úder = **druhá srdeční odezva**
+### Řízení srdce
+- srdce = autonomní orgán → má svůj vlastní řídící systém = **převodní systém srdeční**
+- **síňový (sinusový) uzlík**
+	- hlavní řídící prvek - leží v horní části pravé síně
+	- vysílá pravidelné signály - vlny se šíří po povrchu síní
+- **síňokomorový uzlík**
+	- na rozhraní síní a komor - přijímá signál ze síňového uzlíku
+- na něj navazuje **Hisův svazek**
+	- dělí se na dvě větve → k pravé a levé komoře
+- **Purkyňova vlákna**
+	- převádějí signál do spodní části komor

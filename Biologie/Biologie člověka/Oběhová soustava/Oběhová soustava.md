@@ -103,3 +103,41 @@
      - Musí souhlasit skupina AB0 i Rh faktor 
      - Pouze v nouzi možné využít: 0 = 0 univerzální dárce / AB = univerzální příjemce 
      - Vždy platí Rh- nesmí dostat Rh+
+## Srdce
+- dutý orgán
+- za hrudní kostí
+- hrotem směřuje doleva
+- hmotnost cca 300g
+- **vrstvy srdce**
+	- **osrdečník (perikard)**
+		- ochranný vazivový obal na povrchu
+	- **přísrdečník (epikard)**
+		- tenká vazivová blána
+		- ve štěrbině mezi nimi je kapalina → usnadňuje pohyb
+	- **srdeční svalovina (myokard)**
+		- velmi výkonná
+		- buňky tvaru Y
+			- propojeny můstky → šíření signálu ke stahům
+	- **nitroblána (endokard)**
+		- velmi hladký epitel
+		- pokrývá vnitřní prostory
+- má 2 síně a 2 komory
+- **pravá síň**
+	- vstupuje do ní **horní a dolní dutá žíla**
+- **pravá komora**
+	- ústí do **plicní tepny**
+- **levá síň**
+	- vstupují do ní **plicní žíly**
+- **levá komora**
+	- má nejsilnější vrstvu myokardu
+	- ústí do aorty
+- **srdeční chlopně**
+	- zabraňují zpětnému toku krve (jen jeden směr)
+	- **cípaté**
+		- mezi síněmi a komorami
+		- **trojcípá** - pravá síň / komora
+			- (pravá ruka víc lidí píše → víc cípů)
+		- **dvoucípá** - levá síň / komora
+	- **poloměsíčité**
+		- mezi komorami a tepnami
+![[Srdce.png]]

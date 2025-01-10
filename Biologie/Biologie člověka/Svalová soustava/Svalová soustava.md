@@ -41,7 +41,7 @@
 - při dlouhodobé zátěži - nedostatečné doplňování $O_{2}$ → **kyslíkový dluh** → hromadění kyseliny mléčné → tuhnutí, bolest
 - svaly jsou **důležité pro termoregulaci** = tvorba tepla
 - **dělení:**
-	- podle **krajiny**:
+	- podle **funkce**:
 		- ohybače, natahovače, odtahovače, přitahovače, svěrače, ...
 	- podle **směru svalových snopců**:
 		- přímý, šikmý, příčný

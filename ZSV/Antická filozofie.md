@@ -138,64 +138,67 @@
 	- moudrost za peníze vadí
 - zajímají je jenom lidé
 - uspokojení cíle na úkor druhých
-- Protagoras z Abdery
-	- jsoucí jsou a nejsoucí nejsou
-	- subjektivismus → člověk rozhoduje co je a co není
-	- každý má pravdu
-	- můžu tvrdit, že je něco černýho, ale zároveň je to bílí
-	- praotec skepticismu
-	- právo přírody → silnějšího
-	- co je zlo, co je dobro? - relavitizace
-	- bohy nelze potvrdit ani vyvrátit
-- Gorgias z Leontyn
-	- nejsoucí = příroda
-	- 3 zásady
-		- nic není
-		- je-li i něco, nemůže to člověk poznat
-		- lze-li to i poznat, nelze to přece s bližním sdělit a jemu to vložit
-	- řeč = silná zbraň
-	- ispirace Zenonem a Parmenidem
-	- Sofisma - řečnické triky, logické úskoky, zneužití logiky 
-	    - Sofisma rohatých 
-	        1. Co si neztratil, to máš 
-			2. Neztratil si rohy 
-	        3. Máš rohy
 - Sokrates na ně kriticky navazuje
+#### Protagoras z Abdery
+- jsoucí jsou a nejsoucí nejsou
+- subjektivismus → člověk rozhoduje co je a co není
+- každý má pravdu
+- můžu tvrdit, že je něco černýho, ale zároveň je to bílí
+- praotec skepticismu
+- právo přírody → silnějšího
+- co je zlo, co je dobro? - relavitizace
+- bohy nelze potvrdit ani vyvrátit
+#### Gorgias z Leontyn
+- nejsoucí = příroda
+- 3 zásady
+	- nic není
+	- je-li i něco, nemůže to člověk poznat
+	- lze-li to i poznat, nelze to přece s bližním sdělit a jemu to vložit
+- řeč = silná zbraň
+- ispirace Zenonem a Parmenidem
+- Sofisma - řečnické triky, logické úskoky, zneužití logiky 
+    - Sofisma rohatých 
+        1. Co si neztratil, to máš 
+		2. Neztratil si rohy 
+		3. Máš rohy
 ### Sokrates
+- Atény
+- nic nenapsal
+- vyučoval zadarmo
+- filozofování prostřednictvím rozhovoru == dialektika
+- je hledačem pravdy - svojí
+- vím-li co je dobro → konám dobro ⇒ správné myšlení => správné chování <==> **etický intelektualismus**
+- kazil mládež == posmíval se bohům a Atéňanům
+- odsouzen k smrti jedem
+- úcta k zákonům → neutekl z vězení i když několikrát mohl
+- „Vím, že nic nevím“
+- **DAIMONION** = svědomí
 
 ### Platon
-- Žákem Sokrata 
-    - Když Sokrata veřejně popravili ztratil veškerou naději v současný politický systém 
-- Jeden z nejznámějších filozofů všech dob 
-- Z vážené rodiny - každý rodinný člen z váženého rodu 
-- Propojení filozofie a politiky 
-- Psal básně 
-    - Údajně spálil všechny básně, když četl Sokratovy texty a stal se jeho žákem 
-- Mluví o důležitosti dialogu 
-    - Umím klást dobré otázky 
-    - Naslouchám 
-    - Společný zájem o cíl či odpověď 
-- "Já vás Atéňané ctím a miluji…" 
-    - Používá Platon k uctění Sokrata 
-- Sympozion - sešlost/hostina intelektuálů 
-- Kriton - název dialogu s tématikou zákonů 
-- Poznáváme rozpomínáním - vzpomenout si, když ještě duše nebyla v těle 
-- Teorie poznání - existuje Bůh, já a svět zev dialogu s tématikou zákonů 
-- Poznáváme rozpomínáním - vzpomenout si, když ještě duše nebyla v těle 
-- Teorie poznání - existuje Bůh, já a svět 
-- Teorie duše
-- Denjurgos - duchovní síla, stavitel, tvůrce světa věcí 
-	- Existence v těle je chápáno jako vězení 
- - Ústava 
-    - Mýtus o jeskyni 
-        - Otroci přivázaní ke zdi vidí pouze stíny objektů a nemohou znát přesně pravdu, když ji konečně jeden z nich pozná, ostatní mu nevěří
-- Teorie duše
-- Denjurgos - duchovní síla, stavitel, tvůrce světa věcí 
-    - Existence v těle je chápáno jako vězení 
-- Ústava 
-    - Mýtus o jeskyni 
-        - Otroci přivázaní ke zdi vidí pouze stíny objektů a nemohou znát přesně pravdu, když ji konečně jeden z nich pozná, ostatní mu nevěří
-- stát lze rozdělit na složky stejně jako lidi
+- žák Sokrata 
+    - poprava ⇒ ztráta naděje v současný politický systém 
+- velmi mladý (rarita)
+- vážená rodina
+- filozofie + politika
+	-  **kriton** - název dialogu s tématikou zákonů 
+- psal básně 
+    - údajně spálil všechny básně, když četl Sokratovy texty a stal se jeho žákem 
+- mluví o důležitosti dialogu 
+    - klást dobré otázky 
+    - naslouchat 
+    - společný zájem o cíl či odpověď 
+- „Já vás Atéňané ctím a miluji…“
+    - k uctění Sokrata
+- **symposion** - sešlost/hostina intelektuálů
+- teorie poznání - existuje **Bůh**, **já** a **svět**
+- poznáváme rozpomínáním - vzpomenout si, když ještě duše nebyla v těle 
+- teorie duše
+- **Denjurgos** - duchovní síla, stavitel, tvůrce světa věcí 
+	- existence v těle je chápáno jako vězení 
+ - **Ústava** 
+    - **Mýtus o jeskyni** 
+        - otroci přivázaní ke zdi vidí pouze stíny objektů a nemohou znát přesně pravdu, když ji konečně jeden z nich pozná, ostatní mu nevěří
+- stát lze rozdělit na **složky** stejně jako lidi
 	- řemeslníci a zemědělci
 		- smysl pro míru (např. kolik potomků mají)
 		- mohou mít rodinu a děti
@@ -210,7 +213,7 @@
 		- mnoho povinností vůči státu
 		- zajišťování blahobytu pro celou obec
 		- nic nemají
-- pohlaví jsou si rovna, ale muži jsou lepší
+- pohlaví jsou si rovna, ale **muži jsou lepší**
 ### Aristotelés
 - žák Platóna
 	- v jeho škole
@@ -218,18 +221,17 @@
 - systematik
 	- velmi obsáhlé spisy
 	- sbírá nerosty a ústavy
-- zakládá Lykeion
+- zakládá **Lykeion**
 	- škola
 - učil se a působil v Aténách
 	- vyhnán
 - zasáhl do mnoha oblastí vědění
 	- logika
-		- sylogismus
+		- **sylogismus**
 			- ustálený typ úsudku
 				- 2 premisy a závěr
 	- přírodní vědy (hlavně fyzika)
 		- zákony přírody
 		- botanika, zoologie, vesmír, ...
 	- metafyzika
-- duše
-- LÁTKA, FORMA, PŘÍČINA, ÚČEL - říct kdyžtak Skolilové
+- duše = forma těla

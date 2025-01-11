@@ -114,14 +114,15 @@
 - Platón
 - Aristotelés
 
+**Shrnutí myšlenek těchto lidí:**
 
-| Týpek       | Myšlení                                                                                 |
-| ----------- | --------------------------------------------------------------------------------------- |
-| Protagoras  | subjektivismus, praotec skepticismu, bohy nelze potvrdit ani vyvrátit, právo silnějšího |
-| Gorgias     | sofisma                                                                                 |
-| Sokrates    |                                                                                         |
-| Platon      |                                                                                         |
-| Aristotelés |                                                                                         |
+| Týpek       | Myšlení                                                                                                                                                                                                   |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Protagoras  | subjektivismus, praotec skepticismu, bohy nelze potvrdit ani vyvrátit, právo silnějšího                                                                                                                   |
+| Gorgias     | sofisma (=zneužití logiky), nejsoucí = příroda, nic není, je-li i něco, nemůže to člověk poznat, lze-li to i poznat, nelze to přece s bližním sdělit a jemu to vložit                                     |
+| Sokrates    | „Vím, že nic nevím“ (=čím víc vím, tím míň vím), učil zdarma, bůh není a dělá si srandu z Atéňanů, správné (myšlení ⇒ chování) ⇔ etický intelektualismus, daimonion = svědomí, **dialogy**                |
+| Platon      | kriton = **dialogy** s **(politickou) tématikou zákonů**; teorie poznání = Bůh, já a svět; Ústava - Mýtus o jeskyni; rozdělení společnosti a státu (3 vrstvy), pohlaví jsou si rovna, ale muži jsou lepší |
+| Aristotelés | sbírá šutry a poznání (systematik); duše = tělo; **sylogismus** = dvě premisy a závěr                                                                                                                     |
 
 ### Sofisté
 - současníci Sókrata

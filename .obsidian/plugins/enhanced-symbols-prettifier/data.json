@@ -20,13 +20,13 @@
       "replaced": "<=>",
       "value": "⇔",
       "group": "Arrows",
-      "count": 1
+      "count": 2
     },
     "=>": {
       "replaced": "=>",
       "value": "⇒",
       "group": "Arrows",
-      "count": 11
+      "count": 12
     },
     "=/=": {
       "replaced": "=/=",

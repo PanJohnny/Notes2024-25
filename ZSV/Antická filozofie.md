@@ -177,7 +177,7 @@
 
 ### Platon
 - žák Sokrata 
-    - poprava ⇒ ztráta naděje v současný politický systém 
+    - poprava ⇒ ztráta naděje v současný politický systém
 - velmi mladý (rarita)
 - vážená rodina
 - filozofie + politika

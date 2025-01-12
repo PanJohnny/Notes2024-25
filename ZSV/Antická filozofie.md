@@ -154,7 +154,7 @@
 - 3 zásady
 	- nic není
 	- i kdyby bylo, nemůže to člověk poznat
-	- i kdyby to poznal, nemůže to sdělit a vysvětlit jijným
+	- i kdyby to poznal, nemůže to sdělit a vysvětlit jiným
 - řeč = silná zbraň
 - ispirace Zenonem a Parmenidem
 - Sofisma - řečnické triky, logické úskoky, zneužití logiky 

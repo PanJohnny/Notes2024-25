@@ -153,8 +153,8 @@
 - nejsoucí = příroda
 - 3 zásady
 	- nic není
-	- je-li i něco, nemůže to člověk poznat
-	- lze-li to i poznat, nelze to přece s bližním sdělit a jemu to vložit
+	- i kdyby bylo, nemůže to člověk poznat
+	- i kdyby to poznal, nemůže to sdělit a vysvětlit jijným
 - řeč = silná zbraň
 - ispirace Zenonem a Parmenidem
 - Sofisma - řečnické triky, logické úskoky, zneužití logiky 

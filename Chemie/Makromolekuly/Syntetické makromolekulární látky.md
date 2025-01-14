@@ -86,3 +86,27 @@ $$
 		- termoplast, který vzniká polymerací ethylen
 		- pevný, houževnatý; odolný vůči vodě; elektroizolant
 		- ![[PE.excalidraw]]
+	- polypropylen PP
+		- vznik polymerací propylenu
+		- termoplast
+		- podobný PE, ale pevnější
+		- využití jako PE a výroba vláken (nití a provazů)
+	- polystyren PS
+		- vznik polymerací styrenu
+		- neměkčený (tvrzený)
+			- výroba různých spotřebních materiálů
+			- misky, obaly na CD, kelímky
+		- měkčený
+			- tvořený pěnovými kuličkami 
+>polymerace ethylenu
+```smiles
+C=C>>*c-c*
+```
+>polymerace propylenu
+```smiles
+c=c-c>>*cc(*)c
+```
+>polymerace styrenu
+```smiles
+c1ccccc1C=C>>c1ccccc1C(*)C*
+```

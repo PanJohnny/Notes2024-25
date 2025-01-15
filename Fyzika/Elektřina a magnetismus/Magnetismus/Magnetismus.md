@@ -45,3 +45,13 @@ $$
 - + jádro (feromagnetikum) = elektromagnet
 - pravá ruka
 	- prsty ukazují směr proudu, palec severní proud
+- využití
+	- vrakoviště
+	- urychlovač částic
+	- MRI
+	- brzdný mechanismy
+	- elektrárny
+	- magnetická levitace
+	- elektromotory
+### Curieova teplota
+- tepelným pohybem dokáži molekuly překonat magnetické pole → přestává být magnetem

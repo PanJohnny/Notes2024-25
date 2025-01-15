@@ -1,0 +1,65 @@
+- Historický kontext 
+    - 1918 vznik Československa 
+    - 1939 - vyhlášení protektorátu 
+## Devětsil 
+- Literární spolek 
+- Někteří členové: 
+    - Karel Teige 
+    - Vítězslav nezval 
+    - Jindřich Honzl 
+    - Jan Werich 
+    - Jiří Voskovec 
+    - Adolf Hoffmeister 
+- Seskupení českých avantgardních umělců založené roku 1920 v Praze 
+- Věnovali se proletářskému umění a tzv. magickému realismu 
+- Od roku 1923 se angažovali v poetizmu 
+- Básníci, spisovatelé, teoretici, výtvarní umělci, divadelníci a architekti 
+- Staví se proti staré literatuře, jež je psaná pro bohatou vrstvu a jdou revoluční vrstvou - s dělnictvem 
+- Program - snaha přiblížit umění co nejširšímu publiku 
+- Zakládající členové: K. Teige, A. Hoffmeister, J. Seifert, J. Honzl 
+- Prodělal proměny v umělecké orientaci i ve složení členů 
+- Pobočné sdružení v Brně - Brněnský Devětsil, svaz pro propagaci novodobé činné literatury 
+- 1925 vytvořili tanečníci, hudebníci, herci a autoři v čele s režiséry divadelní sekci - "Osvobozené divadlo" 
+- 1927 - K. Teige vydává časopis ReD (Revue Devětisil) 
+- Rozsáhlá činnost publikační, přednášková, expoziční, divadelní, recitační, vydával několik časopisů 
+### Proletářská poezie 
+- Literární směr, který sdružil v prvních letech po válce u nás po sovětském vzdoru básníky socialistického myšlení 
+- Zdůrazňovali, že poezie a literatura má mít tendenci, jež by pomáhala proletářské třídě v boji za jejich sociální osvobození 
+- Levicově orientovaná literatura - sbližuje básníky s osudy dělníků (touha po harmonii a lidské družnosti) 
+- Společenská a zejména sociální situace v zemi k rychlému vystřízlivění, dostavila se ztráta iluzí a spisovatelé hledali nová východiska ze situace -> revoluce 
+- J. Wolker, S. K. Neumann, J. Hora, J. Hořejší, J. Seifert 
+- Publikují v časopise Neumanna - Červen, Kmen a Proletkult 
+- Novým ožitím proletářské poezie je ve 30. letech socialistický realismus 
+- Hlavní rysy proletářské literatury: 
+    - Pád nespravedlivého řádu 
+    - Literatura se podílí na proměně světa
+    - Umělec se zříká individuality 
+    - Optimismus 
+#### Jiří Wolker 
+- Básník, prozaik, dramatik, esejista, překladatel, literární teoretik 
+- Nejnadanější představitel proletářské poezie 
+- 1919 začal studovat právnickou fakultu 
+- 1921 vstoupil do KSČ 
+- 1921 - 2 člen brněnské Literární skupiny 
+- 1922 - 3 člen Devětsilu 
+- 1923 - diagnostikována tuberkulóza 
+- 1924 - umírá - napsal si epitaf 
+- Dílo: 
+    - Básně vychází v mnoha časopisech (Cesta, Kmen, Host, …) 
+    - Host do domu 
+        - Optimismus, láska k prostým věcem 
+        - Motivy přírody a domova 
+        - Básně: Pokora, Poštovní schránka, Věci 
+        - Nejznámější polytematická báseň sbírky - Svatý kopeček (pásmo)  
+    - Těžká hodina 
+        - Proletářská poezie 
+        - Témata: sociální realita, touha po nápravě světa 
+        - Jedinec podléhá nespravedlivému sociálnímu řádu 
+        - Básně: Balada o očích topičových, U rentgenu 
+    - Proletářské umění 
+        - Teoretická stať 
+    - Pohádky
+        - Inspirace H. Ch. Andersenem a O. Wildem 
+        - Vychází se sociálních námětů 
+        - Hrdinové jsou obyčejní lidé 
+        - Pohádka "O milionáři, který ukradl slunce", "O kominíkovi"

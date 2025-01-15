@@ -97,7 +97,7 @@ $$
 			- výroba různých spotřebních materiálů
 			- misky, obaly na CD, kelímky
 		- měkčený
-			- tvořený pěnovými kuličkami 
+			- tvořený pěnovými kuličkami
 >polymerace ethylenu
 ```smiles
 C=C>>*c-c*

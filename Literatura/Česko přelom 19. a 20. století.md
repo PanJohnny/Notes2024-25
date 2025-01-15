@@ -15,7 +15,7 @@
 		- buřiči
 		- dekadentně zaměření spisovatelé
 		- autoři katolické orientace
-# 1. Česká moderna
+## 1. Česká moderna
 - 90. léta 19. století
 - volné seskupení mladých spisovatelů a politických žurnalistů
 - bez jednotného programu
@@ -30,7 +30,7 @@
 	- napsáno 1985
 	- autoři: F. X. Šalda, J. S. Machar
 	- další významní signatáři: A. Sova, O. Březina, V. Mrštík, J. K. Šlejhar
-## Josef Svatopluk Machar
+### Josef Svatopluk Machar
 - 1864 - 1942
 - básník, prozaik, publicista (fejetony)
 - **spoluautor** Manifestu
@@ -44,7 +44,7 @@
 	- Magdaléna - veršovaný román
 	- Zde by měla kvést růže - veršované povídky
 - zabývá se hodně ženama
-## Otokar Březina
+### Otokar Březina
 - 1868 - 1929
 - básník, esejista
 - symbolismus
@@ -60,7 +60,7 @@
 	- Hudba pramenů - sbírka esejí
 	- korespondence s přáteli
 
-## Antonín Sova
+### Antonín Sova
 - (1864-1928)
 - studoval práva
 - 1. ředitel pražské Městské knihovny
@@ -83,7 +83,7 @@
 		- Ivův román
 		- Pankrác Budecius, kantor
 
-## Vilém Mrštík
+### Vilém Mrštík
 - 1863-1912
 - prozaik, dramatik, literární kritik, překladatel
 - nedokonči studium práv, věnoval se literatuře
@@ -98,7 +98,7 @@
 		- **Santa Lucia**
 		- **Pohádka máje** - impresionistický román, film (1940)
 
-## Josef Karel Šlejhar
+### Josef Karel Šlejhar
 - 1864-1914
 - prozaik
 - zobrazuje pesimismus, destruktivní působení moderní civilizace
@@ -108,7 +108,7 @@
 - dílo:
 	- **Kuře melancholik** (1889) - paralela kuře a dítě; film (1999)
 
-# 2. Anarchističtí buřiči
+## 2. Anarchističtí buřiči
 - mladí spisovatelé počátku 20. století
 - navazují na generaci 90. let 19. století
 - "**básnící života a vzdoru**" - většina odpor vůči společnosti + příklon k životu
@@ -119,7 +119,7 @@
 - směřují k lidové tvorbě - lidová píseň, městský folklór
 - **[[#Petr Bezruč]], GELLNER, ŠRÁMEK, TOMAN, DYK, NEUMANN**
 
-## Petr Bezruč
+### Petr Bezruč
 - 1867-1958
 - vlastním jménem Vladimír Vašek
 - nedokončil studium filologie, pracoval jako poštovní úředník
@@ -132,7 +132,7 @@
 - dílo:
 	- **Slezské písně**
 
-## František Gellner
+### František Gellner
 - 1881-1914
 - básník. prozaik, karikaturista
 - **deziluze** z konce století + znechucení současnou společností
@@ -146,7 +146,7 @@
 - dílo:
 	- **Po nás ať přijde potopa!** (1901) - pesimismus, rezignace
 	- **Radosti života** (1903) - (sebe)ironie, smutek
-## Fráňa Šrámek
+### Fráňa Šrámek
 - 1877-1352
 - narozen v Sobotce 1957
 - básník, prozaik, publicista
@@ -169,7 +169,7 @@
         - **Léto** (1916) 
             - dramatická paralela ke Splavu 
         - **Měsíc nad řekou** (1922)
-## Karel Toman
+### Karel Toman
 - 1877-1946 
 - vlastní jméno Antonín Bernášek 
 - básník, novinář, překladatel; cestovatel (Německo, Holandsko, Anglie, Francie…) 
@@ -181,7 +181,7 @@
     - **Sluneční hodiny** (1913): 16 básní, motivy z cest 
     - **Měsíce** (1918): 12 básní, mají symbolický ráz 
         - **Září**
-## Viktor Dyk
+### Viktor Dyk
 - 1977-1931
 - básník, prozaik, dramatik, publicista, kritik, překladatel, politik
 - požadoval samostatnost, po vzniku Československa nejprve poslancem, pak senátorem
@@ -195,7 +195,7 @@
 		- **Devátá vlna**
 	- drama
 		- **Zmoudření dona Quijota**
-## Stanislav Kostka Neumann
+### Stanislav Kostka Neumann
 - 1875-1947
 - narozen v pražské zámožné rodině, otec brzy zemřel
 - vychováván matkou a tetami v olšanské vile
@@ -210,5 +210,3 @@
 	- Rudé zpěvy (1923): proletářská poezie
 
 ![[kostka.png]]
-
-## 3. Futurismus

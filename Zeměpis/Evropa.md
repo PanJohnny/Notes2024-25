@@ -18,8 +18,3 @@
 - problém posledních let
 - ekonomická a válečná
 - Afrika, Blízký východ
-
-- Do Mapy
-	- pohoří Ural
-	- řeka Emba
-	- 

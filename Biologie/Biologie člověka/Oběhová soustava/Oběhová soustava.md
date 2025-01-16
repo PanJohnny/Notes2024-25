@@ -48,13 +48,13 @@
 - **funkce**
 	- obranyschopnost = **imunita**
 	- Granulocyty 
-	    - Podle typu barvení se dělí: neutrofilní (nejvíce), eozinofilní, bazofilní 
-	    - Vznik: kostní dřeň 
+	    - Podle typu barvení se dělí neutrofilní (nejvíce), eozinofilní, bazofilní 
+	    - Vznik kostní dřeň 
 	    - Většina pohlcuje cizorodé částice fagocytózou 
 	- Agranulocyty 
 	    - Dělí se
 	        - Monocyty - největší 
-	            - Vznik: Kostní dřeň, slezina, játra, mízní uzliny 
+	            - Vznik Kostní dřeň, slezina, játra, mízní uzliny 
 	            - Po vstupu do tkání se mění na makrofágy a fagocytují 
 	        - Lymfocyty - rozlišujeme T-lymfocyty a B-lymfocyty 
 	            - T-lymfocyty 
@@ -96,12 +96,12 @@
     - Aglutininy = protilátky v plazmě - anti-A, anti-B 
     - Při kontaktu aglutinogenu (například B) s příslušným aglutininem (například anti-B) dojde k aglutinaci = shlukování erytrocytů -> tyto shluky ucpávají cévy, důsledkem může být i smrt 
 ### Rh faktor 
-- Rh pozitivní (Rh+): Rh antigen na povrchu erytrocytů - krev nevytváří protilátky anti-Rh 
-- Rh negativní (Rh-): na povrchu erytrocytů není Rh antigen - krev tvoří protilátky 
+- Rh pozitivní (Rh+) Rh antigen na povrchu erytrocytů - krev nevytváří protilátky anti-Rh 
+- Rh negativní (Rh-) na povrchu erytrocytů není Rh antigen - krev tvoří protilátky 
 - Nebezpečí u těhotných žen s Rh -> pokud plod Rh+ po otci, tvoří proti němu protilátky -> poškození krvinek dítěte 
 - Transfuze 
      - Musí souhlasit skupina AB0 i Rh faktor 
-     - Pouze v nouzi možné využít: 0 = 0 univerzální dárce / AB = univerzální příjemce 
+     - Pouze v nouzi možné využít 0 = 0 univerzální dárce / AB = univerzální příjemce 
      - Vždy platí Rh- nesmí dostat Rh+
 ## Srdce
 - dutý orgán
@@ -169,3 +169,76 @@
 	- dělí se na dvě větve → k pravé a levé komoře
 - **Purkyňova vlákna**
 	- převádějí signál do spodní části komor
+- Frekvence síňového uzlíku je ovlivňována 
+    - Hormony - například adrenalin zvyšuje frekvenci 
+    - Vegetativními (vůlí neovládané) nervy 
+    - Další faktory například fyzická aktivita, stres, nadmořská výška 
+- Srdce průměrného člověka - okolo 70 stahů / minutu v klidu  
+- Přenos signálů v převodním systémů vytváří slabé změny elektrického potenciálu - měří je elektrokardiograf (EKG) 
+### Funkční hodnoty srdce 
+- Tepový objem = množství krve vypuzené při jedné systole (60-80 ml) 
+- Minutový objem srdeční = množství krve vypuzené ze srdce za 1 minutu (5l v klidu až 40l při zátěži) 
+- Krevní tlak 
+    - Tlak krve na stěny tepen - měří se tonometrem 
+	- Normální hodnota 120 na 80 (120 = systolický, 80 = 80 diastolický) 
+##  Krevní cévy 
+- Tepny (arterie) 
+    - Vedou krev ze srdce - největší aorta (srdečnice) 
+    - Musí snášet vysoký tlak -> silnější stěny než žíly 
+    - Základem stěny - vazivo s vrstvou hladké svaloviny 
+    - Uvnitř vystlány endotelem (hladký epitel) 
+    - Postupně se větví až do vlásečnic 
+- Vlásečnice (kapiláry) 
+    - Nejtenčí cévy, velmi krátké 
+    - Stěna tvořena pouze jednovrstevným epitelem -> propustná 
+    - Umožňují výměnu látek mezi krví a okolními tkáněmi 
+- Žíly (vény) 
+    - Vedou krev z vlásečnic do srdce - největší horní a dolní dutá žíla 
+    - Stěna obsahuje stejné vrstvy jako u tepen, ale je tenčí (nemusí odolávat vysokému tlaku) 
+    - V žilách dolních končetin - kapsovité chlopně -> brání zpětnému toku krve 
+    - Návratu krve pomáhá i podtlak v hrudní dutině a práce svalů okolo žil 
+## Uspořádání krevního oběhu 
+- Koronární oběh 
+    - Vlastní oběh srdce -> výživa myokardu 
+    - Zajištěn věnčitými tepnami - oddělují se od aorty a rychle se větví na vlásečnice 
+    - Zplodiny a CO2 odváděny žílami zpět do pravé síně 
+- Malý (plicní) oběh 
+    - Zajišťuje tok krve mezi srdcem a plícemi 
+    - Pravá komora -> odtud krev vedena plicní tepnou do plic 
+    - Okysličená krev se vra 
+- Velký (tělní) oběh 
+    - Začíná v levé komoře -> krev od aorty 
+    - Z oblouku aorty vystupují levá krkavice, levá podklíčková tepna (levá paže) a tepna hlavopažní (z ní pravá krkavice a pravá podklíčková) 
+    - Aorta se stáčí dolů - v břišní části vystupují další tepny -> do vrátnicového oběhu, nakonec se větví na dvě stehenní tepny 
+    - Odkysličená krev se vrací žílami - spojují se v dolní a horní duté žílu -> 
+- Pulmonální (plicní) oběh 
+## Onemocnění a poškození oběhové soustavy 
+- Anemie (chudokrevnost) - snížené množství erytrocytů 
+- Leukemie - zhoubné bujení bílých krvinek -> uvolňuje velké množství nezralých leukocytů 
+- Hemofilie - dědičné onemocnění - špatná srážlivost krve 
+- AIDS = syndrom získaného selhání imunity 
+    - Způsoben virem HIV - napadá T-lymfocyty 
+- Alergie - přehnaná reakce imunitního systému na určitý antigen 
+- Trombóza / embolie - vznik sraženin / ucpání cév sraženinou 
+- Arteioskleróza - ukládání cholesterolu 
+## Mízní soustava 
+- Plní důležitou funkci v imunitě organismu 
+- Mízní cévy odvádějí přebytečný tkáňový mok z mezibuněčných prostorů 
+- Míza protéká mízními uzlinami 
+    - Stavba vazivové pouzdro + trámčina uvnitř 
+    - Zde se zachycují choroboplodné zárodky a tvoří leukocyty 
+- Při nemoci -> zvětšení uzlin (zvýšená tvorba leukocytů) 
+- K mízní soustavě patří také orgány vytvářející leukocyty = brzlík a slezina 
+    - Brzlík
+	    - Uložen za hrudní kostí
+        - U dětí vytváří prvotní T-lymfocyty 
+        - Od puberty postupně redukován 
+    - Slezina 
+        - Okolo 13 cm dlouhá a 4 cm široká 
+        - Leží na levé straně za žaludkem 
+        - Stavba 
+            - Povrch = vazivové pouzdro 
+        - Funkce
+	        - Zánik erytrocytů 
+            - Tvorba lymfocytů v bílé dřeni 
+            - Není pro život nezbytná -> její funkci mohou převzít játra a mízní uzliny

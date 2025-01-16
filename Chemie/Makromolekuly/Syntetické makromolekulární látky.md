@@ -98,6 +98,29 @@ $$
 			- misky, obaly na CD, kelímky
 		- měkčený
 			- tvořený pěnovými kuličkami
+	- polyvinylchlorid PVC
+		- vznik polymerací vinylchloridu
+		- není odolný proti mrazu a vyšším teplotám
+		- dvě varianty
+			- neměkčený (tvrzený)
+				- novodur
+				- trubky, desky, profily
+			- měkčený
+				- novoplast
+				- podlahobé krytiny (linolea), hračky, hadice, pláštěnky, ubrusy, fólie
+	- polymethylmetakrylát PMMA
+		- = plexisklo
+		- termoplast
+		- pevnost v tahu,  nárazuvzdornost
+		- průhledný a průsvitný
+		- propouštá UV záření
+		- tvarovatelný
+		- štíty, ochranné helmy, brýlová skla a kontaktní čočky, náhrady zubů, kloubů a chrupavek
+	- polytetrafluorethylen PTFE
+		- polymerací tetrafluorethylenu
+		- obchodní název teflon
+		- jeden z nejodolnějších plastů (chemicky i odolně)
+		- výroba zařízení pro chemický průmysl, nádobí, oblečení (goretex)
 >polymerace ethylenu
 ```smiles
 C=C>>*c-c*
@@ -109,4 +132,16 @@ c=c-c>>*cc(*)c
 >polymerace styrenu
 ```smiles
 c1ccccc1C=C>>c1ccccc1C(*)C*
+```
+> polymerace vinylchloridu
+```smiles
+C=CCl>>*-CC(Cl)-*
+```
+>polymethylmetakrylát
+```smiles
+C[C](C)C(=O)OC
+```
+>polymerace tetrafluorethylenu
+```smiles
+[F]C([F])=C([F])[F]>>FC(F)(*)C(*)(F)F
 ```

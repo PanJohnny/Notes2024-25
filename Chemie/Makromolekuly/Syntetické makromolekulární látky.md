@@ -145,3 +145,11 @@ C[C](C)C(=O)OC
 ```smiles
 [F]C([F])=C([F])[F]>>FC(F)(*)C(*)(F)F
 ```
+## Polyadice
+- dva různé monomery se dvěma různými funkčními skupinami
+- spojení přesunem odštěpitelného vodíku (podmínka pro průběh polyadice)
+- bez vedlejších produktů
+$nH-O-(CH_{2})_{4}-O-H + nO=C=N-(CH_{2})_{6}-N=C=O\to H-[O-(CH_{2})_{4}-O-C(=O)-N(-H)-(CH_{2})_{6}-N(-H)-C(=O)]-OH$
+- Polyurethany PUR
+	- vznikají adicí diizokyanátů a dvojsytných alkoholů
+	- výroba umělých kůží, pěnového molitanu, lepidel, textilních vláken

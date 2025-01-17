@@ -140,7 +140,7 @@
 		- **dvoucípá** - levá síň / komora
 	- **poloměsíčité**
 		- mezi komorami a tepnami
-![[Srdce.png]]
+![[srdce-asd.png]]
 ### Činnost srdce
 - střídání **stahu = systola** a **ochabnutí = diastola**
 - obě poloviny vykonávají vždy stejné pohyby

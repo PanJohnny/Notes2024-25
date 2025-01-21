@@ -153,3 +153,28 @@ $nH-O-(CH_{2})_{4}-O-H + nO=C=N-(CH_{2})_{6}-N=C=O\to H-[O-(CH_{2})_{4}-O-C(=O)-
 - Polyurethany PUR
 	- vznikají adicí diizokyanátů a dvojsytných alkoholů
 	- výroba umělých kůží, pěnového molitanu, lepidel, textilních vláken
+## Polykondenzace
+- dva různé monomery s nejméně dvěma různými funkčními skupinami
+- reakce funkčních skupin
+- vznik vedlejšího produktu
+	- nízkomolekulární látka (např. $H_{2}O, NH_{3}, CH_{3}OH$)
+### Zástupci
+- **syntetická vlákna**
+	- výhody
+		- lesklé, pevné, elastické, …
+	- nevýhody
+		- nízká teplota tání, hořlavé, statika, …
+	- polyestery PES
+		- vznikají polykondenzací dvojsytných alkoholů a dikarboxylových kyselin
+		- využití: výroba vláken a filmů
+	- polyamidy PAD, PA
+		- vznikají polykondenzací diaminů nebo laktanů (= cyklické aminy) a dikarboxylových kyselin
+		- využití: textilní vlákna
+- fenoplasty
+	- vznikají polykondenzací fenolu s formaldehydem
+	- v kyselém vznikají lineární řetězce, tzv. NOVOLAK
+	- v zásaditém prostředí vznikají hustě zesíťovaný, nerozpustný a nezastavitelný REZIT
+		- elektrotechnický materiál
+- aminoplasty
+	- vyrábějí se polykondenzací močoviny a formaldehyd
+	- využití: výroba nátěrů, tmelů, spotřebního zboží, elektrotechnický materiál, obkladů, impregnace papíru (umakart)

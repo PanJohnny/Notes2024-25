@@ -18,3 +18,21 @@
 - problém posledních let
 - ekonomická a válečná
 - Afrika, Blízký východ
+## Klíma
+- většina území - mírný pás
+- subtropický
+- polární a subpolární
+- severoatlanstký proud (Golfský)
+	- vliv hlavně sever UK
+## Vodstvo
+### Jezero
+- jezerní plošiny
+- ledovcová
+- mělká převážně
+- kárová
+	- po horském ledovci
+- trogová
+	- hrazená čelní morénou
+- tektonická
+	- vodou vyplňené propadliny/zlomové linie
+- krasová jezera

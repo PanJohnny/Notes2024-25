@@ -63,3 +63,14 @@
         - Vychází se sociálních námětů 
         - Hrdinové jsou obyčejní lidé 
         - Pohádka "O milionáři, který ukradl slunce", "O kominíkovi"
+#### Stanislav Kostka Neumann
+![[kostka.png]]
+- 1922 přestává vydávat časopis Červen a nahrazuje jej Proletkult
+- literaturu pojímá jako údernou pěst proletariátu
+	- **umění je zbraň dělnické třídy**
+- **Rudé zpěvy**
+	- **patetické básně**
+### Josef Hora
+![[hora.png]]
+- **Pracující den**
+- rolnická rodina

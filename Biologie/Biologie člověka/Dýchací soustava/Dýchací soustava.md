@@ -37,3 +37,9 @@
 - kříží zde cesty trávicí a dýchací
 ### Příklopka hltanová
 - uzavírá při polykání vchod do hrtanu
+
+## Dolní cesty dýchací
+### Hrtan
+- zavěšen na **jazylce** - tvořen hrtanovými **chrupavkami**
+	- největší =
+byl jsem línej

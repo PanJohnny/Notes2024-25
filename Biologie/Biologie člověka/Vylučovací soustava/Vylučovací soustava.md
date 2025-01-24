@@ -1,0 +1,15 @@
+- při metabolismu vznikají odpadní látky, které lidské tělo neumí využít → musí se vyloučit
+- na jejich odstraňování se podílí několik soustav
+	- **dýchací**
+	- **trávicí**
+	- **kožní**
+	- **vylučovací**
+- vylučovací ústrojí se skládá z ledvin a močových cest
+## Ledviny
+- párový orgán uložený v tukovém polštáři po stranách páteře, ve výši 1. - 3. bederního obratle
+- **fazolovitého tvaru**
+	- asi 12 cm dlouhé
+- vnitřní okraj má zářez = **ledvinová branka**
+	- vstup tepny a výstup žíly s močovodem
+- základní stavební jednotka **nefron**
+	- cca 1 milion

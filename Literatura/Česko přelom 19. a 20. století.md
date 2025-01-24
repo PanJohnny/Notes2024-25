@@ -210,3 +210,20 @@
 	- Rudé zpěvy (1923): proletářská poezie
 
 ![[kostka.png]]
+## 3. Dekadence
+- životní pocit ⇒ úzko, deprese, …
+- opovržení životem ⇒ únik do snů, mystiky a do tzv. čistého umění = lartpourlartismus
+- kult nezávislého tvůrčího génia ⇒ aristokratismus, erotismus, individualismus
+- kolem **Moderní revue**
+### Karel Hlaváček
+- **Moderní revue**
+- dílo:
+	- **Pozdě k ránu**
+	- **Mstivá kantiléna**
+### Arnošt Procházka
+- krajní individualismus
+### Jiří Karásek
+- básník, sběratel umění
+- spoluzakadatel **Moderní revue**
+- **Zazděná okna**
+- **Gotická duše**

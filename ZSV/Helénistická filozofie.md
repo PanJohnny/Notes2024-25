@@ -1,24 +1,59 @@
-## Stoicismus
-- ctnosti
-	- sebeovládání
-	- rozumnost
-	- spravedlnost
-	- statečnost
-- cíl existence = soulad mezi postoji činy a chodem
-- život v souladu s přírodou 
-- miluj bližního svého - základy křesťanských myšlenek 
-- vášně je třeba umírnit/omezit 
-- etika
-### Seneka
-- prvky křesťanského smýšlení
-- vášně je třeba potírat
-- dosáhnout ctností
-### Marcus Aurelius
-- dílo: Hovory sobě 
-- panovník -filosof 
-- svoboda člověka se vyjadřovat
-## Epikureismus
-- etika
-- slast = pohoda
-- logika
-- fyzika
+- Od smrti Alexandra Velikého po zavření filozofických škol 
+- Kosmopolitní pohled na svět - popírá veškeré rozdělení kulturní, politické a regionální 
+## Stoicismus 
+ - Ctnosti: 
+	- Rozumnost 
+    - Statečnost 
+	- Sebeovládání 
+	- Statečnost 
+- Život s souladu s přírodou 
+- Miluj bližního svého - základy křesťanských myšlenek 
+- Vášně je třeba umírnit/omezit 
+- Cíl existence je rovnováha 
+- Zástupci: 
+    - Lucius Annaeus Seneca 
+    - Marcus Aurelius 
+	    - Dílo: Hovory sobě 
+            - Panovník -filosof 
+            - Svoboda člověka se vyjadřovat 
+## Epikureismus 
+- Nejvyšší cílem je nemít neklid v duši a necítit bolest 
+- Podle nich bohové existují, ale nezasahují do našich životů 
+- Tvrdí, že smrt není dokud já jsem 
+- Rozum dokáže ovládat smysly 
+- Ataraxia - dosažení klidu/vyrovnanosti 
+- Důvodem ukončení těchto názorů a myšlenek je popularizace křesťanství 
+- Žák Epikura - T. L. Carus 
+## Skepticismus 
+- 4.-1. století př. n. l. 
+- Zpochybnění poznatelnosti světa a pravdy 
+- Starší skepse 
+	- Pyrrhón 
+        - Zakladatel skepticismu 
+        - Tvrdí, že poznání je klamné 
+            - Jaké věci jsou? -> Nevím, nemůžu věci poznat (pouze vím, jak se mi věci jeví) 
+        - Nemáme nic tvrdit (zdržet se úsudku) o věcech, o kterých doopravdy nic nevím 
+        - Pokud se nebudu vyjadřovat k věcem, které doopravdy neznám, získám klid 
+- Akademická (střední) skepse 
+	- Mírnější stanoviska než starší skepse 
+    - Tvrdí, že naše poznání k pravdě nevede, ale k pravdě se blíží 
+- Pozdní (mladší) skepse 
+    - Zdržení úsudků a tvrzení 
+    - Argumenty dokazující nepoznatelnost pravdy 
+    - Odlišnost smyslových orgánů 
+	    - Rozdílnost lidí 
+    - Sextos Empeirikos 
+	    - Otázka zda se svět mění 
+        - Skeptický postoj vůči velkým otázkám 
+	        - Na běžné otázky nám pravdy vystačí 
+## Novoplatonismus 
+- Poslední velký směr v Antice 
+- 3. až 6. století našeho letopočtu 
+- Reagují na Platona, Aristotela, stoiky 
+- Plotinos 
+    - Člověk by měl usilovat o Dobro = věnovat svůj život nějakému Bohu 
+    - Chtěl vybudovat Platonopolis 
+    - Pokládal se za Platonova interpreta 
+    - Cesta duchovna, mysticismu 
+    - Cílem je sjednotit se s Bohem 
+    - Most ke křesťanstv

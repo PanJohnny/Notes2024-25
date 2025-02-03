@@ -11,5 +11,5 @@
 	- asi 12 cm dlouhé
 - vnitřní okraj má zářez = **ledvinová branka**
 	- vstup tepny a výstup žíly s močovodem
-- základní stavební jednotka **nefron**
+- základní stavební úpjednotka **nefron**
 	- cca 1 milion

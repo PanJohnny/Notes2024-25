@@ -107,7 +107,7 @@ $$
 				- trubky, desky, profily
 			- měkčený
 				- novoplast
-				- podlahobé krytiny (linolea), hračky, hadice, pláštěnky, ubrusy, fólie
+				- podlahové krytiny (linolea), hračky, hadice, pláštěnky, ubrusy, fólie
 	- polymethylmetakrylát PMMA
 		- = plexisklo
 		- termoplast

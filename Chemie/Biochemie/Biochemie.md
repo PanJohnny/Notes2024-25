@@ -133,7 +133,9 @@ CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C
 		- faktory
 			- fyzikální (teplota, ozáření)
 			- chemické (účinky kyselin a zásad)
-			- 
+		- význam
+			- negativní (ztráta biologické aktivity)
+			- pozitivní (ničení choroboplodných zárodků, tepelná úprava jídla (lepší stravitelnost))
 #### Sacharidy
 #### Lipidy
 ### Biokatalyzátory

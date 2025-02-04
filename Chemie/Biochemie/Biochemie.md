@@ -77,10 +77,45 @@ CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)CSSC[C@H](NC(=O)[C@H](C
 CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC2=O)CO)CC(C)C)CC3=CC=C(C=C3)O)CCC(=O)N)CC(C)C)CCC(=O)O)CC(=O)N)CC4=CC=C(C=C4)O)C(=O)N[C@@H](CC(=O)N)C(=O)O)C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)N[C@@H](CC5=CC=CC=C5)C(=O)N[C@@H](CC6=CC=CC=C6)C(=O)N[C@@H](CC7=CC=C(C=C7)O)C(=O)N[C@@H]([C@H](C)O)C(=O)N8CCC[C@H]8C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@H](C)O)C(=O)O)C(C)C)CC(C)C)CC9=CC=C(C=C9)O)CC(C)C)C)CCC(=O)O)C(C)C)CC(C)C)CC2=CNC=N2)CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC2=CNC=N2)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](C(=O)N)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC2=CC=CC=C2)N)C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CO)[C@H](C)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H]([C@H](C)CC)NC(=O)CN
 ```
 ### Živiny
-- sacharidy
-- lipidy
-- proteiny
-	- z polypeptidů
+#### Proteiny (bílkoviny)
+- základní stavební jednotka živé hmot
+- přítomné ve všech buňkách
+- přírodní makromolekuly (biopolymery)
+- tvořeny velkým množstvím zbytků aminokyselin vázaných peptidickou vazbou (100 a více)
+- rostliny jsou schopné je vytvořit z anorganických látek (dusičnanů)
+- živočichové je musí přijímat v potravě
+- biologické funkce
+	- stavební - skleroproteiny (keratin, kolagen)
+	- katalytická - enzymy
+	- transportní (hemoglobin, transferin)
+	- regulační - hormony
+	- obranná - protilátky
+- struktura
+	- primární struktura
+		- dána pořadím (sekvencí) vázaných aminokyselin
+		- podmiňuje biologickou fci a vlastnosti
+	- sekundární struktura
+		- geometrické uspořádání řetězce aminokyselin
+		- umožňuje jí možnost volné rotace kolem jednoduchých vazeb α-uhlíků a vznikem vodíkových můstků
+		- má dvě formy
+			- skládaný list
+			- α-helix - pravotočivá šroubovice
+	- terciální struktura
+		- uspořádání sekundární struktury v prostoru
+		- podílejí se na ní vodíkové vazby, iontové vazby, disulfidické můstky a van der Waalsovy síly
+		- dva typy
+			- fibrilární (vláknitý) tvar
+			- globulární (klubkovitý) tvar
+	- kvartérní struktura
+		- vzájemné prostorové uspořádání jednotlivých bílkovinných řetězců (podjednotek), které spolu nejsou spojeny kovalentními vazbami
+- vlastnosti
+	- dány především typem vázaných aminokyselina jejich strukturou
+	- tvoří koloidní roztoky
+	- pevné látky, biopolymery s $M_r > 10000$
+	- rozpustnost
+		- 
+#### Sacharidy
+#### Lipidy
 ### Biokatalyzátory
 - enzymy
 - vitamíny

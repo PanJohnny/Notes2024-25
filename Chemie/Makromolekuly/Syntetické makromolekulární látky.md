@@ -107,7 +107,7 @@ $$
 				- trubky, desky, profily
 			- měkčený
 				- novoplast
-				- podlahobé krytiny (linolea), hračky, hadice, pláštěnky, ubrusy, fólie
+				- podlahové krytiny (linolea), hračky, hadice, pláštěnky, ubrusy, fólie
 	- polymethylmetakrylát PMMA
 		- = plexisklo
 		- termoplast
@@ -177,4 +177,4 @@ $nH-O-(CH_{2})_{4}-O-H + nO=C=N-(CH_{2})_{6}-N=C=O\to H-[O-(CH_{2})_{4}-O-C(=O)-
 		- elektrotechnický materiál
 - aminoplasty
 	- vyrábějí se polykondenzací močoviny a formaldehyd
-	- využití: výroba nátěrů, tmelů, spotřebního zboží, elektrotechnický materiál, obkladů, impregnace papíru (umakartp)
+	- využití: výroba nátěrů, tmelů, spotřebního zboží, elektrotechnický materiál, obkladů, impregnace papíru (umakart)

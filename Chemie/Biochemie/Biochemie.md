@@ -113,7 +113,27 @@ CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C
 	- tvoří koloidní roztoky
 	- pevné látky, biopolymery s $M_r > 10000$
 	- rozpustnost
-		- 
+		- rozpustné ve vodě
+			- v krevní plazmě, ve vaječném bílku
+			- citlivé na fyzikální a chemické vlivy
+		- nerozpustné ve vodě
+			- v nehtech, v kůži, ve vlasech
+			- odolné vůči fyzikálním i chemickým vlivům
+	- kolagulace bílkovin
+		- vysolováním (zvyšováním koncentrace soli)
+		- bílkoviny se získávají z roztoků ve formě sraženiny
+		- typy
+			- reverzibilní (vratná)
+				- přidáním vody se sraženiny rozptýlí na původní roztok
+			- ireverzibilní (nevratná)
+				- sraženinu nelze rozpustit
+				- soli těžkých kovů
+	- denaturace bílkovin
+		- nevratné zničení terciální (někdy i sekundární) struktury
+		- faktory
+			- fyzikální (teplota, ozáření)
+			- chemické (účinky kyselin a zásad)
+			- 
 #### Sacharidy
 #### Lipidy
 ### Biokatalyzátory

@@ -2,4 +2,4 @@
 - otec duchovní
 	- církevní
 	- teologové
-- Bůh svou vůlí stvořil svět z ničeho
+- Bůh svou vůlí stvořil svět z ničehop

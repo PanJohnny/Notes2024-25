@@ -165,8 +165,39 @@ CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C
 					- krev a mícha
 					- srážení krve - přeměna na nerozpustný fibrin
 	- složené
-		- obsahují navázanou nebílkovinnou složku
+		- obsahují navázanou nebílkovinnou složku (prostetickou skupinu)
+		- lipoproteiny
+			- prostetickou skupinu tvoří lipidy
+			- stavba buněčných membrán
+			- transport lipidů v krvi
+		- glykoproteiny
+			- prostetickou skupinu tvoří (poly)sacharidy
+			- sliny, vylučovány žaludeční stěnou, vaznost sekretů sliznic
+			- součást buněčných stěn
+		- fosfoproteiny
+			- estericky vázaná kyselina fosforečná
+			- mléko a vyječný bílek
+			- zdroj fosforu pro syntézu nukleových kyselin
+			- kasein
+				- mléko
+				- zdroj vápníku
+		- hemoproteiny
+			- hem
+			- hemoglobin (transport kyslíku a oxidu uhličitého)
+			- myoglobin (zásoba kyslíku při intenzivní svalové práci)
+			- cytochromy (katalyzují oxidační procesy v buňkách)
+		- metaloproteiny
+			- kovy
+			- ferritin a transferin (přenos železa v organismu)
+		- nukleoproteiny
+			- v nukleových kyselinách
 #### Sacharidy
+- obecná charakteristika
+	- velká skupina přírodních látek
+	- v rostlinných i živočišných organismech
+	- molekuly jsou tvořeny uhlíkem, kyslíkem a vodíkem
+		- avšak některé deriváty obsahují N, P, S
+		- 
 #### Lipidy
 ### Biokatalyzátory
 - enzymy

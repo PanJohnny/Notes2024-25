@@ -136,6 +136,36 @@ CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C
 		- význam
 			- negativní (ztráta biologické aktivity)
 			- pozitivní (ničení choroboplodných zárodků, tepelná úprava jídla (lepší stravitelnost))
+- dělení
+	- jednoduché
+		- neobsahují nebílkovinnou složku
+		- skleroproteiny (fibrilární proteiny)
+			- vláknitá struktura
+			- stavební funkce
+			- kolagen
+				- kosti, chrupavky, kůže šlachy
+				- tepelné zpracování (želatina)
+				- stárnutí (změna struktury kolagenu)
+			- keratin
+				- nehty, vlasy, peří, vlna, kopyta
+			- fibroin
+				- přírodní hedvábí
+		- sferoproteiny (globulární proteiny)
+			- kulovitý tvar
+			- vyskytují se všude
+			- mají různé funkce
+			- histony
+				- vázany na nukleové kyseliny. vbuněčných jádrech
+			- albuminy
+				- rozpustné ve vodě
+			- globuliny
+				- rozpustné ve zředěných roztocích solí, ale ne ve voně
+				- γ-globuliny v krevním séru
+				- fibrinogen
+					- krev a mícha
+					- srážení krve - přeměna na nerozpustný fibrin
+	- složené
+		- obsahují navázanou nebílkovinnou složku
 #### Sacharidy
 #### Lipidy
 ### Biokatalyzátory

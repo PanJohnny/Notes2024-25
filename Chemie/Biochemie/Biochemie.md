@@ -197,7 +197,9 @@ CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C
 	- v rostlinných i živočišných organismech
 	- molekuly jsou tvořeny uhlíkem, kyslíkem a vodíkem
 		- avšak některé deriváty obsahují N, P, S
-		- 
+	- vznik
+		- fotosyntéza (zelené rostliny)
+			- biochemický proces, při němž z vody a oxidu uhličitého za přítomosti chlorofylu vzniká glukóza
 #### Lipidy
 ### Biokatalyzátory
 - enzymy

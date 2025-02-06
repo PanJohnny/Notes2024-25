@@ -5,7 +5,6 @@
 	- Rozumnost 
     - Statečnost 
 	- Sebeovládání 
-	- Statečnost 
 - Život s souladu s přírodou 
 - Miluj bližního svého - základy křesťanských myšlenek 
 - Vášně je třeba umírnit/omezit 
@@ -56,4 +55,4 @@
     - Pokládal se za Platonova interpreta 
     - Cesta duchovna, mysticismu 
     - Cílem je sjednotit se s Bohem 
-    - Most ke křesťanstv
+    - Most ke křesťanství

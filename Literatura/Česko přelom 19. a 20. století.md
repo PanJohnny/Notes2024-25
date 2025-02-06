@@ -87,7 +87,7 @@
 - 1863-1912
 - prozaik, dramatik, literární kritik, překladatel
 - nedokonči studium práv, věnoval se literatuře
-- **impresionismus** + **naturalismus** + **realismus**
+- **impresionisus** + **naturalismus** + **realismus**
 - propagátor ruského a francouzského realismu
 - má bratra Aloise
 - dlouholeté psychické problémy ⇒ tvůrčí krize

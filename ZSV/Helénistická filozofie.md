@@ -56,4 +56,4 @@
     - Pokládal se za Platonova interpreta 
     - Cesta duchovna, mysticismu 
     - Cílem je sjednotit se s Bohem 
-    - Most ke křesťanstv
+    - Most ke křesťanství

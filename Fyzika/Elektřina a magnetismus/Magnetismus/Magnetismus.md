@@ -79,7 +79,7 @@ $$
 	- Flemingovo pravidlo levé ruky
 		- do dlaně magnetické čáry $\vec{B}$
 		- prsty směr částice $\vec{v}$
-		- síla míří za palcem $\vec{F}$
+		- síla míří zAsia palcem $\vec{F}$
 $$
 \begin{gather}
 \vec{F}=q\cdot(\vec{E}+\vec{v}\times\vec{B}) \newline

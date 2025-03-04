@@ -335,6 +335,14 @@ O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]2(O[C@@H]([C@@H](O)[C@@H]2O)CO)
 ```smiles
 C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
 ```
+###### Polysacharidy
+- obecná charakteristika
+	- vznikají glykosidickým spojením velkého množství molekul monosacharidů (až několik tisíc)
+	- patří do skupiny biopolymerů (nejrozšířenější sacharidy)
+	- monosacharidy mohou být
+		- stejného typu → homopolysacharidy
+		- různého typu → heteropolysacharidy
+	- především zásobní a stavební funkce 
 #### Lipidy
 ### Biokatalyzátory
 - enzymy

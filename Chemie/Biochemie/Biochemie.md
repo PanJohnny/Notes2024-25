@@ -199,7 +199,48 @@ CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C
 		- avšak některé deriváty obsahují N, P, S
 	- vznik
 		- fotosyntéza (zelené rostliny)
-			- biochemický proces, při němž z vody a oxidu uhličitého za přítomosti chlorofylu vzniká glukóza
+			- biochemický proces, při němž z vody a oxidu uhličitého za přítomnosti chlorofylu vzniká glukóza
+			- $6 CO_{2} + 12H_{2}O\to C_{6}H_{12}O_{6} + 6O_{2} + 6H_{2}O$
+	- živočišné organismy je přijímají převážně v potravě
+		- avšak jsou schopny je krátkodobě při nedostatku syntetizovat z aminokyselin nebo glycerolu
+	- biologický význam (funkce)
+		- stavební - zejména u rostlin
+		- zdroj energie - hlavně u živočichů
+		- zásobní - u rostlin i živočichů
+		- složky nukleových kyselin a glykoproteinů
+- dělení
+	- jednoduché
+		- monosacharidy
+			- nelze ej hydrolýzou rozložit na jednodušší sacharidy
+			- tvořeny jednou molekulou monosacharidu
+	- složené
+		- oligosacharidy
+			- tvořeny 2 - 10 monosacharidy (disacharidy, trisacharidy, ...)
+		- polysacharidy
+			- tvořeny větším množstvím monosacharidových jednotek (stovky až tisíce)
+##### Monosacharidy
+- obecná charakteristika
+	- nelze je štěpit na jednodušší sacharidy
+	- polyhydroxyaldehydy nebo polyhydroxyketony
+	- v molekulách obsahují hydroxylové skupiny **-OH** a aldehydickou či ketonickou skupinu
+- dělení
+	- aldosy a ketosy
+	- podle počtu atomů uhlíku (3 - 7)
+		- 3 - aldotriosy (ketotriosy)
+		- 4 - aldotetrosy (ketotetrosy)
+		- 5 - aldopentosy (ketopentosy)
+		- 6 - aldohexosy (ketohexosy)
+		- 7 - aldoheptosy (ketoheptosy)
+- struktura monosacharidů
+	- znázorňuje se pomocí několika typů vzorců
+		- Fischerovy vzorce
+			- znázorňují acyklickou formu
+			- nevystihují přesnou strukturu
+			- nejjednodušší monosacharidy
+				- glyseraldehyd a dihydroxyaceton
+		- Tollenovy vzorce
+		- Haworthovy vzorce
+		-
 #### Lipidy
 ### Biokatalyzátory
 - enzymy

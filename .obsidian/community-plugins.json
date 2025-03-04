@@ -1,17 +1,16 @@
 [
-  "obsidian-git",
-  "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-full-calendar",
-  "obsidian-custom-frames",
   "advanced-canvas",
-  "obsidian-latex-suite",
-  "chem",
-  "enhanced-symbols-prettifier",
-  "obsidian-trim-whitespace",
-  "webpage-html-export",
   "obsidian-advanced-slides",
-  "obsidian-circuitjs",
+  "table-editor-obsidian",
   "cmdr",
-  "terminal"
+  "obsidian-custom-frames",
+  "enhanced-symbols-prettifier",
+  "obsidian-full-calendar",
+  "obsidian-git",
+  "obsidian-latex-suite",
+  "obsidian-circuitjs",
+  "terminal",
+  "obsidian-trim-whitespace",
+  "webpage-html-export"
 ]

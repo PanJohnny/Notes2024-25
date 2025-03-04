@@ -59,7 +59,7 @@
 				- ústřední stresový hormon
 			- inzulin
 				- slinivka břišní
-				- reguluje hladinu glukózy v krvi
+				- reguluje hladinu glukosy v krvi
 >glutathion (musíš to umět vole)
 ```smiles
 C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
@@ -199,7 +199,7 @@ CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C
 		- avšak některé deriváty obsahují N, P, S
 	- vznik
 		- fotosyntéza (zelené rostliny)
-			- biochemický proces, při němž z vody a oxidu uhličitého za přítomnosti chlorofylu vzniká glukóza
+			- biochemický proces, při němž z vody a oxidu uhličitého za přítomnosti chlorofylu vzniká glukosa
 			- $6 CO_{2} + 12H_{2}O\to C_{6}H_{12}O_{6} + 6O_{2} + 6H_{2}O$
 	- živočišné organismy je přijímají převážně v potravě
 		- avšak jsou schopny je krátkodobě při nedostatku syntetizovat z aminokyselin nebo glycerolu
@@ -244,11 +244,11 @@ CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C
 		- Haworthovy vzorce
             - Znázorňují cyklické formy sacharidů 
             - Jejich označení vychází s podobnosti s heterocykly 
-                   - Furanózy - sacharidy s pětičlenným cyklem 
-                   - Pyranózy - sacharidy se šestičlenným cyklem 
+                   - Furanosy - sacharidy s pětičlenným cyklem 
+                   - Pyranosy - sacharidy se šestičlenným cyklem 
             - Po vzniku cyklické formy se uhlík s původně karbonylovou skupinou mění na chirální a nese tzv. poloacetalový hydroxyl 
             - Dle orientace poloacetalového hydroxylu mají D- i L- formy dva anomery α- a β- 
-            - Podobně vznikají i furanózy 
+            - Podobně vznikají i furanosy 
             - Pravidla pro psaní Haworthových vzorců 
                 - U pyranóz píšeme kyslíkový atom vpravo nahoře a u furanóz nahoře 
                 - Číslování uhlíkatého cyklu ve směru hodinových ručiček 
@@ -293,6 +293,48 @@ CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C
             - Vznik glykosidů 
                 - Reakcí poloacetalu sacharidu s alkoholem 
                 - Uvolňuje se voda, zbytky molekul se spojují glykosidickou vazbou
+###### Olinosacharidy
+- vznikají spojováním monosacharidových jednotek glykosidickou vazbou
+- dle počtu monosacharidových jednotek dělíme na disacharidy, trisacharidy...
+- nejznámější jsou disacharidy
+	- struktura
+		- tvořeny spojením dvou monosacharidů
+		- spojení je možné dvojím způsobem
+			- poloacetalový hydroxyl jednoho z monosacharidu je spojen s jiným než poloacetalovým hydroxylem druhého monosacharidu → vzniká redukující disacharid; zbývá mu volný polosacharidový hydroxyl (důkaz - redukují Fehlingovo a Tollensovo činidlo)
+			- poloacetalový hydroxyl jednoho z monosacharidu je spojen s poloacetalovým hydroxylem druhého monosacharid → vzniká neredukující disacharid; zbývá mu volný polosacharidový hydroxyl (důkaz - neredukují Fehlingovo a Tollensovo činidlo)
+	- vlastnosti
+		- bezbarvé, krystalické látky
+		- dobře rozpustné ve vodě
+		- řada z nich v potravinách
+	- zástupci
+		- sacharosa
+			- = řepný, třtinový cuk
+			- bezbarvá, krystalická látka
+			- dobře rozpustná ve vodě
+			- vzniká spojením α-D-glukopyranosy a β-D-fruktofuranosy
+			- neredukující disacharid
+			- nejrozšířenější cukr vůbec
+			- důležitá složka potravy
+			- získává se především z cukrové třtiny nebo řepy
+			- rozklad hydrolýzou na glukosu a fruktosu
+		- laktosa
+			- = mléčný cukr
+			- vzniká spojením α-D-glukopyranosy a β-D-galaktopyranosy
+			- redukující disacharid
+			- v mléce savců
+			- získává se ze syrovátky
+		- maltosa
+			- = sladový cukr
+			- vzniká spojením dvou molekul α-D-glukopyranosy
+			- získává se enzymatickou hydrolýzou škrobu; na glukosu lze maltosu rozštěpit pomocí maltázy
+>sacharosa
+```smiles
+O1[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@@]2(O[C@@H]([C@@H](O)[C@@H]2O)CO)CO
+```
+> laktosa
+```smiles
+C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+```
 #### Lipidy
 ### Biokatalyzátory
 - enzymy

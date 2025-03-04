@@ -1,42 +1,63 @@
 - Je proud měnící svůj směr 
 - Pro jednoduchost uvažujeme harmonický střídavý proud (lze popsat goniometrickými funkcemi) 
 - Zkratka AC
-u=umax∗sin⁡(𝜔∗t+𝜑0) 
-u −okamžité napětí 
-umax−amplituda napětí 
-𝜔 −úhlová frekvence 
-t −čas 
-𝜑0−počáteční fáze 
-i=imax∗sin⁡(𝜔∗t+𝜑0) 
-i −okamžitý proud 
-imax−aplituda proudu 
-𝜔−úhlová frekvence 
-t−čas 
-𝜑0−počáteční fáze 
-𝜔=2𝜋T=2𝜋f 
-𝜔−úhlová frekvence 
-T−perioda 
+$$
+\begin{gather}
+u = u_{max}\cdot \sin(\omega t\cdot \varphi_{0}) \\
+u\dots \text{okamžité napětí} \\
+u_{max}\dots \text{amplituda napětí} \\
+\omega\dots \text{úhlová frekvence} \\
+t\dots \text{čas} \\
+\varphi_{0}\dots \text{počáteční fáze} \newline \\
+i=i_{max}\cdot \sin(\omega \cdot t+\varphi_{0}) \\
+i\dots \text{okamžitý proud} \\
+i_{max}\dots \text{amplituda proudu} \\
+\omega\dots \text{úhlová frekvence} \\
+t\dots \text{čas}  \\
+\varphi_{0}\dots \text{počáteční fáze}\newline \\ \\
+\omega=2\pi T= 2\pi f \\
+\omega\dots \text{úhlová frekvence} \\
+T\dots \text{perioda} \\
+f\dots \text{frekvence}
+\end{gather}
+$$
 Impedance 
 - Skládá se z el. Odporu 
     - Ionty tvořící materiál brání e- v průchodu 
-    R=𝜌∗lS 
-    𝜌−hustota 
-    l−délka vodiče 
-    S− 
+$$
+\begin{gather}
+r=\rho \cdot I\cdot S \\
+\rho\dots \text{hustota} \\
+I\dots \text{délka vodiče} \\
+S\dots \text{kapacitance}
+\end{gather}
+$$
     - Kapacitance 
         - Kapacitance kondenzátoru Xc 
         - Jednotka je Ω 
         - Nabíjením kondenzátoru vytváří kondenzátor protinapětí proti zdroji 
-        Xc=1𝜔∗C 
-        𝜔−úhlová frekvence 
-        C−kapacita 
+$$
+\begin{gather}
+X_{c}=\frac{1}{\omega \cdot C} \\
+\omega\dots \text{úhlová frekvence} \\
+C\dots \text{kapacita}
+\end{gather}
+$$
     - Induktance  
         - Induktance cívky XL 
         - Proměnné magnetické pole cívky indukuje proti zdroji napětí 
         - Jednotka je Ω 
-        XL=𝜔∗L 
-Z=R2+(XL−Xc)2
+$$
+\begin{gather}
+X_{L} = \omega \cdot L \\
+Z = \sqrt{R^{2}+(X_{L}-X_{C})^2}
+\end{gather}
+$$
 - Rezonance (vyrušením XL a Xc) 
-    - XL=Xc 
-    - 𝜔∗L=1𝜔∗C 
-    - 𝜔=1L∗C
+$$
+\begin{gather}
+X_{L}=X_{c} \\
+\omega \cdot L = \frac{1}{\omega \cdot C} \\
+\omega = \frac{1}{L\cdot C}
+\end{gather}
+$$

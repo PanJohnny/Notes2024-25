@@ -199,7 +199,100 @@ CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C
 		- avšak některé deriváty obsahují N, P, S
 	- vznik
 		- fotosyntéza (zelené rostliny)
-			- biochemický proces, při němž z vody a oxidu uhličitého za přítomosti chlorofylu vzniká glukóza
+			- biochemický proces, při němž z vody a oxidu uhličitého za přítomnosti chlorofylu vzniká glukóza
+			- $6 CO_{2} + 12H_{2}O\to C_{6}H_{12}O_{6} + 6O_{2} + 6H_{2}O$
+	- živočišné organismy je přijímají převážně v potravě
+		- avšak jsou schopny je krátkodobě při nedostatku syntetizovat z aminokyselin nebo glycerolu
+	- biologický význam (funkce)
+		- stavební - zejména u rostlin
+		- zdroj energie - hlavně u živočichů
+		- zásobní - u rostlin i živočichů
+		- složky nukleových kyselin a glykoproteinů
+- dělení
+	- jednoduché
+		- monosacharidy
+			- nelze ej hydrolýzou rozložit na jednodušší sacharidy
+			- tvořeny jednou molekulou monosacharidu
+	- složené
+		- oligosacharidy
+			- tvořeny 2 - 10 monosacharidy (disacharidy, trisacharidy, ...)
+		- polysacharidy
+			- tvořeny větším množstvím monosacharidových jednotek (stovky až tisíce)
+##### Monosacharidy
+- obecná charakteristika
+	- nelze je štěpit na jednodušší sacharidy
+	- polyhydroxyaldehydy nebo polyhydroxyketony
+	- v molekulách obsahují hydroxylové skupiny **-OH** a aldehydickou či ketonickou skupinu
+- dělení
+	- aldosy a ketosy
+	- podle počtu atomů uhlíku (3 - 7)
+		- 3 - aldotriosy (ketotriosy)
+		- 4 - aldotetrosy (ketotetrosy)
+		- 5 - aldopentosy (ketopentosy)
+		- 6 - aldohexosy (ketohexosy)
+		- 7 - aldoheptosy (ketoheptosy)
+- struktura monosacharidů
+	- znázorňuje se pomocí několika typů vzorců
+		- Fischerovy vzorce
+			- znázorňují acyklickou formu
+			- nevystihují přesnou strukturu
+			- nejjednodušší monosacharidy
+				- glyseraldehyd a dihydroxyaceton
+		- Tollenovy vzorce
+			- Tvoří přechod mezi Fischerovými a Haworthovými 
+	        - Lépe vystihují strukturu, která je ve skutečnosti cyklická a vzniká adicí aldehydické skupiny na 1. uhlíku nebo ketonové skupiny na 2. uhlíku na hydroxylovou skupinu předposledního uhlíku -> vzniká vnitřní poloacetal s pěti- nebo šestičlenným cyklem 
+		- Haworthovy vzorce
+            - Znázorňují cyklické formy sacharidů 
+            - Jejich označení vychází s podobnosti s heterocykly 
+                   - Furanózy - sacharidy s pětičlenným cyklem 
+                   - Pyranózy - sacharidy se šestičlenným cyklem 
+            - Po vzniku cyklické formy se uhlík s původně karbonylovou skupinou mění na chirální a nese tzv. poloacetalový hydroxyl 
+            - Dle orientace poloacetalového hydroxylu mají D- i L- formy dva anomery α- a β- 
+            - Podobně vznikají i furanózy 
+            - Pravidla pro psaní Haworthových vzorců 
+                - U pyranóz píšeme kyslíkový atom vpravo nahoře a u furanóz nahoře 
+                - Číslování uhlíkatého cyklu ve směru hodinových ručiček 
+        - Zástupci: 
+            - D-glukosa 
+                - = hroznový cukr, krevní cukr, dextrosa 
+                - Bílá krystalická látka, sladká chuť 
+                - Dobře rozpustná ve vodě
+                - Výskyt: rostlinné šťávy, ovoce, med (50%), krev živočichů 
+                - Základní monosacharidy pro řadu oligosacharidů (sacharosa, laktosa) a polysacharidů (škrob, glykogen, celulosa) 
+                - Významný zdroj energie -> součást umělé výživy 
+                - Výroba hydrolýzou škrobu 
+            - D-fruktosa 
+                - Nejsladší ze všech cukrů 
+                - Bílá krystalická látka 
+                - Spolu s glukosou v ovoci a součást sacharosy 
+            - D-galaktosa 
+                - Součást krevních polysacharidů, hemicelulóz a roslitnných slizů 
+            - D-ribosa 
+                - Významná součást RNA 
+                - Její derivát 2-deoxy-D-ribosa je součástí DNA 
+##### Složené sacharidy
+- Oligosacharidy - tvořeny 2-10 monosacharidy (disacharidy, trisacharidy, …) 
+- Polysacharidy - tvořeny větším množstvím monosacharidových jednotek (stovky až tisíce)
+    - Cukry - mono- a oligosacharidy (sladká chuť) 
+- Fyzikální vlastnosti 
+    - Bezbarvé krystalické, dobře rozpustné ve vodě za vzniku sladkých roztoků 
+    - Opticky aktivní 
+- Chemické vlastnosti 
+    - Jsou dány především přítomností hydroxylové a karbonylové skupiny 
+    - Reakce karbonylové skupiny 
+        - Oxidačně redukční 
+            - Především u aldóz na aldehydické skupině 
+            - Redukce -> alditol (cukrový alkohol) 
+                - D-glucitol = sorbitol (sladidlo pro diabetiky) 
+            - Oxidace -> aldolová kyselina 
+    - Reakce hydroxylové skupiny 
+        - Esterifikace 
+            - Nejvýznamnější estery s kyselinou trihydrogenfosforečnou (metabolická přeměny sacharidů)
+            - Přednostně se esterifikuje poloacetalová a primární hydroxylová skupina na posledním atomu uhlíku 
+        - Reakce hydroxylové skupiny 
+            - Vznik glykosidů 
+                - Reakcí poloacetalu sacharidu s alkoholem 
+                - Uvolňuje se voda, zbytky molekul se spojují glykosidickou vazbou
 #### Lipidy
 ### Biokatalyzátory
 - enzymy

@@ -1,15 +1,59 @@
-- při metabolismu vznikají odpadní látky, které lidské tělo neumí využít → musí se vyloučit
-- na jejich odstraňování se podílí několik soustav
-	- **dýchací**
-	- **trávicí**
-	- **kožní**
-	- **vylučovací**
-- vylučovací ústrojí se skládá z ledvin a močových cest
-## Ledviny
-- párový orgán uložený v tukovém polštáři po stranách páteře, ve výši 1. - 3. bederního obratle
-- **fazolovitého tvaru**
-	- asi 12 cm dlouhé
-- vnitřní okraj má zářez = **ledvinová branka**
-	- vstup tepny a výstup žíly s močovodem
-- základní stavební úpjednotka **nefron**
-	- cca 1 milion
+- Při metabolismu vznikají látky, které lidské tělo neumí využít -> musí je vyloučit 
+- Na jejich odstraňování se podílí několik soustav: 
+    - Dýchací (CO2) 
+    - Trávící (stolice) 
+    - Kožní (pot) 
+    - Soustava vylučovací (moč) 
+- Skládá se z ledvin a močových cest 
+    - Ledviny 
+        - Párový orgán uložený v tukovém polštáři po stránkách páteře, ve výši 1.-3. bederního obratle 
+        - Jsou fazolovitého tvaru 
+        - Vnitřní okraj ledviny má zářez = ledvinová branka - vstupuje tam ledvinová tepna a vystupuje ledvinová žíla a močovod 
+        - Základní stavební a funkční jednotkou = NEFRON (cca 1 milión v každé ledvině) 
+        - Funkce: 
+            - Vylučovací 
+                - Filtrují z krev odpadní látky metabolismu (močovina, kyselina močová), přebytečnou vodu a soli v podobě moči 
+            - Regulační 
+                - Udržuje stále množství tekutin v těle a osmotický tlak + regulují pH 
+            - Endokrinní 
+                - Vytváří hormony: 
+                    - Renin - ovlivňuje krevní tlak + přívod krve do glomerulu (úvodní část nefronu) 
+                    - Erytropoetin - podporuje vznik erytrocytů 
+        - Fáze: 
+            - První fáze = glomerulární filtrace -> z cévního klubíčka přechází do Bowmanova váčku všechny složky krevní plazmy kromě proteinů 
+                - Intenzivní průtok krve - 1,3 l/min 
+                - Vytváří se primární moč - za den se přefiltruje asi 180 l 
+            - Druhá fáze = zpětné vstřebávání potřebných látek v kanálcích a Henleově kličce -> obklopeny kapilárami 
+                - Vrací se 99 % H20, 100 % sacharidů, 99,5 % NaCl 
+                - Současně v kanálcích probíhá i vylučování některých  do těla přijatých látek např. léků 
+                - Po průchodu sběrnými kanálky vzniká definitivní moč (cca 1,5 l/den) -> vtéká do ledvinových kalichů 
+                    - Definitivní moč je tvořena: 
+                        - H2O (95 %), močovina, kyselina močová, soli, přebytečné vitamíny, léky 
+                        - Nesmí obsahovat - krev, cukry, bílkoviny, hnis 
+                    - Tvorba moči je ovlivňována hormony: 
+                        - Antidiuretický hormon (ADH) - tvořen podvěskem mozkovým - usměrňuje zpětné vstřebávání H2O 
+                        - Aldosteron - tvořen kůrou nadledvin - řídí zpětné vstřebávání iontů Na+ a K+ 
+    - Močovody 
+        - Začínají ledvinovými kalichy - spojují se do ledvinové pánvičky 
+        - Pokračují močovodem - párová trubice - dlouhá asi 30 cm a 5-7 mm v průměru 
+        - Stavba: 
+            - Vazivový obal 
+            - Hladká svalovina - peristaltické pohyby posunují moč (vlnové stahy) 
+            - Sliznice
+        - Ústí zezadu do močového měchýře 
+    - Močový měchýř 
+        - Dutý orgán uložený za sponou stydkou -> hromadění moči - kapacita 500-700 ml - nucení cca po 300 ml 
+        - Vyprazdňování měchýře: 
+            - V raném dětství nepodmíněný reflex s centrem v míše - postupně se učíme ovládat vůlí 
+            - Ovládáno - 2 svěrače 
+                - Vnitřní - hladká svalovina - povoluje při pocitu nucení 
+                - Vnější - příčně pruhovaná sval - ovládáme vůlí 
+    - Močová trubice - nepárová 
+        - U žen 3-5 cm 
+        - U mužů 12-20 cm - prochází prostatou - odtud se stává společným vývodem i pro soustavu pohlavní 
+- Onemocnění ledvin 
+    - Ledviny - pro život nezbytné - při zástavě činnosti smrt do 3-5 dnů 
+        - Ledvinové kameny - vysrážení látek obsažených v moči (80 % šťavelan vápenatý) -> vznik při dlouhodobém nedostatku tekutin 
+        - Infekce a záněty - při zánětu glomerulů hrozí selhání ledvin 
+        - Chronické selhání ledvin - řeší se dialýzou nebo transplantací 
+        - Akutní selhání ledvin - různé příčiny - např. jed, velká ztráta krve…, léčbou se může funkce obnovit

@@ -1,4 +1,4 @@
-## Chemické vlastnosti
+w## Chemické vlastnosti
 - jsou dány především přítomností hydroxylové a karboxylové skupiny
 - reakce karbonylové skupiny
 	- oxidačně redukční

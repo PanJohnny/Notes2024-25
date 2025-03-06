@@ -381,6 +381,10 @@ C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)C
 		- nerozpustná ve vodě
 		- v rostlinách se většinou vyskytuje v dobrovodu dalších látek, které označujeme jako hemicelulosy
 		- pro člověka nestravitelná, ale tvoří důležitou složku potravy - vlákninu
+		- vyrábí se ze dřeva
+		- surová celulosa = buničina
+			- tvoří základní surovinu pro papírenský a textilní průmysl
+		- výroba vizkózového hedvábí, celuloidu, střelné bavlny
 #### Lipidy
 ### Biokatalyzátory
 - enzymy

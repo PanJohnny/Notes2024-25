@@ -342,7 +342,45 @@ C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)C
 	- monosacharidy mohou být
 		- stejného typu → homopolysacharidy
 		- různého typu → heteropolysacharidy
-	- především zásobní a stavební funkce 
+	- především zásobní a stavební funkce
+- vlastnosti
+	- obvykle nerozpustné ve vodě (bobtnají)
+	- nemají sladkou chuť
+	- nemají redukční vlastnosti
+- Zástupci
+	- škrob
+		- zásobní polysacharid rostlin (brambory, obilná zrna, rýže...)
+		- základní sloužkou potravy
+		- kombinace amylosy a amylopektinu
+			- základem obou je α-D-glukapyranosa
+			- amylosa
+				- nevětvená
+				- rozpouští se ve vodě
+				- α(1-4)gykosidická vazba
+				- struktura - šroubovice
+				- modré zbarvení s jódem
+			- amylopektin
+				- větvený
+				- nerozpouští se ve vodě
+				- α(1-4) a α(1-6)gykosidická vazba
+				- fialové zbarvení s jódem
+		- ve vodě tvoří koloidní roztoky
+		- průmyslově se získává z brambor a obilnin
+		- jeho částečnou hydrolýzou vznikají dextriny (technická lepidla)
+		- úplnou hydrolýzou vzniká maltosa → glukosa
+	- glykogen
+		- "živočišný škrob"
+		- struktura podobná amylopektinu, avšak má více rozvětvené řetězce
+		- zásobní polysacharid živočichů
+		- obsažen především v játrech a ve svalech
+		- organismus je schopen jej syntetizovat, nebo naopak štěpit na glukosu při nedostatku energie
+	- celulosa
+		- základem je opět D-glukosa
+		- jednotky spojené β(1-4)glykosidickou vazbou
+		- základní stavební polysacharid buněčných stěn vyšších rostlin
+		- nerozpustná ve vodě
+		- v rostlinách se většinou vyskytuje v dobrovodu dalších látek, které označujeme jako hemicelulosy
+		- pro člověka nestravitelná, ale tvoří důležitou složku potravy - vlákninu
 #### Lipidy
 ### Biokatalyzátory
 - enzymy

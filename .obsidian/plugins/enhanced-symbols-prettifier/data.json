@@ -4,11 +4,7 @@
       "replaced": "->",
       "value": "→",
       "group": "Arrows",
-<<<<<<< HEAD
-      "count": 31
-=======
-      "count": 32
->>>>>>> origin/main
+      "count": 34
     },
     "<-": {
       "replaced": "<-",
@@ -235,13 +231,13 @@
       "replaced": "alpha",
       "value": "α",
       "group": "Greek Letters",
-      "count": 4
+      "count": 8
     },
     "beta": {
       "replaced": "beta",
       "value": "β",
       "group": "Greek Letters",
-      "count": 1
+      "count": 2
     },
     "gamma": {
       "replaced": "gamma",

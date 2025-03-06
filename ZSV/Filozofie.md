@@ -23,4 +23,5 @@
 - Arché = pralátka - z čeho všechno vzniklo
 
 1. [[Antická filozofie]]
-2. 
+2. [[Helénistická filozofie]]
+3. [[Středověká filozofie]]

@@ -31,15 +31,68 @@
 - nosní dutina tvoří **vedlejší nosní dutiny** - lebeční kosti
 - zánět se blbě léčí
 ### Nosohltan
-- ústí Eustachovi trubice
+- ústí Eustachovy trubice
 - mandle
 ### Hltan
 - kříží zde cesty trávicí a dýchací
 ### Příklopka hltanová
 - uzavírá při polykání vchod do hrtanu
 
-## Dolní cesty dýchací
-### Hrtan
-- zavěšen na **jazylce** - tvořen hrtanovými **chrupavkami**
-	- největší =
-byl jsem línej
+## Dolní cesty dýchací 
+### Hrtan 
+ - Zavěšen na jazylce - tvořen hrtanovými chrupavkami 
+	- Největší = chrupavka štítná (tvoří tzv. "ohryzek") 
+    - Pod ní je chrupavka prstencová, zezadu 2 chrupavky hlasivkové 
+- Uloženo v něm hlasové ústrojí 
+    - Tvořeno: 
+        - 2 páry hlasivkových vazů - napnuté mezi chrupavkami 
+        - Mezi nimi - hlasová štěrbina 
+        - Při průchodu vzduchu štěrbinou se vazy rozkmitají a vydávají zvuk 
+### Průdušnice 
+- Dlouhá asi 10 cm, vyztužena chrupavkami ve tvaru podkovy 
+- Průdušky 
+    - Začínají na konci průdušnice 
+    - Vstupují do plic a dále se větví na průdušinky 
+    - Horní i dolní cesty mají shodnou stavbu stěny: 
+        - Uvnitř - sliznice s řasinkovým epitelem a hlenovými žlázami 
+        - Pod sliznicí - vazivo a hladká svalovina 
+### Plíce 
+- Světle červený párový orgán uložený v hrudní dutině 
+- Pravá plíce větší - 3 laloky, levá - 2 laloky 
+- Povrch kryt blánou = poplicnice - na vnitřní stranu hrudníku přechází jako pohrudnice 
+- Mezi blánami - štěrbina pohrudniční vyplněná tekutinou 
+- Ve štěrbině je podtlak - umožňuje nafouknutí plic -> při porušení hrudní stěny se vyrovná tlak s okolím -> plíce splaskne = pneumotorax
+- Vnitřní stavba: 
+    - Vnitřní hmota je tvořena průdušinkami, plicními váčky se sklípky a krevní cévami 
+        - Průdušinky - vznik postupnými větvením průdušek 
+        - Plicní váčky - na koncích průdušinek - jejich povrch hroznovitě vyklenutý v plicní sklípky 
+        - Plicní sklípky - jednovrstevná stěna opředená sítí vlásečnic -> zde dochází k výměně plynů 
+## Mechanika dýchání 
+- Vdech: 
+    - Aktivní děj -> dotován energií 
+    - Podílí se na tom bránice a mezižeberní svaly -> roztahuje se hrudník 
+- Výdech: 
+    - Pasivní děj -> bez dotace energie 
+    - Bránice a mezižeberní svaly ochabnou -> návrat do původní polohy 
+## Řízení dýchání
+- Ovládáno dýchacím centrem v prodloužené míše -> podle změny koncentrace O2 a CO2 v krvi 
+- Centrum řídí i obranné reflexy (kýchání, kašlání) 
+- Dýchání lze ovlivnit vůlí 
+## Fyziologická data
+- Dechová frekvence 
+    - 16 vdechů / minutu v klidu 
+- Minutový dechový objem 
+    - 8 litrů / minuta v klidu, až 60 litrů při zátěži 
+- Vitální kapacita plic 
+    - Objem vzduchu z max. nádechu a výdechu 
+    - Průměr 4-5 litrů, dle věku a pohlaví 
+    - Trénovaný člověk až okolo 7 litrů 
+## Onemocnění dýchací soustava 
+- Respirační infekce 
+    - Chřipka - virová 
+    - Zápal plic 
+        - Bakteriální nebo virový 
+        - Plicní sklípky se plní tekutinou a hlenem -> zhoršení výměny plynů 
+    - Tuberkulóza - bakteriální 
+- Astma - stahy svaloviny a otoky dýchacích cest 
+- Rakovina

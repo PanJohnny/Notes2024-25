@@ -1,0 +1,9 @@
+- Pokrývá tělo, odděluje vnitřní prostředí od vnějšího 
+- Funkce: 
+    - Ochrana těla - brání průniku škodlivých látek, mikroorganismů, chrání před UV zářením 
+    - Udržování tělesné teploty - pomocí cév a potních žláz v horkém prostředí - rozšíření cév a odpařování potu -> urychlení 
+    - Vylučování - pot a maz
+    - Resorpční funkce - vstřebávání některých látek rozpustných v tucích
+    - Smyslová funkce - receptory - slouží k vnímání okolního prostředí 
+    - Zásobní funkce - v podkožním vazivu uložen tuk a vitamíny rozpustné v tucích 
+    - Tvorba vitamínu D - působením slunečního záření

@@ -401,7 +401,45 @@ C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)C
 	- tepelná izolace
 	- prostředí pro rozpouštěná biologicky významných nepolárních látek (hormony, vitamíny, barviva, léčiva)
 	- "abychom měli na čem smažit"
-- 
+- dělení podle složitosti
+	- jednoduché
+		- = pouze estery vyšších mastných kyselin a alkoholů bez dalších složek
+		- dělení podle alkoholové složky
+			- acylglyceroly (tuky a oleje)
+				- estery vyšších mastných kyselin s glycerolem
+				- glycerol (alkoholová složka)
+					- může být esterifikována 1, 2 nebo 3 hydroxylové skupiny (mono-, di-, triacylglycerol)
+				- karboxylové kyseliny
+					- obvykle jednosytné (monokarboxylové)
+					- mají sudý počet uhlíků
+						- nasysené - palmitová, stearová
+						- nenasycené - olejová, linolová, linolenová
+				- acyly mohou být
+					- stejné - jednoduché acylglyceroly
+					- různé - smíšené acylglyceroly (přírodní)
+				- vlastnosti
+					- v čistém stavu bezbarvé látky, bez chuti a zápachu
+					- snadno hydrolyzují
+						- kyselou hydrolýzou vzniká
+							- glycerol a původní kyselina (kyseliny)
+						- zásaditou hydrolýzou vzniká (zmýdelněním)
+							- glycerol a sůl vyšší mastné kyseliny
+				- mýdla
+					- = sodné a draselné soli kyselin palmitové a stearové
+					- amfifilní charakter
+						- = obsahují hydrofilní a hydrofobní část
+						- hydrofilní část
+							- polární
+								- karoboxylový anion spolu s kationtem kovu
+							- rozptýlení špíny do vodného prostředí
+						- hydrofobní
+							- nepolární
+								- uhlovodíkový řetězec
+							- narušuje strukturu mastnoty
+					- tvrdá voda → srážení mýdla (špatně pění, až vločkuje)
+					- 
+			- vosky
+	- složené
 ### Biokatalyzátory
 - enzymy
 - vitamíny

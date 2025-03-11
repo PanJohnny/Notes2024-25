@@ -443,12 +443,53 @@ C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)C
 						- tuhé
 						- žluknutí
 							- způsobeno účinkem bakterií v teplém a vlhkém prostředí (oxidace probíhá hlavně na dvojných vazbách)
+							- vznikají nepříjemně zapáchající látky
+						- zástupci
+							- živočišné tuky
+								- tvoří podkožní tuk a obalují orgány
+								- máslo (mléčný tuk), sádlo (vepřový (či jiný) tuk), lůj (hovězí, skopový tuk), rybí tuk
+								- potravinářství, výroba léčiv a kosmetiky
 					- oleje
 						- obsahují pouze nebo převážně nenasycené mastné kyseliny
 						- tekuté
 						- žluknutí (viz tuky)
+						- ztužování
+							- katalytická hydrogenace olejů → margaríny
+							- dochází k adici vodíku na dvojné vazby nenasycených karboxylových kyselin
+							- ztužené tuky jsou stálejší proti žluknutí
+						- vysychání
+							- oleje obsahující karboxylové kyseliny s několika dvojnými vazbami na vzduchu mohou oxidovat a polymerovat → mění se v pevnou a pružnou látku
+							- výroba fermeží
+						- zástupci
+							- rostlinné oleje
+								- hlavně v semenech a plodech
+								- slunečnicový, lněný, řepkový, olivový
+								- potravinářství, výroba nátěrových hmot, léčiv a kosmetiky
 			- vosky
+				- estery vyšších mastných kyselin ($C_{16}-C_{36}$) a vyšších jednosytných alkoholů ($C_{16}$ cetylalkohol, $C_{26}$ cerylalkohol)
+				- rostlinný i žovočišný původ
+					- ochranná a stavenbí funkce
+					- vorvaňovina (orientace vorvaňů), lanolin (ovčí vlna), včelí vosk)
+				- využití
+					- zdravotnicztví, kosmetika (masti a krémy), výroba svíček
 	- složené
+		- kromě acylů karboxylových kyselin mají estericky vázanou i další složku
+		- v rostlinných i živočišných buňkách
+		- zástupci
+			- fosfolipidy
+				- mají estericky vázanou kyselinu trihydrogenfosforečnou
+				- amfifilní charakter
+					- hydrofobní část - postranní řetězec mastných kyselin
+					- hydrofilní - fosfátová složka
+				- tvoří hlavně membrány buněk, jsou v játrach, ledvinách, žloutku a sóje
+			- glykolipidy
+				- mají estericky vázané (obvykle) monosacharidy
+				- na povrchu všech eukaryotických buněk - receptory pro specifické chemikálie
+			- sfingolipidy
+				- mají estericky vázaný sfingosin
+				- tvoří strukturu nervové a mozkové tkáně
+				- ochrana povrchu buněk
+				- 
 ### Biokatalyzátory
 - enzymy
 - vitamíny

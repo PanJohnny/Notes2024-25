@@ -437,7 +437,16 @@ C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)C
 								- uhlovodíkový řetězec
 							- narušuje strukturu mastnoty
 					- tvrdá voda → srážení mýdla (špatně pění, až vločkuje)
-					- 
+				- dělení
+					- tuky
+						- obsahují pouze nebo převážně nasycené mastné kyseliny
+						- tuhé
+						- žluknutí
+							- způsobeno účinkem bakterií v teplém a vlhkém prostředí (oxidace probíhá hlavně na dvojných vazbách)
+					- oleje
+						- obsahují pouze nebo převážně nenasycené mastné kyseliny
+						- tekuté
+						- žluknutí (viz tuky)
 			- vosky
 	- složené
 ### Biokatalyzátory

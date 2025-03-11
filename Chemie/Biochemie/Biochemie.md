@@ -60,7 +60,7 @@
 			- inzulin
 				- slinivka břišní
 				- reguluje hladinu glukosy v krvi
->glutathion (musíš to umět vole)
+>glutathion
 ```smiles
 C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
 ```
@@ -386,6 +386,22 @@ C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)C
 			- tvoří základní surovinu pro papírenský a textilní průmysl
 		- výroba vizkózového hedvábí, celuloidu, střelné bavlny
 #### Lipidy
+- = látky nerozpustné ve vodě
+##### Zmýdelnitelné (hydrolyzovatelné)
+- = estery vyšších mastných kyselin a alkoholů
+- rostlinného i živočišného původu
+- vyskytují se především v buněčných membránách a nervových zakončeních
+- hydrofobní
+- nerozpustné ve vodě
+- rozpustné v nepolárních organických rozpouštědlech
+- biologický význam
+	- stavební látka buněčných membrán
+	- zdroj energie
+	- ochrana orgánů
+	- tepelná izolace
+	- prostředí pro rozpouštěná biologicky významných nepolárních látek (hormony, vitamíny, barviva, léčiva)
+	- "abychom měli na čem smažit"
+- 
 ### Biokatalyzátory
 - enzymy
 - vitamíny

@@ -15,15 +15,15 @@ i_{max}\dots \text{amplituda proudu} \\
 \omega\dots \text{úhlová frekvence} \\
 t\dots \text{čas}  \\
 \varphi_{0}\dots \text{počáteční fáze}\newline \\ \\
-\omega=2\pi T= 2\pi f \\
+\omega=\frac{2\pi}{T}= 2\pi f \\
 \omega\dots \text{úhlová frekvence} \\
 T\dots \text{perioda} \\
 f\dots \text{frekvence}
 \end{gather}
 $$
-Impedance 
-- Skládá se z el. Odporu 
-    - Ionty tvořící materiál brání e- v průchodu 
+- Impedance 
+	- Skládá se z el. Odporu 
+	    - Ionty tvořící materiál brání e- v průchodu 
 $$
 \begin{gather}
 r=\rho \cdot I\cdot S \\
@@ -32,10 +32,10 @@ I\dots \text{délka vodiče} \\
 S\dots \text{kapacitance}
 \end{gather}
 $$
-    - Kapacitance 
-        - Kapacitance kondenzátoru Xc 
-        - Jednotka je Ω 
-        - Nabíjením kondenzátoru vytváří kondenzátor protinapětí proti zdroji 
+- Kapacitance 
+    - Kapacitance kondenzátoru Xc 
+    - Jednotka je Ω 
+    - Nabíjením kondenzátoru vytváří kondenzátor protinapětí proti zdroji 
 $$
 \begin{gather}
 X_{c}=\frac{1}{\omega \cdot C} \\
@@ -43,10 +43,10 @@ X_{c}=\frac{1}{\omega \cdot C} \\
 C\dots \text{kapacita}
 \end{gather}
 $$
-    - Induktance  
-        - Induktance cívky XL 
-        - Proměnné magnetické pole cívky indukuje proti zdroji napětí 
-        - Jednotka je Ω 
+- Induktance  
+    - Induktance cívky XL 
+    - Proměnné magnetické pole cívky indukuje proti zdroji napětí 
+    - Jednotka je Ω 
 $$
 \begin{gather}
 X_{L} = \omega \cdot L \\

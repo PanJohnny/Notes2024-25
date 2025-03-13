@@ -2,67 +2,54 @@
     - 1918 vznik Československa 
     - 1939 - vyhlášení protektorátu 
 ## Devětsil 
-- Literární spolek 
-- Někteří členové: 
-    - Karel Teige 
-    - Vítězslav nezval 
-    - Jindřich Honzl 
-    - Jan Werich 
-    - Jiří Voskovec 
-    - Adolf Hoffmeister 
-- Seskupení českých avantgardních umělců založené roku 1920 v Praze 
-- Věnovali se proletářskému umění a tzv. magickému realismu 
+- seskupení českých avantgardních umělců založené roku 1920 v Praze 
+- věnovali se proletářskému umění a tzv. magickému realismu 
 - Od roku 1923 se angažovali v poetizmu 
 - Básníci, spisovatelé, teoretici, výtvarní umělci, divadelníci a architekti 
 - Staví se proti staré literatuře, jež je psaná pro bohatou vrstvu a jdou revoluční vrstvou - s dělnictvem 
-- Program - snaha přiblížit umění co nejširšímu publiku 
-- Zakládající členové: K. Teige, A. Hoffmeister, J. Seifert, J. Honzl 
-- Prodělal proměny v umělecké orientaci i ve složení členů 
-- Pobočné sdružení v Brně - Brněnský Devětsil, svaz pro propagaci novodobé činné literatury 
-- 1925 vytvořili tanečníci, hudebníci, herci a autoři v čele s režiséry divadelní sekci - "Osvobozené divadlo" 
+- program - snaha **přiblížit umění co nejširšímu publiku**
+- zakládající členové: K. Teige, A. Hoffmeister, J. Seifert, J. Honzl, ...
+- prodělal proměny v umělecké orientaci i ve složení členů 
+- pobočné sdružení v Brně - Brněnský Devětsil, svaz pro propagaci novodobé činné literatury, např. **Halas**
+- 1925 vytvořili tanečníci, hudebníci, herci a autoři v čele s režiséry divadelní sekci - **Osvobozené divadlo**
 - 1927 - K. Teige vydává časopis ReD (Revue Devětisil) 
-- Rozsáhlá činnost publikační, přednášková, expoziční, divadelní, recitační, vydával několik časopisů 
+- rozsáhlá činnost publikační, přednášková, expoziční, divadelní, recitační, vydával několik časopisů 
 ### Proletářská poezie 
-- Literární směr, který sdružil v prvních letech po válce u nás po sovětském vzdoru básníky socialistického myšlení 
-- Zdůrazňovali, že poezie a literatura má mít tendenci, jež by pomáhala proletářské třídě v boji za jejich sociální osvobození 
-- Levicově orientovaná literatura - sbližuje básníky s osudy dělníků (touha po harmonii a lidské družnosti) 
+- literární směr, který sdružil v prvních letech po válce u nás po sovětském vzdoru básníky socialistického myšlení 
+- zdůrazňovali, že poezie a **literatura má mít tendenci, jež by pomáhala proletářské třídě v boji za jejich sociální osvobození** 
+- levicově orientovaná literatura - sbližuje básníky s osudy dělníků
+	- **nenávist k válce a boj proti sociálnímu útlaku = AGITACE**
 - Společenská a zejména sociální situace v zemi k rychlému vystřízlivění, dostavila se ztráta iluzí a spisovatelé hledali nová východiska ze situace -> revoluce 
-- J. Wolker, S. K. Neumann, J. Hora, J. Hořejší, J. Seifert 
-- Publikují v časopise Neumanna - Červen, Kmen a Proletkult 
-- Novým ožitím proletářské poezie je ve 30. letech socialistický realismus 
-- Hlavní rysy proletářské literatury: 
-    - Pád nespravedlivého řádu 
-    - Literatura se podílí na proměně světa
-    - Umělec se zříká individuality 
-    - Optimismus 
+- J. **Wolker**, S. K. **Neumann**, J. **Hora**, J. **Hořejší**, J. **Seifert** 
+- publikují v časopise Neumanna - Červen, Kmen a **Proletkult** 
+- novým ožitím proletářské poezie je ve 30. letech **SOCIALISTICKÝ REALISMUS**
+- hlavní rysy proletářské literatury: 
+    - pád nespravedlivého řádu 
+    - literatura se podílí na proměně světa
+    - umělec se zříká individuality 
+    - optimismus 
 #### Jiří Wolker 
-- Básník, prozaik, dramatik, esejista, překladatel, literární teoretik 
-- Nejnadanější představitel proletářské poezie 
-- 1919 začal studovat právnickou fakultu 
-- 1921 vstoupil do KSČ 
-- 1921 - 2 člen brněnské Literární skupiny 
-- 1922 - 3 člen Devětsilu 
-- 1923 - diagnostikována tuberkulóza 
-- 1924 - umírá - napsal si epitaf 
-- Dílo: 
-    - Básně vychází v mnoha časopisech (Cesta, Kmen, Host, …) 
-    - Host do domu 
-        - Optimismus, láska k prostým věcem 
-        - Motivy přírody a domova 
-        - Básně: Pokora, Poštovní schránka, Věci 
-        - Nejznámější polytematická báseň sbírky - Svatý kopeček (pásmo)  
-    - Těžká hodina 
-        - Proletářská poezie 
-        - Témata: sociální realita, touha po nápravě světa 
-        - Jedinec podléhá nespravedlivému sociálnímu řádu 
-        - Básně: Balada o očích topičových, U rentgenu 
+- básník, prozaik, dramatik, esejista, překladatel, literární teoretik 
+- nejnadanější představitel proletářské poezie
+- dílo: 
+    - básně vychází v mnoha časopisech (Cesta, Kmen, Host, …) 
+    - **Host do domu** 
+        - optimismus, láska k prostým věcem 
+        - motivy přírody a domova 
+        - básně: Pokora, Poštovní schránka, Věci 
+        - nejznámější polytematická báseň sbírky - **Svatý kopeček** (pásmo)  
+    - **Těžká hodina** 
+        - proletářská poezie 
+        - témata: sociální realita, touha po nápravě světa 
+        - jedinec podléhá nespravedlivému sociálnímu řádu 
+        - básně: Balada o očích topičových, U rentgenu 
     - Proletářské umění 
-        - Teoretická stať 
-    - Pohádky
-        - Inspirace H. Ch. Andersenem a O. Wildem 
-        - Vychází se sociálních námětů 
-        - Hrdinové jsou obyčejní lidé 
-        - Pohádka "O milionáři, který ukradl slunce", "O kominíkovi"
+        - teoretická stať 
+    - pohádky
+        - inspirace H. Ch. Andersenem a O. Wildem 
+        - vychází se sociálních námětů 
+        - hrdinové jsou obyčejní lidé 
+        - pohádka "O milionáři, který ukradl slunce", "O kominíkovi"
 #### Stanislav Kostka Neumann
 ![[kostka.png]]
 - 1922 přestává vydávat časopis Červen a nahrazuje jej Proletkult
@@ -70,7 +57,73 @@
 	- **umění je zbraň dělnické třídy**
 - **Rudé zpěvy**
 	- **patetické básně**
-### Josef Hora
+
+> Soudružky,
+> zastavte proudy své výmluvnosti,
+> zadržte řinčivé výhružky!
+> Házíte hladovým ohlodané kosti,
+> a revoluce není řečnický výlet:
+> Učte se střílet!
+>
+> *Z básně Socialistickým ženám*
+#### Josef Hora
 ![[hora.png]]
-- **Pracující den**
+- dílo
+	- **Pracující den**
+		- 1. sbírka proletářské poezie
+		- báseň Dělnická madona
 - rolnická rodina
+#### Jaroslav Seifert
+- začíná psát pod vlivem proletářů, pak poetismus
+- téma **ohrožení národa**
+- dílo:
+	- **Město v slzách**
+#### Jindřich Hořejší
+#### Konstantim Biebl
+- spoluzakladatel pražské surrealistické skupiny
+> Neroste člověk utrpením. Ale tím, že proti němu bojuje.
+
+### Poetismus
+- založil **Teige** a **Nezval**
+- další: **Seifert, Biebl**
+- rysy:
+	- spontánnost fantazie, asociace ⇒ **hravost**
+	- hlavním účelem básně je býti básní
+	- rým
+	- záliba v pokroku, rychlosti a cestování
+	- lidová zábava, cirkus, kino, pouť, … ⇒ **radostná nálada**
+- **anticipace surrealismu**
+- mimo literaturu
+	- Voskovec, Werich
+	- Ježek
+	- Karel Tegie, Toyen
+#### Jaroslav Seifert
+- Na vlách TSF, …
+#### Konstantim Biebl
+- **obrazutvornost**
+- **cesty do exotiky**
+- spoluzakladatel pražské surrealistické skupiny
+- dílo:
+	- **S lodí, jež dováží čaj a kávu**
+
+> S lodí jež dováží čaj a kávu
+> pojedu na dalekou Jávu
+#### Vítezslav Nezval
+- dílo:
+	- Pantonima
+		- **Abeceda**
+			- fotografický doprovod
+	- **Edison**
+		- opěvuje vynálezce
+### Surrealismus
+- **pod vlivem zahraničí**
+- Biebl, Štýrský, Ježek, Toyen, Honzl
+#### Vítězslav Nezval
+- dílo:
+	- **Žena v množném čísle**
+	- taky ještě ve 30. a 40. letech:
+		- 52 hořkých balad věčného studenta Roberta Davida
+		- Moderní básnické směry
+		- Manon Lescaut
+
+> **Villonská balada** = francouzská balada = je lyrický básnický útvar, vznikl ve 13. století ze středověké francouzské písně, v 15. století formu proslavil F. Villon. Kompozice: první až třetí strofa obsahuje 7–12 veršů, čtvrtá strofa (= poslání) má obvykle poloviční počet veršů, tj. 4 – 6. Beze změny se opakuje refrén balady jako poslední verš každé strofy.

@@ -231,19 +231,19 @@
       "replaced": "alpha",
       "value": "α",
       "group": "Greek Letters",
-      "count": 8
+      "count": 9
     },
     "beta": {
       "replaced": "beta",
       "value": "β",
       "group": "Greek Letters",
-      "count": 2
+      "count": 4
     },
     "gamma": {
       "replaced": "gamma",
       "value": "γ",
       "group": "Greek Letters",
-      "count": 1
+      "count": 2
     },
     "epsilon": {
       "replaced": "epsilon",

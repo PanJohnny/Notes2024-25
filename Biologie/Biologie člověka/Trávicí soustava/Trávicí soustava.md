@@ -1,0 +1,68 @@
+- podílí se na přeměně látek v organismu
+	- trávením
+		- mechanickým a chemickým
+	- vstřebáváním
+		- převádí látky vzniklé trávením do vnitřního prostředí
+	- odstraňováním nestravítelných odpadních látek
+- stavba
+	- sliznice
+		- vystýlá trubici
+		- v některých částech obsahuje žlázové buňky
+	- podslizniční vazivo
+		- řídké
+		- připevňuje sliznice ke svalové vrstvě
+	- svalová vrstva
+		- převážné hladká svalovina
+		- pouze začátek (do $\frac{1}{3}$ jícnu) a spodek konečníku příčné pruhovaná
+		- peristaltickými pohyby posouvá potravu
+	- řídký vazivový obal
+		- zevní obal
+	- dutina ústní
+		- měkké dolní patro ze svaloviny 
+		- tvrdé horní patro - tvořena párem kostí 
+		- stěny tvořeny mimickými svaly 
+		    - kruhový sval ústní 
+		    - žvýkací sval 
+		    - sval smíchový 
+		    - stahovače a vytahovače ústních koutků
+	- mandle
+		- lymfoidní tkáň
+		- ochrana proti infekci
+	- slinné žlázy
+		- podjazykové
+		- příušní
+		- podčelistní
+	- jazyk
+		- k ústní dutině přichycen uzdičkou, kořen jazyka k jazylce
+		- funkce: 
+		    - mechanická
+			    - obrací a posouvá potravu + podíl na tvorbě řeči 
+		    - senzitivní
+				- receptory = chuťové pohárky - rozlišují sladkost, slanost, hořkost, kyselost a umami
+		- ![chuťový pohárek jazyku](https://latinsky.estranky.cz/img/mid/292/chutovy-poharek.jpg)
+	- zuby
+		- mechanické zpracování potravy
+		- zuby vklíněné v čelisti ⇒ chrup
+		- druhy chrupu:
+			- mléčný
+				- má 20 zubů, prořezává se od 6. měsíce života a výměna za trvalý končí okolo 15. roku života
+			- trvalý
+				- má 32 zubů
+		- typy:
+			- řezáky 8️⃣
+				- ukusují potravu
+			- špičáky 4️⃣
+				- zachycují a trhají potravu
+			- třenové 8️⃣
+				- rozmělňují potravu
+			- stoličky (12)
+				- rozměnlňují a žvýkají
+		- ![zub](https://upload.wikimedia.org/wikipedia/commons/1/11/Tooth_section_international.png)
+		- 1 - sklovina
+		- 2 - zubovina
+		- 3 - zubní dřeň
+		- 6 - čelist
+		- 7, 8 - cévy a nervy
+		- A - korunka
+		- cca 4 - krček
+		- B - kořen

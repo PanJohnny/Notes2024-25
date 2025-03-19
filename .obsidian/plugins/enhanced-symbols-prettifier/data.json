@@ -26,7 +26,7 @@
       "replaced": "=>",
       "value": "⇒",
       "group": "Arrows",
-      "count": 20
+      "count": 21
     },
     "=/=": {
       "replaced": "=/=",
@@ -76,7 +76,8 @@
     "(4)": {
       "replaced": "(4)",
       "value": "4️⃣",
-      "group": "Numbers"
+      "group": "Numbers",
+      "count": 1
     },
     "(5)": {
       "replaced": "(5)",
@@ -96,7 +97,8 @@
     "(8)": {
       "replaced": "(8)",
       "value": "8️⃣",
-      "group": "Numbers"
+      "group": "Numbers",
+      "count": 2
     },
     "(9)": {
       "replaced": "(9)",

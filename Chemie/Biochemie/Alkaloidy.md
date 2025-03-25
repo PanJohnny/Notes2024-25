@@ -31,3 +31,12 @@
 				- zhoršení chronických onemocnění
 				- urychlení civilizačních chorob
 				- opožděný vývoj dítěte
+			- abstinenční příznaky
+			- pokles schopnosti zvládat zátěžové situace bez nikotinu
+## Tropanový cyklus
+- altropin
+	- obsažen v lilkovitých rostlinách (rulík zlomocný, blín černý, durman)
+	- haliucinogenní účinky (zrakové i sluchové), projevy agrese
+	- využíván v očním lékařství - rozšiřuje zornice
+	- léčba bradykardie (snížená srdeční frekvence)
+	- protijed - nervové plyny

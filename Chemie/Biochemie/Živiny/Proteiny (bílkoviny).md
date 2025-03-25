@@ -1,0 +1,113 @@
+- základní stavební jednotka živé hmot
+- přítomné ve všech buňkách
+- přírodní makromolekuly (biopolymery)
+- tvořeny velkým množstvím zbytků aminokyselin vázaných peptidickou vazbou (100 a více)
+- rostliny jsou schopné je vytvořit z anorganických látek (dusičnanů)
+- živočichové je musí přijímat v potravě
+- biologické funkce
+	- stavební - skleroproteiny (keratin, kolagen)
+	- katalytická - enzymy
+	- transportní (hemoglobin, transferin)
+	- regulační - hormony
+	- obranná - protilátky
+- struktura
+	- primární struktura
+		- dána pořadím (sekvencí) vázaných aminokyselin
+		- podmiňuje biologickou fci a vlastnosti
+	- sekundární struktura
+		- geometrické uspořádání řetězce aminokyselin
+		- umožňuje jí možnost volné rotace kolem jednoduchých vazeb α-uhlíků a vznikem vodíkových můstků
+		- má dvě formy
+			- skládaný list
+			- α-helix - pravotočivá šroubovice
+	- terciální struktura
+		- uspořádání sekundární struktury v prostoru
+		- podílejí se na ní vodíkové vazby, iontové vazby, disulfidické můstky a van der Waalsovy síly
+		- dva typy
+			- fibrilární (vláknitý) tvar
+			- globulární (klubkovitý) tvar
+	- kvartérní struktura
+		- vzájemné prostorové uspořádání jednotlivých bílkovinných řetězců (podjednotek), které spolu nejsou spojeny kovalentními vazbami
+- vlastnosti
+	- dány především typem vázaných aminokyselina jejich strukturou
+	- tvoří koloidní roztoky
+	- pevné látky, biopolymery s $M_r > 10000$
+	- rozpustnost
+		- rozpustné ve vodě
+			- v krevní plazmě, ve vaječném bílku
+			- citlivé na fyzikální a chemické vlivy
+		- nerozpustné ve vodě
+			- v nehtech, v kůži, ve vlasech
+			- odolné vůči fyzikálním i chemickým vlivům
+	- kolagulace bílkovin
+		- vysolováním (zvyšováním koncentrace soli)
+		- bílkoviny se získávají z roztoků ve formě sraženiny
+		- typy
+			- reverzibilní (vratná)
+				- přidáním vody se sraženiny rozptýlí na původní roztok
+			- ireverzibilní (nevratná)
+				- sraženinu nelze rozpustit
+				- soli těžkých kovů
+	- denaturace bílkovin
+		- nevratné zničení terciální (někdy i sekundární) struktury
+		- faktory
+			- fyzikální (teplota, ozáření)
+			- chemické (účinky kyselin a zásad)
+		- význam
+			- negativní (ztráta biologické aktivity)
+			- pozitivní (ničení choroboplodných zárodků, tepelná úprava jídla (lepší stravitelnost))
+- dělení
+	- jednoduché
+		- neobsahují nebílkovinnou složku
+		- skleroproteiny (fibrilární proteiny)
+			- vláknitá struktura
+			- stavební funkce
+			- kolagen
+				- kosti, chrupavky, kůže šlachy
+				- tepelné zpracování (želatina)
+				- stárnutí (změna struktury kolagenu)
+			- keratin
+				- nehty, vlasy, peří, vlna, kopyta
+			- fibroin
+				- přírodní hedvábí
+		- sferoproteiny (globulární proteiny)
+			- kulovitý tvar
+			- vyskytují se všude
+			- mají různé funkce
+			- histony
+				- vázany na nukleové kyseliny. vbuněčných jádrech
+			- albuminy
+				- rozpustné ve vodě
+			- globuliny
+				- rozpustné ve zředěných roztocích solí, ale ne ve voně
+				- γ-globuliny v krevním séru
+				- fibrinogen
+					- krev a mícha
+					- srážení krve - přeměna na nerozpustný fibrin
+	- složené
+		- obsahují navázanou nebílkovinnou složku (prostetickou skupinu)
+		- lipoproteiny
+			- prostetickou skupinu tvoří lipidy
+			- stavba buněčných membrán
+			- transport lipidů v krvi
+		- glykoproteiny
+			- prostetickou skupinu tvoří (poly)sacharidy
+			- sliny, vylučovány žaludeční stěnou, vaznost sekretů sliznic
+			- součást buněčných stěn
+		- fosfoproteiny
+			- estericky vázaná kyselina fosforečná
+			- mléko a vyječný bílek
+			- zdroj fosforu pro syntézu nukleových kyselin
+			- kasein
+				- mléko
+				- zdroj vápníku
+		- hemoproteiny
+			- hem
+			- hemoglobin (transport kyslíku a oxidu uhličitého)
+			- myoglobin (zásoba kyslíku při intenzivní svalové práci)
+			- cytochromy (katalyzují oxidační procesy v buňkách)
+		- metaloproteiny
+			- kovy
+			- ferritin a transferin (přenos železa v organismu)
+		- nukleoproteiny
+			- v nukleových kyselinách

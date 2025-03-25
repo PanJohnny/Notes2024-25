@@ -1,0 +1,33 @@
+- velmi rozmanitá skupina přírodních látek
+- organické dusíkaté látky
+- zásaditý charakter
+	- výskyt pouze jako soli KK
+- téměř výhradně rostlinného původu
+- společný rys - obsahují heterocyklus
+- obvykle mají výrazné fyziologické účinky na organismy
+	- navození euforie, poruchy rovnováhy, anestetické účinky, agresivita, stimulace, útlum, toxicita
+- využití v lékařství
+- řada z nich zneužívána jako drogy → závislost - narkomanie
+# Dělení dle heterocyklu
+## Pyridinový cyklus
+- nikotin
+	- jeden z nejjedovatějších a nejznámějších alkaloidů
+	- obsažen v listech tabáku
+	- stimulující a uvolňující účinky
+	- nepřirozeně stimuluje srdeční činnost
+	- extrémně silná psychická a fyzická závislost
+	- smrtelná dávka = 60 mg
+	- nikotinismus
+		- závislost na nikotinu
+		- první psychická a po cca 2 letech i fyzická
+		- rizika kouření
+			- aktivní kouření
+				- rakovina (téměř všeho)
+				- alteroskleróza
+				- urychluje projevy stárnutí kůže
+				- negativní vliv na plod
+			- pasivní
+				- psychosomatické poruchy
+				- zhoršení chronických onemocnění
+				- urychlení civilizačních chorob
+				- opožděný vývoj dítěte

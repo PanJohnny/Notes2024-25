@@ -1,0 +1,103 @@
+- = látky nerozpustné ve vodě
+# Zmýdelnitelné (hydrolyzovatelné)
+- = estery vyšších mastných kyselin a alkoholů
+- rostlinného i živočišného původu
+- vyskytují se především v buněčných membránách a nervových zakončeních
+- hydrofobní
+- nerozpustné ve vodě
+- rozpustné v nepolárních organických rozpouštědlech
+- biologický význam
+	- stavební látka buněčných membrán
+	- zdroj energie
+	- ochrana orgánů
+	- tepelná izolace
+	- prostředí pro rozpouštěná biologicky významných nepolárních látek (hormony, vitamíny, barviva, léčiva)
+	- "abychom měli na čem smažit"
+- dělení podle složitosti
+	- jednoduché
+		- = pouze estery vyšších mastných kyselin a alkoholů bez dalších složek
+		- dělení podle alkoholové složky
+			- acylglyceroly (tuky a oleje)
+				- estery vyšších mastných kyselin s glycerolem
+				- glycerol (alkoholová složka)
+					- může být esterifikována 1, 2 nebo 3 hydroxylové skupiny (mono-, di-, triacylglycerol)
+				- karboxylové kyseliny
+					- obvykle jednosytné (monokarboxylové)
+					- mají sudý počet uhlíků
+						- nasysené - palmitová, stearová
+						- nenasycené - olejová, linolová, linolenová
+				- acyly mohou být
+					- stejné - jednoduché acylglyceroly
+					- různé - smíšené acylglyceroly (přírodní)
+				- vlastnosti
+					- v čistém stavu bezbarvé látky, bez chuti a zápachu
+					- snadno hydrolyzují
+						- kyselou hydrolýzou vzniká
+							- glycerol a původní kyselina (kyseliny)
+						- zásaditou hydrolýzou vzniká (zmýdelněním)
+							- glycerol a sůl vyšší mastné kyseliny
+				- mýdla
+					- = sodné a draselné soli kyselin palmitové a stearové
+					- amfifilní charakter
+						- = obsahují hydrofilní a hydrofobní část
+						- hydrofilní část
+							- polární
+								- karoboxylový anion spolu s kationtem kovu
+							- rozptýlení špíny do vodného prostředí
+						- hydrofobní
+							- nepolární
+								- uhlovodíkový řetězec
+							- narušuje strukturu mastnoty
+					- tvrdá voda → srážení mýdla (špatně pění, až vločkuje)
+				- dělení
+					- tuky
+						- obsahují pouze nebo převážně nasycené mastné kyseliny
+						- tuhé
+						- žluknutí
+							- způsobeno účinkem bakterií v teplém a vlhkém prostředí (oxidace probíhá hlavně na dvojných vazbách)
+							- vznikají nepříjemně zapáchající látky
+						- zástupci
+							- živočišné tuky
+								- tvoří podkožní tuk a obalují orgány
+								- máslo (mléčný tuk), sádlo (vepřový (či jiný) tuk), lůj (hovězí, skopový tuk), rybí tuk
+								- potravinářství, výroba léčiv a kosmetiky
+					- oleje
+						- obsahují pouze nebo převážně nenasycené mastné kyseliny
+						- tekuté
+						- žluknutí (viz tuky)
+						- ztužování
+							- katalytická hydrogenace olejů → margaríny
+							- dochází k adici vodíku na dvojné vazby nenasycených karboxylových kyselin
+							- ztužené tuky jsou stálejší proti žluknutí
+						- vysychání
+							- oleje obsahující karboxylové kyseliny s několika dvojnými vazbami na vzduchu mohou oxidovat a polymerovat → mění se v pevnou a pružnou látku
+							- výroba fermeží
+						- zástupci
+							- rostlinné oleje
+								- hlavně v semenech a plodech
+								- slunečnicový, lněný, řepkový, olivový
+								- potravinářství, výroba nátěrových hmot, léčiv a kosmetiky
+			- vosky
+				- estery vyšších mastných kyselin ($C_{16}-C_{36}$) a vyšších jednosytných alkoholů ($C_{16}$ cetylalkohol, $C_{26}$ cerylalkohol)
+				- rostlinný i žovočišný původ
+					- ochranná a stavenbí funkce
+					- vorvaňovina (orientace vorvaňů), lanolin (ovčí vlna), včelí vosk)
+				- využití
+					- zdravotnicztví, kosmetika (masti a krémy), výroba svíček
+	- složené
+		- kromě acylů karboxylových kyselin mají estericky vázanou i další složku
+		- v rostlinných i živočišných buňkách
+		- zástupci
+			- fosfolipidy
+				- mají estericky vázanou kyselinu trihydrogenfosforečnou
+				- amfifilní charakter
+					- hydrofobní část - postranní řetězec mastných kyselin
+					- hydrofilní - fosfátová složka
+				- tvoří hlavně membrány buněk, jsou v játrach, ledvinách, žloutku a sóje
+			- glykolipidy
+				- mají estericky vázané (obvykle) monosacharidy
+				- na povrchu všech eukaryotických buněk - receptory pro specifické chemikálie
+			- sfingolipidy
+				- mají estericky vázaný sfingosin
+				- tvoří strukturu nervové a mozkové tkáně
+				- ochrana povrchu buněk

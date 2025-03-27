@@ -39,4 +39,46 @@
 	- haliucinogenní účinky (zrakové i sluchové), projevy agrese
 	- využíván v očním lékařství - rozšiřuje zornice
 	- léčba bradykardie (snížená srdeční frekvence)
-	- protijed - nervové plyny
+	- protijed na nervové plyny
+	- smrtelná dávka = 100 mg
+- kokain
+	- pochází z jihoamerického keře koka pravá (rudodřev koka)
+	- šňupe se
+	- stimulant, lokální anestetikum (místně znecitlivuje tkáně) (méně nebezpečné deriváty)
+	- crack (směs s jedlou sodou/hydroxidem vápenatým)
+		- euforie, veselost, družnost, neklid, poruchy chování, ztráta zábran
+	- nadužívání
+		- poruchy srdeční činnosti a dýchání
+		- ochrnutí centra dýchání v mozku
+## Chinolový a isochinolový cyklus
+- opium
+	- zaschlá šťáva z nezralých makovic máku setého
+	- v podstatě směs alkaloidů - hlavně morfin a kodein
+	- sině narkotický účinek, tiší bolesti, euforie, celkový útlum organismu
+	- využíván farmaceutickým průmyslem k výrobě analgetik a antitusik (=potlačují kašlací reflex)
+	- výroba heroinu
+- heroin
+	- jedna z nejnebezpečnějších drog/alkaloidů
+	- surový - hnědá krystalická látka
+	- derivát morfinu
+	- syntetický opiát
+	- rozpustný v tucích
+		- proniká do mozku, kde se přeměňuje na morfin
+	- působí silnou euforii
+	- závislost vzniká už po první dávce
+	- po asi 6 hodinách silné abstinenční příznaky
+	- substituční léčba
+		- nahrazován podobnou, méně nebezpečnou látkou (metadon, diazepam)
+		- nejistá úspěšnost
+- morfin (=morfium)
+	- nejjedovatější z opiových alkaloidů
+	- smrtelná dávka = cca 100 mg
+	- narkotické účinky, tiší bolesti (podáván po operacích nebo v souvislosti s nádorovými onemocněními)
+	- silná návykovost (morfinismus)
+- kodein
+	- antitusikum, analgetikum
+	- opiový alkaloid
+	- zneužíván jako droga
+	- "Jo, vařim" -Olinka
+## Indolový cyklus
+- LSD (=diethylamid kyseliny lysergové)

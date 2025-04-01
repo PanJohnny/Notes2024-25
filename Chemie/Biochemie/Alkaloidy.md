@@ -80,5 +80,17 @@
 	- opiový alkaloid
 	- zneužíván jako droga
 	- "Jo, vařim" -Olinka
-## Indolový cyklus
+## Indolový cyklus (námelové alkaloidy)
 - LSD (=diethylamid kyseliny lysergové)
+	- pochází z alkaloidů paličkovice nachové
+	- halucinogen
+		- zrakové, sluchové i tělesné halucinace
+		- při vyšších dávkách dočasné odpoutání duše od těla
+	- může vyvolat dlouhotrvající psychické následky
+## Purinový cyklus
+- kofein
+	- výskyt v kávových bobech, listech čajovníka a kolových oříšcích (=sušené semeno koly zašpičatělé)
+	- stimulátor CNS, dočasně potlačuje únavu a probouzí bdělost
+	- nejrozšířenější legální stimulant na světě
+	- při nadužívání se stává drogou
+	- bílá krystalická látka, špatně rozpustná ve vodě

@@ -1,0 +1,40 @@
+- základní charakteristika
+	- biopolymery
+	- nejvýznamnější složky živých soustav
+	- uchovávají genetickou informaci buňky
+	- předloha pro syntézu bílkovin
+	- v buněčných jádrech, mitochondriích a v centriolách
+- struktura
+	- základní strukturu tvoří řetězec **polynukleotid** (vzniká spojením nukleotidů přes zbytky kyseliny trihydrogenfosforečné)
+	- nukleotid
+		- základní stavební jednotka
+		- purinová nebo pyrimidinová báze
+			- purinová - adenin, guanin
+			- pyrimidinová - cytosin, uracil, thymin
+		- fosfát
+			- zbytek kyseliny trihydrogenfosforečné
+		- sacharid
+			- D-ribosa neby 2-deoxy-D-ribosa
+	- odštěpením kyseliny z nukleotidy se tvoří nukleosid
+	- typy nukleotidů dle báze
+		- adeninové
+		- guaninové
+		- cytosinové
+		- uracilové
+		- thyminové
+- kyselina adenosintrifosforečná (ATP)
+	- primární zdroj energie v buňce
+	- zbytky kyseliny fosforečné vázány tzv. makroergickými vazbami (vysokoenergické vazby)
+		- hydrolytickým štěpením uvolňují velké množství energie
+- typy NK
+	- DNA
+		- nukleotidy A, G, C, T
+		- funkce - pořadí nukeotidů = genetická informace
+		- primární struktura - pořadí nukleotidů
+		- sekundární struktura - dvojitá pravotočivá šroubovice
+			- vlákna propojena vodíkovými můstky
+				- proti sobě se vždy párují stejné báze (=komplementarita)
+					- A-T
+					- C-G
+		- sacharid
+			- 2-deoxy-D-ribosa

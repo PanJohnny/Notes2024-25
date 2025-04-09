@@ -1,1 +1,36 @@
-- 
+- Severní Euroasie, Postsovětský prostor 
+- Země: Rusko, Ukrajina, Bělorusko, Gruzie, Arménie, Ázerbájdžán, Kazachstán, Uzbekistán, Turkmenistán, Kyrgyzstán, Tádžikistán 
+- Nejvyšší hora: Elbrus 5642 m. n. m. 
+- Historie: 
+    - Velká říjnová revoluce 
+    - Svaz sovětských socialistických republik SSSR 
+        - Společenství nezávislých republik SNS 
+
+## Rusko 
+- Poloha a rozloha
+    - Ostrovy Nová Země, Severní Země, Novosibiřské ostrovy 
+    - 17 075 200 km2 největším státem světa (12% světové souše)
+    - 144 179 453 obyvatel - 9. místo na Zemi 
+- Povrch 
+    - Pohoří Kavkaz - nejvyšší hora Elbrus 5642 m. n. m. 
+    - Horská pásma - Atlaj, Sajany či Bajkalské pohoří 
+    - Činné sopky - Klučevskaja na poloostrově Kamčatka 
+    - Sibiřské roviny s četnými bažinami
+- Podnebí 
+    - 4 podnebné pásy - arktický, subarktický, mírný, subtropický
+    - Nižší srážky 
+    - Nejchladnější extrémy na severovýchodní Sibiř 
+    - Nejvyšší roční teplotní amplitudy -68°C - +39°C 
+- Vodstvo 
+    - Břehy Ruské federace omývá 12 moří a 3 oceány 
+    - Většina ruských řek náleží k úmoří Severního ledového oceánu 
+    - Řeky: Severní Dvina, Něva, Oněga, Pečora, Lena 
+        - Nejdelší řeka Jenisej s Angarou a Selengou 
+        - Největší řekou náležící do úmoří Tichého oceánu je Amur 
+- Klima 
+    - 41 % lesy, 13 % pole a pastviny, 60 % permafrost 
+- Obyvatelstvo 
+    - Nejlidnatější stát Evropy 
+    - Hustota zalidnění - 9/obyvatel na km2 
+    - Nepříznivý demografický vývoj země 
+    - Průměrná délka života 70 let

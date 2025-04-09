@@ -1,0 +1,17 @@
+- protein, který katalyzuje biochemické reakce
+- funkce
+	- inciciuje
+	- urychluje
+	- zajišťuje stejný průběh
+- ovlivňuje
+	- metabolismy
+	- syntézu proteinů
+	- regeneraci
+	- růst buněk
+- faktory ovlivňující působení
+	- teplota
+	- pH
+	- tlak
+	- koncentrace
+- podstata působení
+	- 

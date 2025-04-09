@@ -1,0 +1,166 @@
+= souhrn všech procesů probíhajících v organismu s cílem získání a zpracování energie a stavebních látek 
+- přeměna látek v organismu do podoby, ze které tělo získá živiny 
+- ATP (adenosintrifosfát) - buněčná energie 
+- **anabolismus** - z jednodušších látek vznikají složitější (vstřebává se energie) 
+- **katabolismus** - ze složitějších látek vznikají jednodušší (energie se tvoří) 
+- **inzulín** - hormon ovlivňující štěpení cukru v organismu ve slinivce břišní 
+- **AMK** - aminokyseliny - tvoří proteiny 
+- živá buňka, kde neprobíhá metabolismus neexistuje 
+- v určitých případech **může být** metabolismus **dočasně pozastaven** (spory, semena rostlin, …)
+- přeměna potravy **v lidském těle**: 
+    - látky z potravy jsou **trávením rozkládány** na látky jednodušší (monosacharidy, aminokyseliny, mastné kyseliny, aj.) 
+        - ty slouží jako **stavební jednotky nových sloučenin nebo jsou dále odbourávány až na CO2, vodu a odpadní látky** 
+    - vše se děje za uvolnění nebo spotřeby energie 
+- **energetický metabolismus** 
+    - veškerou využitelnou energií získávají organismy z **chemických vazeb** v přijímané potravě 
+    - uvolněná energie se uloží do **ATP** (adenosintrifosfát) 
+    - **ATP** = univerzální **dárce** i **příjemce** **energie** vázané v chemické vazbě 
+        - obsahuje **makroergní vazbu** - při jejím štěpení se uvolní velké množství energie 
+            - **rozklad** ATP na ADP a P (fosfát) ---> uvolňuje se energie 
+            - **syntéza** ATP z ADP a P -> za spotřeby energie 
+    - **přebytečná energie** z látkového metabolismu naopak umožňuje **vznik ATP** 
+    - **energie** ATP je **využívána** na: 
+        - svalovou kontrakci 
+        - tvorbu proteinů a jiných látek 
+        - aktivní transport látek přes buněčnou membránu 
+        - respiraci 
+        - peristaltiku střev 
+        - teplo 
+- **látkový metabolismus se dělí na**: 
+    - **anabolické pochody** 
+        - z jednodušších látek se vytváří složitější 
+        - dominuje **spotřeba** energie 
+    - **katabolické pochody** 
+        - ze složitějších látek se vytváří jednoduší 
+        - dominuje **tvorba** energie 
+- **oba pochody jsou vzájemně propojeny** -> probíhají současně 
+    - **dětství** - převládají anabolické děje 
+    - **stáří** - převládají katabolické 
+- **rychlost metabolismu je ovlivněna**: 
+        - **enzymy** - **katalyzují** všechny metabolické reakce 
+        - **hormony** - **koordinují** funkce tkání a orgánů 
+- **hypothalamus** 
+    - **centrum řízení příjmu potravy v mezimozku** 
+    - cíl výživy: 
+        - růst a obnova tkání 
+        - poskytování energie 
+    - optimální výživa má obsahovat:
+        - **živiny** 
+            - **sacharidy** 
+                - hlavní zdroj rychle uvolnitelné energie 
+                - součást glykoproteinů a glykolipidů 
+                - součást základního řetězce nukleových kyselin (D-ribosa, D-deoxyribosa)
+                - 1 g cukru = 17 kJ 
+                - **štěpení polysacharidů na glukózu** 
+                - **vstřebávání** glukózy **v tenkém střevě** a její transport krví do tkání -> zdroj energie 
+                - **vrátnicovým oběhem do jater** -> z glukózy tvorba **glykogenu** nebo **tuku**
+                - dělení: 
+				    - monosacharidy a disacharidy 
+				        - glukóza - ovoce, hrozny 
+				            - nezbytná pro fungování lidského těla 
+				            - základní a nejrychlejší zdroj energie pro všechny tkáně 
+				            - jediný zdroj energie pro mozek nebo erytrocyty 
+					        - zdroje: 
+				                - zásobní látky - glykogen + tuky 
+				                - přeměna aminokyselin - při nedostatku jiných zdrojů 
+				        - fruktóza - med, zralé ovoce 
+				        - laktóza - mléčný cukr 
+				    - polysacharidy 
+				        - škrob - obiloviny, luštěniny 
+				        - celulóza - vláknina - podporuje pohyb střev (proti zácpě a nádorům, snižuje cholesterol) 
+				        - glykogen - maso, játra 
+				            - zásobní polysacharid 
+				            - složený z molekul glukózy 
+				            - játra - zásoby 
+				            - svaly - zdroj energie 
+			- v krvi udržována stálá hladina glukózy - řízeno hormonálně 
+			    - inzulin 
+			        - snižuje hladinu glukosy v krvi a současně stimuluje příliv glukosy do tkání a její využití 
+			    - glukagon 
+			        - působí opačně - zvyšuje hladinu glukózy v krvi rozkladem glykogenu 
+			    - adrenalin 
+			        - Působí v případě stresu - podílí se na vyplavení glukózy do krve pro rychlou akci
+            - **tuky**
+	            - zásobárna energie (zásobní lipidy)
+	            - sloučeniny vyšších mastných kyselin s glycerolem
+	            - základní stavební jednotka **buněčných membrán**
+	            - ochrana orgánů před mechanickým poškozením
+	            - 1g tuku = 38 kJ
+	            - některé mastné kyseliny jsou **esenciální**
+		            - tělo je neumí samo vytvořit
+		            - musí být z poztavy
+		            - např. kys. linolová
+		        - při vstřebávání přecházejí kapěnky do **lymfatických kapilár**
+			        - na cévy moc velké
+			        - lymfou pak do krve
+			- **bílkoviny**
+				- nezbytné pro tvorbu a obnovu tkání
+				- syntéza těla vlastních bílkovin a bílkovin krve
+				- syntéza bílkovinných enzymů a hormonů
+				- k přestavbě na sacharidy a tuky
+				- jako zdroj energie vyjímečně
+				- 17kJ
+				- **dělení:**
+					- živočišné
+						- maso, mléko, vejce
+					- rostlinné
+						- obiloviny, luštěniny
+				- během trávení štěpeny na **aminokyseliny**
+				- některé aminokyseliny jsou **esenciální** (lysin, leucin, arginin, ...)
+				- potravou přijímané se neukládají do zásoby → papej pravidelně
+				- k odbourávání dochází v játrech
+					- **deaminace** odstranění $NH_2$ skupiny
+						- vzniklé organické kyseliny se zapojují do energetického metabolismu
+					- přeměna amoniaku (jed) na **močovinu** → vyloučení ledvinami
+					- **odbourávání** uhlíkového skeletu AMK v citrátovém cyklu
+        - vitamíny
+	        - **látky nezbytné pro život**
+	        - **kofaktory enzymů**
+	        - **ze stravy**
+	        - nedostatek → poruchy funkcí organismu
+	        - rozlišujeme:
+		        - vitamíny ve vodě C, vytamíny skupiny B
+		        - rozpustné v tucích A, D, E, K
+        - minerální látky 
+	        - důležitá složka lidské výživy
+	        - **podle množství potřebného dělime na:**
+		        - **makroelementy** - Ca, P, Mg, K, Na, ...
+		        - **mikroelementy** - Fe, I, Zn, Cu, Se, …
+		        - **stopové prvky** - Si, V, Ni, B
+		    - **zdroje:**
+			    - libové maso
+			    - celozrnné výrobky
+			    - ovoce
+			    - zelenina
+			    - oříšky
+			    - mléčné výrobky
+			    - ryby
+        - voda
+	        - **tělo je tvořeno z velké části vodou** (50-60 % hmotnosti)
+	        - kolem 60 % tělesné vody v buňkách
+	        - zbylých 40% vyplňuje mezibuněčný prostor
+	        - **voda** přijatá v podobě potravy a nápojů se částečně vstřebává již v žaludku
+		        - **nejvíce ale ve střevech**
+		    - **funkce:**
+			    - prostředí pro chemické reakce
+			    - **přívod živin a odvod škodlivých látek**
+			    - **regulace teploty a tlaku**
+			    - **součástí sliznic** - "stavební látka"
+			    - správná funkce tkání
+			    - **rozpouštědlo některých minerálů**
+				    - např. **K, Na a Cl** řídí
+					    - celkový vodní metabolismus
+					    - udržování acidobazické rovnováhy v tělních tekutinách
+					    - osmotický tlak
+					    - vnikání živin do buněk
+
+## Poruchy metabolismu
+- diabetes (cukrovka)
+	- 1. typu
+		- propuká nejčastěji v dětství či mládí
+		- způsoben narušením tvorby inzulinu ve slinivce
+		- tento typ je závislý na podávání inzulinu
+	- 2. typu
+		- propuká v pozdějším věku a při obezitě
+		- inzulin je ze slinivky uvolňován, ale tělo na něj více či méně nereaguje
+		- mnohem častější

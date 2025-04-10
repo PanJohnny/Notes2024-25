@@ -5,19 +5,19 @@
 		- převádí látky vzniklé trávením do vnitřního prostředí
 	- odstraňováním nestravítelných odpadních látek
 - stavba
-	- sliznice
+	- **sliznice**
 		- vystýlá trubici
 		- v některých částech obsahuje žlázové buňky
-	- podslizniční vazivo
+	- **podslizniční vazivo**
 		- řídké
 		- připevňuje sliznice ke svalové vrstvě
-	- svalová vrstva
+	- **svalová vrstva**
 		- převážné hladká svalovina
 		- pouze začátek (do $\frac{1}{3}$ jícnu) a spodek konečníku příčné pruhovaná
 		- peristaltickými pohyby posouvá potravu
-	- řídký vazivový obal
+	- **řídký vazivový obal**
 		- zevní obal
-	- dutina ústní
+	- **dutina ústní**
 		- měkké dolní patro ze svaloviny 
 		- tvrdé horní patro - tvořena párem kostí 
 		- stěny tvořeny mimickými svaly 
@@ -25,14 +25,14 @@
 		    - žvýkací sval 
 		    - sval smíchový 
 		    - stahovače a vytahovače ústních koutků
-	- mandle
+	- **mandle**
 		- lymfoidní tkáň
 		- ochrana proti infekci
-	- slinné žlázy
+	- **slinné žlázy**
 		- podjazykové
 		- příušní
 		- podčelistní
-	- jazyk
+	- **jazyk**
 		- k ústní dutině přichycen uzdičkou, kořen jazyka k jazylce
 		- funkce: 
 		    - mechanická
@@ -40,7 +40,7 @@
 		    - senzitivní
 				- receptory = chuťové pohárky - rozlišují sladkost, slanost, hořkost, kyselost a umami
 		- ![chuťový pohárek jazyku](https://latinsky.estranky.cz/img/mid/292/chutovy-poharek.jpg)
-	- zuby
+	- **zuby**
 		- mechanické zpracování potravy
 		- zuby vklíněné v čelisti ⇒ chrup
 		- druhy chrupu:
@@ -66,3 +66,184 @@
 		- A - korunka
 		- cca 4 - krček
 		- B - kořen
+	- **hltan**
+		- společný oddíl trávicí a dýchací soustavy
+	- **jícen**
+		- trubice dlouhá asi **32 cm**
+		- **ústí do žaludku**
+		- horní třetina - **příčněpruhovaná svalovina**
+			- **polykání**
+		- zbytek - **hladká svalovina**
+			- **posouvá potravu peristaltickými pohyby**
+	- **žaludek**
+		- mechanická a chemická funkce
+		- napojen **česlem na jícen**
+		- **objem cca 1,5 l**
+		- sliznice je kryta **válcovým epitelem**
+			- tvoří **trubicovité žlázky**
+				- produkují **žaludeční šťávu**
+		- **vylučování šťáv řízeno nervově a chemicky**
+			- sousta podráždí sliznici → vytvoří se hormon **gastrin**
+				- vyvolá to sekreci žláz
+		- složení **žaludeční šťávy**
+			- $HCl$
+				- **niží choroboplodné zárodky**
+				- mění **nerozpustné minerály na rozpustné**
+				- **mění** neaktivní enzim **pepsinogen** na **pepsin**
+					- zahajuje štěpení proteinů
+			- **mucin**
+				- hlen potahující vnitřek žaludku
+				- chrání žaludek před $HCl$
+	- **dvanáctník**
+		- **začátek tenkého střeva**
+		- ústí sem
+			- **šťávy ze slinivky břišní**
+			- **žlučovod** vedoucí žluč **z jater**
+	- **tenké střevo**
+		- dlouhé **3-5** metrů
+		- průměr **3 cm**
+		- sliznice
+			- tvoří výběžky = **klky**
+				- zvětšují plochu pro přenos
+			- je bohatě zřasena pod epitelem
+				- **shluky lymfoidní tkáně**
+		- skládá se z
+			- **dvanáctníku** - tvar U
+			- **láčník** a **kyčelník**
+				- tvoří četné kličky
+					- zavěseny blánou na břišní stěně
+		- funkce
+			- **chemická**
+				- **štěpení živin** pomocí **střevní žlázy**
+					- tvořena trubicovitými žlázkami mez i klky
+				- **složení střevní žlázy**
+					- $H_2O$
+					- **amylázy**
+						- doštěpí **disacharidy na monosacharidy**
+					- **lipázy**
+						- doštěpí **tuka na glycerol a mastné kyseliny**
+					- **peptidázy**
+						- doštěpí **proteiny na aminokyseliny**
+			- **vstřebávací**
+				- roštěpené živiny -> krev
+					- **vedeny vrátnicovou žilou do jater**
+				- odpadní látky → tlustné střevo
+				- **způsoby vstřebání:**
+					- **difúze**
+						- přenos ve směru koncentračního spádu
+						- bez spotřeby energie
+						- prostoupí pouze $H_2O$, vitamíny a dýchací plyny
+					- **aktivní transport**
+						- nejčastěji přenos přes bílkovinný přenašeč
+							- otáčením či deformací
+						- spotřebovává hodně energie
+					- **pinocytóza**
+						- tvoření měchýřků v cytoplazmatické membráně
+					- **fagocytóza**
+						- leukocyty
+	- **tlusté střevo**
+		- dlouhé 1,5 metrů
+		- průměr 5-7 cm
+		- **začíná slepým střevem**
+			- na spodu visí **červovitý přívěšek**
+				- rudiment po našich předcích (papali kytičky)
+		- pokračuje **tračníkem vzestupným, příčným a sestupným s esovitou kličkou**
+		- funkce:
+			- **hromadění nestravitelných zbytků**
+			- vstřebávání $H_2O$, vitamínů a solí
+			- tvorba vitamínů $K$ a $B_{12}$ (bakterie Coli)
+			- vlivem hnilobných a kvasných bakterií vzniká stolice
+			- pro správnou funkci střev důležitá vláknina
+				- podporuje činnost kvasných bakterií
+	- **konečník**
+		- odvádí stolici nahromaděnou v esovité kličce
+		- jsou zde 2 svěrače z příčně pruhovaného svalstva
+	- **trávicí žlázy**
+		- žláza s vnitřní a vnější sekrecí
+		- **vnitřní**
+			- **Langerhansovy ostrůvky**
+				- produkují **inzulín**
+					- umožňuje vstřebávat cukr do buněk
+		- **vnější**
+			- produkuje **pankreatickou šťávu a enzymy do dvanáctníku**
+				- **amyláza**
+					- štěpí **polysacharidy ma disacharidy**
+				- **lipáza**
+					- štěpí **tuky**
+				- **trypsinogen**
+					- neaktivní forma
+						- **vlivem** enzymu **enterokinázy** **se mění ve střevě na aktivní trypsin**
+							- štěpí **proteiny**
+		- **játra**
+			- **největší** žláza v těle - 1,5 kg
+			- na pravé straně pod bránicí
+			- mají dobrou regenerační schopnost
+			- bohatě prokrvená
+				- krev přiváděna přes **jaterní branku**
+				- **vrátnicovou žilou** vede krev se živinami z trávicí soustavy
+				- **jaterní tepnou** přivádí dýchací plyny, vyživují játra
+			- na výstupu
+				- **jaterní žíla** vedoucí krev do dolní duté žíly
+			- stavba:
+				- **2 laloky** - **pravý větší**
+					- skládají se z **podlouhlých šestibokých lalůčků**
+						- tvořeny z **trámečků složených z jaterních buněk**
+							- 2 řady, radiálně uspořádané
+			- funkce:
+				- tvorba **žluči**
+					- tvoří ji **jaterní buňky**
+					- **denně až 1 l**
+					- složení
+						- $H_2O$
+						- žlučová barviva
+							- **bilirubin**
+								- vzniká rozkladem krevního barviva
+								- žlutohnědá barva
+						- **soli žlučových kyselin**
+					- funkce:
+						- **emulgace tuků a jejich vstřebávání**
+						- **aktivuje pankreatickou lipázu**
+						- napomáhá **vstřebávání vitamínů rozpustných v tucích**
+- **onemocnění**
+	- **hepatitida** (žloutenka)
+		- virový původ
+		- typ **A**
+			- špatná **hygiena** (fekaorální cesty)
+		- typ **B** a **C**
+			- přenos krví
+				- infikované **jehly**
+				- pohlavní **styk**
+			- chronický
+				- vede k **cirhóze** nebo **rakovině**
+	- **cirhóza jater**
+		- **zánět** jaterních **buněk**
+			- **zánik** a **změna** na **nefunkční vazivovou tkáň**
+		- **nadměrná konzumace alkoholu**
+		- **hepatitida** B a C
+	- **mononukleóza**
+		- virový původ
+	- **žlučové kameny**
+		- **vysrážení** **solí** žlučových **kyselin**
+	- **paradentóza**
+		- **zánět dásní**
+		- krvácení
+		- vypadávání zubů
+	- **kazivost zubů**
+		- špatná hygiena
+	- **angína**
+		- bakteriální zánět mandlí
+	- **vředy** (žaludek, dvanáctník)
+		- civilizační choroba
+		- stres, léky, kouření
+	- **nádory**
+		- kouření
+		- škodliviny v potravě
+	- **zácpa**
+		- nedostatek pohybu, tekutin a vlákniny
+	- **průjmy**
+		- vázne vstřebávání vody
+		- stres
+		- špatné jídlo
+		- infekce
+	- **vnitřní a vnější hemeroidy**
+		- zduření a rozšíření cév v oblasti konečníku

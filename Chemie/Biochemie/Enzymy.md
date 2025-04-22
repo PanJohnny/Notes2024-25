@@ -67,4 +67,9 @@
 			- biotin
 	- hydrolázy
 		- katalyzují hydrolytické štěpení substrátu (=štěpení za přítonosti vody)
-		- 
+		- lipázy, peptidázy, proteázy, glukosidázy
+		- kofaktorem často ionty kovů
+	- lyázy
+		- katalyzují nehydrolytické štěpeni
+		- dekarboxylázy
+		- kofaktory jako u hydroláz

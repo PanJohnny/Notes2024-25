@@ -1,17 +1,70 @@
-- protein, který katalyzuje biochemické reakce
-- funkce
-	- inciciuje
-	- urychluje
-	- zajišťuje stejný průběh
-- ovlivňuje
-	- metabolismy
-	- syntézu proteinů
-	- regeneraci
-	- růst buněk
-- faktory ovlivňující působení
-	- teplota
-	- pH
-	- tlak
-	- koncentrace
-- podstata působení
-	- 
+- Protein, které katalyzuje chemické reakce 
+- Funkce enzymu - iniciuje, urychluje biochemické reakce, zajišťuje stále stejný průběh 
+- Pochody, které ovlivňuje - metabolismy, syntéza proteinů, regenerace a růst buněk 
+- Faktory ovlivňující působení - teplota, pH, tlak, koncentrace 
+- Podstat působení - snižují hodnotu aktivační energie 
+- Struktura
+    - Jednosložkové - tvořeny pouze proteinem 
+    - Dvousložkové 
+        - Tvořeny tzv. holoenzymem - dvě části: 
+            - Apoenzym (proteinová část) - určuje substrátovou specifitu 
+            - Kofaktor (neproteinová část) - určuje specifitu účinku (jaké produkty budou vznikat) 
+                - Prostetická skupina - s apoenzymem spojeny kovalentní vazbou 
+                - Koenzym 
+                    - S apoenzymem poután slaběji, může od-disociovat 
+                    - Často derivát vitamínů 
+                    - Může být shodný pro několik enzymů 
+- Mechanismus působení
+    - Vlastní chemická reakce probíhá na povrchu enzymu 
+    - Substrát (výchozí látka) se naváže na tzv. aktivní místo (centrum) enzymu 
+    - Vznikne enzym-substrátový komplex při výrazně nižší aktivační energii AE 
+    - Po proběhnutí reakce se komplex rozpadne a z aktivního centra se uvolní produkt reakce
+- rychlost enzymových reakcí
+	- závislá na podmínkách průběhu
+	- faktory, které ji mohou ovlivnit
+		- množství substrátu
+			- vzrůstá s koncentrací substrátu, dokud se neobsadí všechna aktivní centra
+		- množství enzymu
+			- vzruůstá s mnoužstvím enzymu
+		- prostředí
+			- pH
+				- optimální oblast pH je charakteristická pro každý enzym
+			- teplota
+				- rychlost narůstá pouze do teploty cca $40-50^{o}C$
+				- při teplotách tuhnutí hody je aktivita velmi nízká a při nižších se úplně zastavuje
+			- tlak
+- aktivace a inhibice enzymů
+	- aktivace = zvýšení katalytického účinku
+		- způsobenio tzv. aktivátory (př. ionty kovů)
+		- může k ní dojít tak, že účinkem aktivátoru se přemění neúčinná forma enzymu (proenzym) na účinnou formu
+	- inhibice = snižování katalytického účinku
+		- zpúsobeno tzv. inhibitory
+		- typy inhibice
+			- kompetitivní
+				- inhibitor soutěží se substrátem o aktivní centrum enzymu
+				- vratný typ inhibice, lze potlačit zvýšením koncentrace substrátu
+			- nekompetitivní
+				- inhibitor pevně blokuje skupiny aktivního centra (-SH, -OH skupiny)
+				- enzymové (katalytické) jedy
+					- například ionty těžkých kovů
+				- nevratná inhibice
+			- alosterická
+				- inhibitor se naváže mimo aktivní centrum, čímž změní strukturu (terciální nebo kvartérní) a znemožní tak navázání substrátu
+- klasifikace enzymů
+	- oxidoreduktázy
+		- katalyzují oxidačněredukční procesy
+		- oxidázy, peroxidázy, dehydrogenázy, katalázy
+		- možná kofaktory
+			- $NAD^+$
+			- $NADP^+$
+			- FMN, FAD, hemoglovin, glutathion
+	- trasferázy
+		- katalyzují přenos charakteristické skupiny atomů z jedné sloučeniny na druhou
+		- methyltrasnferázy, aminotransferázy, karboxyltransferázy
+		- možné kofaktory
+			- ATP
+			- koenzym A
+			- biotin
+	- hydrolázy
+		- katalyzují hydrolytické štěpení substrátu (=štěpení za přítonosti vody)
+		- 

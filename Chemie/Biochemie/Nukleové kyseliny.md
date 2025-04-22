@@ -38,3 +38,20 @@
 					- C-G
 		- sacharid
 			- 2-deoxy-D-ribosa
+		- struktura
+			- mezi fosfátovou skupinou na 5. uhlíku a -OH skupinou na 3. uhlíku na pentose vzniká tzv. fosfodiesterová vazba
+	- RNA
+		- nukleotidy A, G, C, U
+		- sacharid
+			- D-ribosa
+		- několik typů
+			- mRNA (mediátorová)
+				- nese přepsanou informaci o primární struktuře DNA
+			- tRNA (transferová)
+				- přenáší aminokyseliny na místa syntézy bílkovin
+			- rRNA (ribozomová)
+				- tvoří součást ribozómů
+				- primární struktura je dána pořadím nukleotidů
+		- sekundární struktura
+			- jednovláknová
+			- na některých místech může docházet ke zdvojení

@@ -73,3 +73,11 @@
 		- katalyzují nehydrolytické štěpeni
 		- dekarboxylázy
 		- kofaktory jako u hydroláz
+	- izomerázy
+		- katalyzují vnitromolekulární přeměny molekul jednoho substrátu
+		- cis-trans-izomerázy
+		- kofaktory obvykle neobsahují
+	- ligázy
+		- katalyzují slučování dvou molekul substrátu za současné spotřeba ATP
+		- acetyl-CoA-syntetázy, DNA-ligázy
+		- kofaktory jako transferázy

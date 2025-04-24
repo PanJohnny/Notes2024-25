@@ -1,0 +1,39 @@
+## Josef Čapek
+- ilustrátor, výtvarník, novinář, scénograf, dramaturg, …
+- zakladatel skupiny Tvrdošíjní (Zdrzavý, Špála, Kremlička, ...)
+- syn Antonína Čapka a jeho manželky Boženy
+- prostřední ze 3 dětí
+- na frontu nepovolán pro postižení
+	- oční vada
+- 1925 se přestěhoval do dvojdomku na Vinohradech
+- 1939 zatčen kestapem za protinacistické smýšlení ⇒ koncentrační tábory
+- 1945 smrt na tyfus v téboře Bergen-Belsen
+- **výtvarná tvorba**
+	- zakladatel moderního českého výtvarného umění, ovlivnil kubismus
+	- kreslil do novin, podílel se na scénických výpravách, nabrhoval knižní obálky
+- **literární tvorba**
+	- Krakonošova zahrada
+		- próza o společném dětství
+	- **Ze života hmyzu**
+		- divadelní hra
+- **literární tvorba samostatná**
+	- Lelio
+	- **Povídání o pejskovi a kočičce**
+	- Stín kapradiny
+	- Kulhavý poutník
+	- Básně z koncentračního tábora
+	- Psáno do mraků
+
+## Karel Čapek
+- **ovlivnil vývoj české i světové sci-fi literatura**
+- prozaik, dramatik, **novinář**, překladatel, …
+- navržen na Nobelovu cenu
+- 1925 zakládá český PEN klub
+- tvorba
+	- **Povídky z jedné kapsy**
+	- **Italské listy**
+	- **Hovory s TGM**
+	- **Krakatit**
+	- **Hordubal**
+	- **RUR**
+	- **Bílá nemoc**

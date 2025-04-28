@@ -109,3 +109,80 @@ CC1CCC(C(C1)O)C(C)C
 - gutaperča
 	- trans-1,4-polyisopren
 	- získává se z tropických stromů (gumojilm, perčovník)
+
+# Steroidy
+- přírodní látky obvykle značně fyziologicky účinné
+- bezbarvé krystalické látky; rozpustné v organických rozpouštědlech
+- původ rostlinný i živočišný
+- vitamíny, hormony, alkaloidy, žlučové kyseliny
+- chemicky hlavně uhlovodíky, alkoholy, karbonylové sloučeniny, karboxylové kyseliny
+- strukturní základ **steran** (=cyklopentanoperhydrofenantren)
+- dělení dle výskytu a fyziologického účinku:
+	- **steroly** = **steroidní alkoholy**
+	- **žlučové kyseliny**
+	- **steroidní hormony**
+	- **steroidní glykosidy**
+## Steroly
+- obsahují navázanou hydroxilovou skupinu
+- rostlinný původ
+	- **fytosteroly**
+		- **ergosterol**
+			- v kvasnicích
+			- **provitamin** $D_2$
+				- + slunce ⇒ vit. $D_2$ (**kalciferol**)
+				- léčba křivice (málo Ca)
+- živošný původ
+	- **zoosteroly**
+		- **cholesterol**
+			- volný – stavba buněčných membrán
+			- estericky vázaný s vyšší karboxylovou kyselinou
+				- v živočišných tucích
+			- derivát 7-dehydrocholesterol = **provitamin** $D_3$
+				- slunečním zářením vzniká vit. $D_3$ (**cholekalciferol**)
+			- výchozí látka pro syntézu dalších skupin steroidů
+			- LDL
+				- považován za **škodlivý**
+				- zvyšuje riziko aterosklerózy
+					- (kornatění tepen = ztrácí pružnost a propustnost)
+			- HDL
+				- příznivý vliv na organismus
+				- vyrovnává škodlivý efekt ostatních tuků
+
+## Žlučové kyseliny
+- obsahují karboxylovou skupinu -> mají polání a nepolární část
+- podílejí se na trávení a vstřebávání tuků
+- ve formě solí ve žlučníku
+- **kyselina cholová**
+	- protizánětlivá
+
+## Steroidní hormony
+- **pohlavní hormony**
+	- pohlavní žlázy
+	- řídí pohlavní cykly a vznik sekundárních pohlavních znaků
+	- **estrogeny**
+		- **ženské** pohlavní hormony
+		- vaječníky
+		- menstruační cyklus + sekundární pohlavní znaky (estradiol)
+	- **gestageny**
+		- **ženské** pohlavní hormony
+		- žluté tělísko
+		- příprava děložní sliznice, průběh těhotenství (progesteron)
+	- **androgeny**
+		- **mužské** pohlavní hormony (testosteron)
+		- zneužívány pro syntézu anabolických steroidů
+- **kortikoidní hormony** = **kortikosteroidy**
+	- hormony kůry nadledvin
+	- glukokortikoidy
+		- řízení metablismu sacharidů a bílkovin
+		- **kortizol**
+			- řídí metabolismus sacharidů
+		- kortikosteron
+			- hlavní glukokortikoid u ptáků
+	- mineralokortikoidy
+		- vliv na metabolismu sodíku (aldosteron)
+
+## Steroidní glykosidy
+- obsahují glykosidicky vázaný sacharidový zbytek
+- **srdeční glykosidy**
+	- v semenech a listech náprstníků (rod Digitalis - digitoxin)
+	- posilují srdeční činnost – léčba srdečního selhání nebo srdeční arytmie

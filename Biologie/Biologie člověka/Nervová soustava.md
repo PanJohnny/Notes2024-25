@@ -22,48 +22,54 @@
 - **dokáží se dělit** -> vyplňují poškozená místa
 
 ## Šíření nervového vzruchu 
-- základem je přenos iontů K+ a Na+ přes biomembránu neuronu 
-- biomembrána je semipermeabilní -> nitrobuněčné K+ propouští ven, mimobuněčné Na+ dovnitř nepropouští - tím vzniká uvnitř neuronu náboj záporný a vně kladný 
-- membrána je tak polarizovaná -> mezi povrchem a vnitřkem vzniká napětí = tzv. klidový potenciál 
-- při podráždění se krátkodobě otevřou iontové kanály pro Na+ -> depolarizace membrány -> vznik akčního potenciálu 
-- akční potenciál se šíří neuronem jako vlna elektrické negativity = vzruch 
-- po proběhnutí vzruchu dochází k obnově klidového potenciálu = repolarozace 
-- návrat K+ a Na+ pomocí sodíkodraslíkové pumpy -> obnovení původní koncentrace iontů na obou stanách 
-- jedná se o aktivní transport -> velká spotřeba ATP 
-- aby vznikl vzruch musí mít určitou intenzitu 
-	- podprahový podnět -> vzruch se nevytvoří 
-	- prahový podnět -> vznik akčního potenciálu 
- - po axonu s pochvami se vzruch šíří skokově -> energeticky výhodnější a rychlejší než po holém axonu 
+- základem je **přenos iontů $K^+$ a $Na^+$ přes biomembránu neuronu** 
+- biomembrána je **semipermeabilní** -> **nitrobuněčné $K^+$ propouští ven**, **mimobuněčné $Na^+$ dovnitř nepropouští**
+	- tím vzniká **uvnitř** neuronu **náboj** **záporný** a **vně kladný** 
+- membrána je tak **polarizovaná** -> mezi povrchem a vnitřkem vzniká **napětí** = tzv. **klidový potenciál** 
+- při **podráždění** se krátkodobě **otevřou iontové kanály** pro $Na^+$ -> **depolarizace** membrány -> vznik **akčního potenciálu** 
+- **akční potenciál** se šíří neuronem jako **vlna elektrické negativity** = **vzruch** 
+- **po proběhnutí** vzruchu dochází k **obnově klidového potenciálu** = **repolarozace** 
+- **návrat** $K^+$ a $Na^+$ **pomocí sodíkodraslíkové pumpy** -> **obnovení** původní **koncentrace** iontů na obou stanách 
+- jedná se o **aktivní transport** -> **velká spotřeba ATP** 
+- aby vznikl vzruch musí mít **určitou intenzitu** 
+	- **podprahový** podnět -> vzruch se **nevytvoří** 
+	- **prahový** podnět -> **vznik** akčního potenciálu 
+ - **po axonu s pochvami** se vzruch šíří **skokově** -> **energeticky výhodnější a rychlejší než po holém axonu** 
 
 ## Synapse
-- přenos mezi dvěma neurony je uskutečněn přes synapsi (zápoj) - na 1 neuron se může napojovat několik tisíc dalších neuronů 
-- signály (vzruchy) jsou přenášeny chemickými látkami = mediátory, které se nachází ve váčcích na zakončení axonů 
-- nejčastější mediátory - acetylcholin, adrenalin, noradrenalin, dopamin 
+- **přenos** **mezi** **dvěma neurony** je **uskutečněn přes synapsi** (zápoj)
+	- **na 1** neuron **se může napojovat několik tisíc** dalších neuronů 
+- **signály** (vzruchy) jsou **přenášeny chemickými látkami** = **mediátory**, které se **nachází** ve **váčcích na zakončení axonů** 
+- **nejčastější mediátory**
+	- acetylcholin
+	- adrenalin
+	- noradrenalin
+	- dopamin 
 - příchod signálu do synapse způsobení smrštění vláken okolo váčků, jejich přisunutí ke kraji a vylití mediátorů do synaptické štěrbiny 
-- mediátor podráždí membránu sousedního neuronu - stále se propustnou pro Na+ 
-- po ukončení podráždění je přebytečný mediátor rozložen enzymy nebo vstřebán zpět
-- stavba synapse umožňuje pohyb vzruchu pouze jedním směrem
-
+- **mediátor podráždí membránu sousedního neuronu**
+	- stane se propustnou pro $Na^+$
+- **po ukončení podráždění je přebytečný mediátor rozložen enzymy nebo vstřebán zpět**
+- stavba synapse umožňuje **pohyb vzruchu pouze jedním směrem**
 
 ## Reflex
-- automatická reakce organismus na podněty 
-- dráhy vedoucí od vytvoření signálu až po reakci se nazývá reflexní oblouk 
-    - Jde o nejjednodušší nervový obvod - skládá se: 
-        - Receptor - vytvoří vzruch 
-        - Dostředivá dráha - vede podráždění od centra 
-        - Ústředí - CNS (většinou mícha) - zpracuje vzruch a vznikne odpověď 
-        - Odstředivá dráha - vede vzruch z centra k výkonu orgánu 
-        - Výkonný orgán (např. sval) - uskuteční reakci organismu 
-- Dělení reflexů: 
-	- Nepodmíněné: 
-	    - Vrozené - jsou stálé a neměnné (např.: sací, dýchací, kašlací atd.) 
-	- Podmíněné: 
-        - Vytvářené v průběhu života učením 
-        - Jde o dočasná spojení -> podmínky, při kterých se vytvořily, se musí opakovat, jinak vymizí
-- Reflexy vznikají na určitý podnět - signál 
-- Souhrn signálů určitého druhu = signální soustava 
-- Všechny nepodmíněné reflexy + podmíněné reflexy vyvolané fyzikálními, chemickými a biochemickými jevy tvoří tzv. první signální soustavu 
-- U člověka se na základě řeči a abstraktního myšlení vyvinula ještě druhá signální soustava založena na podmíněných reflexech - např.: rozlišení tónu a významu slova
+- **automatická reakce** organismus na podněty 
+- **dráhy vedoucí od vytvoření signálu až po reakci se nazývá reflexní oblouk** 
+    - jde o **nejjednodušší nervový obvod** - skládá se: 
+        - **receptor** - vytvoří vzruch 
+        - **dostředivá dráha** - vede podráždění od centra 
+        - **ústředí** - CNS (většinou mícha) - zpracuje vzruch a vznikne odpověď 
+        - **odstředivá dráha** - vede vzruch z centra k výkonu orgánu 
+        - **výkonný orgán** (např. sval) - uskuteční reakci organismu 
+- **dělení** reflexů: 
+	- **nepodmíněné**: 
+	    - **vrozené** - jsou stálé a neměnné (např.: sací, dýchací, kašlací atd.) 
+	- **podmíněné**: 
+        - **vytvářené** v průběhu života učením 
+        - jde o **dočasná spojení** -> podmínky, při kterých se vytvořily, se musí opakovat, jinak vymizí
+- reflexy vznikají na **určitý podnět** - signál 
+- **souhrn** signálů určitého **druhu** = **signální soustava** 
+- všechny nepodmíněné reflexy + podmíněné reflexy vyvolané fyzikálními, chemickými a biochemickými jevy tvoří tzv. **první signální soustavu** 
+- u člověka se na základě řeči a abstraktního myšlení vyvinula ještě **druhá signální soustava založena na podmíněných reflexech** - např.: rozlišení tónu a významu slova
 
 
 ## Dělení

@@ -1,0 +1,1 @@
+- fenomen je jev co může být psychický nebi fyzucký či histoorički

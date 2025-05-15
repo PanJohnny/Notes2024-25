@@ -1,0 +1,14 @@
+- John Dalton
+	- chemik
+	- "dokázal existenci atomů" pomocí chemických reakcí
+	- 5 zákonů
+		- atomy jednoho prvku jsou stejné ve fyzikálních a chemických  vlastnostech
+		- atomy různých prvků jsou různé v jejich fyzikálních a chemických vlastnostech
+		- atomy nemůžeme tvořit a ničit, ale lze je jen přenášet
+- 1897 selhal Daltonův model objevem elektronu
+- Thompsonův model atomu (pudinkový)
+	- záporné elektrony v kladné hmotě
+- 1911 objev jádra
+- Rutherfordův model (planetární model)
+	- elektrony okolo jádra jako planety okolo Slunce
+- Bohrův model atomu

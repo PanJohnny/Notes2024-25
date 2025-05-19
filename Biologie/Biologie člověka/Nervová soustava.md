@@ -133,3 +133,11 @@
 		- rozdělení
 			- **předního mozku** na **koncový mozek** a **mezimozek**
 			- **zadního mozku** na **prodlouženou míchu**, **Varollův most** a **mozeček**
+
+## Obvodové nervy
+- dostředivé (senzitivní)
+- odstředivé
+	- motorické
+	- autonomní
+		- sympatické
+		- parasympatické

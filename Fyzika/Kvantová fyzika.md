@@ -40,3 +40,5 @@ $$
 
 ## Energetické hladiny v atomu
 - povolená energie, které elektron může mít
+
+![[Drawing 2025-05-16 11.22.14.excalidraw]]

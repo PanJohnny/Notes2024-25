@@ -82,8 +82,8 @@
             - Motorické - sympatické 
             - Parasympatické
 
-## Centrální nervová soustava
-### Mícha
+# Centrální nervová soustava
+## Mícha
 - **nejnižší reflexní ústředí**
 	- podřízené výšším oddílům CNS
 - tvoří provazec uložený v páteřním kanálu
@@ -120,7 +120,7 @@
 		- **postranní provazce**
 			- **obsahují oba typy drah**
 
-### Mozek
+## Mozek
 - nejsložitější a nejdokonalejší orgán
 	- hmotnost cca 1,5 kg
 - **přijímá**, **zpracovává** a **třídí informace** a **vysílá na ně odpovědi**
@@ -134,10 +134,111 @@
 			- **předního mozku** na **koncový mozek** a **mezimozek**
 			- **zadního mozku** na **prodlouženou míchu**, **Varollův most** a **mozeček**
 
+### Mozkový kmen
+- zahrnuje evolučně nejstarší části - prodlouženou míchu, Varolův most, střední mozek
+- jsou zde uložena centra životně důležitých funkcí
+- uvnitř se dále nachází retikulární formace = síťovitě roztroušená šedá hmota v hmotě bílé - obsahuje 2 životně důležitá ústrojí pro řízení dýchání a kardiovaskulárního systému
+- dále z ní vedou vlákna do vyšších částí - udržuje mozkovou kůru v bdělém stavu
+
+### Části mozku
+#### Prodloužená mícha
+- navazuje na míchu páteřní 
+- má jiné uspořádání hmot - bílá na přední straně, šedá na zadní 
+- centrální kanálek rozšířen ve IV. mozkovou komoru 
+- vystupuje z ní 7.-12. pár mozkových nervů 
+- jsou v ní centra retikulární formace a nepodmíněných reflexů - kýchání, kašlání, zvracení, polykání, atd.
+
+#### Varolův most
+- tvoří val nad prodlouženou míchou 
+- spojuje koncový mozek s mozečkem 
+- vystupuje z něj trojklaný nerv
+
+#### Mozeček
+- tvoří ho 2 polokoule (hemisféry) spojené červem mozečkovým 
+- na povrchu - šedá kůra mozečková - tvořena Purkyňovými buňkami = nejsložitější buňky v těle 
+- uvnitř - bílá hmota mozečková - vytváří tzv. "strom života" 
+- je senzomotorickým centrem = centrum rovnováhy, koordinaci pohybů, reguluje svalové napětí
+
+#### Střední mozek
+- nejmenší část mozku 
+- stavba: 
+    - čtverohrbolí 
+        - horní strana - končí zde část vláken zrakového a sluchového nervu 
+        - přední pár hrbolů = zrak, zadní = sluch 
+        - reflexní centrum pro zrakové a sluchové vjemy (pohyb očí, akomodace čočky, …) 
+    - 2 stonky mozkové 
+        - spodní strana - prochází zde vlákna spojujících koncový mozek s nižšími částmi 
+    - sylviův kanálek 
+        - uprostřed - spojení III. a IV. mozkové komory
+
+#### Mezimozek
+- mezi hemisférami koncového mozku 
+- stavba: 
+    - stěny = thalamy - prochází zde všechny smyslové dráhy mimo čichové 
+    - spodek = hypothalamus - tvorba hormonů + centra pro regulaci teploty, hladu a žízně - stopkou připojena hypofýza 
+    - strop - tenká vrstva šedé hmoty - zezadu připojeny epifýza 
+    - uvnitř - iii. mozková komora
+
+#### Koncový mozek
+- největší část 
+- skládá se z mozkové kůry (šedá hmota), bílé hmoty, bazálních gangliích a limbického systému 
+- je rozdělen na dvě polokoule = hemisféry - mezi nimi je hluboká rýha, v ní kalózní těleso -> propojuje hemisféry 
+- uvnitř hemisfér - I. a II. mozková komora - vyplněné mozkomíšním mokem 
+- hemisféry se dělí na 4 části = laloky - jsou zde centra mnoha funkcí 
+    - čelní 
+        - oblast motorická, brocovo centrum řeči, logické myšlení a uvažování 
+        - na spodní straně - kyjovité čichové oblasti - u člověka malé 
+    - spánkový 
+        - sluchové centrum, paměť, porozumění řeči 
+    - temenní 
+        - centrum kožní citlivosti, orientace v prostoru 
+    - týlní 
+        - zrakové centrum
+#TODO
+
+### Dominance hemisfér
+- některé vyšší nervové funkce jsou v hemisférách rozmístěny asymetricky = jedna z hemisfér dominantní
+- **levé hemisféra**
+	- napč. **centrum řeči** (30 % léváků v pravé), centrum logického a racionálního myšlení
+- **pravá hemisféra**
+	- centrem obrazového a hudebního vnímání, chápání jevů v čase a prostoru
+
+## Obaly mozku a míchy
+- **mozek**
+	- **kostěná lebka**
+	- **trvdá plena**
+		- vystýlá dutinu lební, mezi ní a lebkou
+			- cévy, tuk, vazivo
+	- **2 měkké pleny**
+		- *pavučnice* - bezcévnatá
+		- *omozečnice* - cévnatá
+- **mícha**
+	- páteřní kanál
+	- míšní vak (tvrdá plena)
+	- měkké pleny
+		- pavučnice
+		- cévnatá
+#TODO?
+## Mozkomíšní mok
+- vyplňuje prostor mezi plenami a mozkové komory
+	- mozek plave
+- má podobné složení jak plazma nebo lymfa
+- funkce:
+	- ochrana mozku a míchy předo třesy a nárazy
+
+## Onemocnění a úrazy
+- úrazy míchy
+- otřes mozku
+- mrtvice
+- encefalitida
+- skleróza
+- epilepsie
+- Parkinson
+- Alzheimer
+
 ## Obvodové nervy
 - dostředivé (senzitivní)
 - odstředivé
 	- motorické
 	- autonomní
 		- sympatické
-		- parasympatické

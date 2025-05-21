@@ -14,5 +14,13 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "remove-newlines:remove-blank-lines-from-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

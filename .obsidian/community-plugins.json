@@ -13,5 +13,7 @@
   "terminal",
   "obsidian-trim-whitespace",
   "webpage-html-export",
-  "chem"
+  "chem",
+  "remove-newlines",
+  "change-case"
 ]

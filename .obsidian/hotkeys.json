@@ -22,5 +22,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "change-case:lower": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }

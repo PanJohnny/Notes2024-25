@@ -1,0 +1,192 @@
+- zabezpečuje propojení vnějšího a vnitřního prostředí s CNS
+- rozeznáváme 5 smyslů
+	- čich
+	- chuť
+	- hmat
+	- zrach
+	- sluch
+- základem - **čidlo (analyzátor)**
+	- reaguje na adekvátní podnět (např. světelný)
+	- 3 části
+		- receptor
+			- podle typu podnětu 
+			    - chemoreceptory - chemický 
+			    - termoreceptory - tepelný 
+			    - fotoreceptory - světlo
+			    - mechanoreceptory - hmat, poloha (staticky i pohybově) 
+			- podle původu podnětu 
+			    - exteroreceptory - zvenčí 
+			    - interoreceptory - zevnitř 
+		        - proprioreceptory - svalová soustava a šlachy 
+		        - visceroreceptory - činnost vnitřních orgánů 
+			    - nociceptory - bolestivé podněty
+		- dostředivá nervová dráha
+		- korové centrum
+- dělení smyslů: 
+    - smysly všeobecné 
+        - rozptýlené po povrchu těla 
+    - smysly speciální 
+        - soustředěné na určitých místech těla, nejčastěji na hlavě
+
+## Čich
+- chemoreceptor 
+- čichové buňky jsou uloženy v horní části dutiny nosní 
+- vnímají vdechované plynné látky 
+- vlákna čichových buněk se spojují v dostředivý nerv -> vede vzruchy k čichovému centru
+
+## Chuť
+- chemoreceptor 
+- povrch jazyka pokryt malými hrboly = papily 
+- ve stranách papil jsou uloženy chuťové pohárky obsahující chuťové buňky 
+- buňky pohárky reagují na chemické látky rozpuštěné ve vodě a slinách 
+- jednotlivé papily nejsou odlišené typy pohárků -> rozlišujeme 4 základní chutě: 
+    - sladkost - špička jazyka 
+    - slanost - vpředu po stranách 
+    - kyselin - vzadu po stranách 
+    - hořkost - vzadu uprostřed 
+- později zavedena ještě 5 chuť umami = chuť glutamátu
+
+## Hmat
+- velká část hmatových receptorů uložena v kůži 
+- dělení: 
+    - volná nervová zakončení = bolest 
+        - nociceptor - výskyt v kůži, sliznicích, okostici, vnitřních orgánech podnětem - podráždění chemické povahy = látky uvolněná z poškozené nebo nemocné tkáně 
+    - Krauseova tělíska = chlad 
+        - termoreceptory - v horní vrstvě škáry pod pokožkou + v dutině ústní a nosní 
+    - Ruffiniho tělíska = teplo 
+        - termoreceptory - v hlubší vrstvě škáry + trávící a dýchací ústrojí méně než chladových 
+    - Meissnerova tělíska = hmat 
+        - mechanoreceptory - v horní vrstvě škáry pod pokožkou - reaguje na dotyk 
+    - Vater-Paciniho tělíska = tlak a tah 
+        - mechanoreceptory - ve spodní vrstvě škáry a podkožním vazivu - reaguje na deformaci kůže 
+        - receptor pro hmat, tlak / tah jsou nejvíce na konečcích prstů a chodidlech
+
+## Zrak
+- pro člověka nejdůležitější smysl 
+- čidlem zraku = oko = fotoreceptor 
+- je umístěné v kostěné očnici v tukovém polštáři -> tlumí otřesy 
+- v každém oku více než 100 miliónů receptorových buněk 
+- člověk vnímá světelné záření v rozsahu 390-740 nm 
+- zrakové informace jsou vedeny zrakovými nervy do týlního laloku mozkové kůry 
+- 3 vrstvy 
+    - bělima 
+        - vnější 
+        - bílá, upínající se zde ohybové svaly 
+        - vzadu prostupuje zrakové nerv 
+        - vpředu přechází v rohovku 
+        - rohovka 
+            - průhledná, soustřeďuje světelné paprsky do oka 
+            - bez cév, ale inervovaná - při dotyku -> sevření víček = mrknutí (nepodmíněný reflex) 
+    - cévnatka 
+        - bohatě prostoupena cévami + obsahuje pigment 
+        - vpředu vybíhá v řasnaté tělísko - na něm je zavěšena čočka - průhledná dvojvypuklá 
+        - řasnaté tělísko umožňuje zploštění a vyklenutí čočky = akomodace - zajišťuje zaostředí předmětů 
+        - řasnatým tělískem protéká krev, ze které vzniká komorová voda 
+        - duhovka 
+            - barevná část oka, tvořena hladkým svalstvem, uprostřed je otvor = zornice 
+            - duhovka působí jako clona, reguluje množství světla procházejícího do oka = zornicový reflex 
+            - prostor mezi rohovkou a čočkou je rozdělen na 2 části = přední a zadní komoru oční, vyplněné komorovou vodou 
+    - sítnice 
+        - tenká vrstva protékaná cévami 
+        - tvoří ji 4 vrstvy buněk: 
+            - pigmentová - pohlcuje světlo 
+            - tyčinky a čípky - světločivné buňky 
+            - dvojpólové buňky - převod vzruchů z tyčinek a čípků na nervy 
+            - vrstva nervových buněk - jejich axony vytváří zrakový nerv 
+        - vnitřek oka vyplňuje rosolovitá hmota = sklivec - udržuje napětí v oční kouli 
+        - tyčinky 
+            - asi 130 milionů 
+            - citlivější na světlo - umožňují vidění za šera a tmy 
+            - nerozlišují barvy, při okraji sítnice 
+            - obsahují pigment rodopsin - podle množství se mění citlivost na světlo (na světle se rozkládá, ve tmě obnovuje) 
+        - čípky 
+            - asi 7 milionů - umožňují barevné vidění za světla 
+            - 3 druhy - zelená, modrá, červená barva 
+            - nejvíce nakupeny ve žluté skvrně = místo nejostřejších vidění 
+        - místo výstupu zrakové nervu = slepá skvrna - bez tyčinek a čípků 
+- přídatné orgány oka 
+    - okohybné svaly 
+        - 6 na každém oku 
+        - příčně pruhované 
+        - upínají se do bělimy 
+        - pohyb oční koule 
+    - oční víčka 
+        - horní a dolní 
+        - podkladem je kruhový sval oční 
+        - ochranná funkce + roztírání slz 
+    - spojivka 
+        - průhledná blány 
+        - vystýlá vnitřní stěnu víček a přechází na oko - tvoří tak spojivkový vak - do něj slzy 
+    - slzní ústrojí 
+        - zvlhčuje oko 
+        - základ - slzní žláza nad okem -> spojivkový vak -> kanálek a váček -> do dutiny nosní 
+        - slzy obsahují lysozym - ochrana před infekcí
+- oční vady
+	- **šeroslepost**
+		- špatná funkce tyčinek
+		- nevidí za slepa
+	- **daltonismus**
+		- porucha barevného vidění
+		- nejčastěji nerozliší červenou a zelenou
+	- **refrakční vady** = poruchy lomivosti
+		- **krátkozrakost**
+			- paprsek dopadá **před sítnicí**
+			- vidí dobře na blízko
+			- oprava - čočka **rozptylka**
+		- **dalekozrakost**
+			- paprsek dopadá **za sítnicí**
+			- vidí dobře na dálku
+			- oprava - čočka **spojka**
+	- **tupozrakost**
+		- jedno oko špatně zpracovává informace
+		- léčba - zakrytí zdravého oka
+	- **šilhání**
+		- problém s funkcí ohybných svalů
+	- **šedý zákal**
+		- zakalení čočky
+	- **zelený zákal**
+		- zvýšený nitrooční tlak
+			- poškozuje zrakový nerv
+	- **estigmatismus**
+		- jiné zakřivení rohovky
+			- nepřesné zaostření paprsků světla na sítnici
+## Sluch
+- **UCHO** = **mechanoreceptor**
+	- reaguje na **kmitání pevných těles**
+		- to je přenášeno vlněním přes prostředí až ke sluchovému ústrojí
+- člověk vnímá zvuky mezi **16 Hz - 20 000 Hz**
+- frekvence lidského hlasu běžného hovoru
+	- u mužů v rozmezí od 80 Hz do 120 Hz
+	- u žen v rozmezí od 170 Hz do 260 Hz
+- ucho má 3 části
+	- **zevní**
+	- **střední**
+	- **vnitřní**
+- ve vnitřním uchu se nachází i rovnovážné ústrohí
+	- → ucho = tzv. **sluchově rovnovážné ústrojí**
+- **zevní ucho**
+	- ušní boltec
+		- slouží k zachycování a vedení zvuků
+		- tvořen pružnou chrupavkou
+	- zvukovod
+		- trubice dlouhá asi 2,5 cm
+		- chráněn řasinkovým epitelem a mazem
+	- bubínek
+		- tenká membrána (cca 0,1mm)
+		- rozechvíván vlnami zvuku
+- **střední ucho**
+	- dutina v kosti **spánkové**
+	- spojena s nosohltanem Eustachovou trubicí
+		- vyrovnávání tlaku v uchu
+	- 3 sluchové **kůstky**
+		- kladívko
+			- první kůstka
+			- připojeno k bubínku
+			- spojeno s kloubem s kovadlinkou
+		- kovadlinka
+			- prostřední
+		- třmínek
+			- poslední a nejmenší kůstka
+				- přiléhá na **oválné okénko**
+			- třmínkový sval a napínač chrání kůstky před poškozením nadměrným hlukem (při překročení určité hranice se stáhnou)
+		- navzájem kloubně spojeny

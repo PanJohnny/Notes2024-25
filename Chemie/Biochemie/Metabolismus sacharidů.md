@@ -60,3 +60,71 @@ dochází k okyselování cytoplazmy svalových buněk, což se projevuje bolest
 Při relaxaci (svalů) dochází k vyplavování laktátu do krve, kterou se dostává do
 jater, kde je **resyntetizován na glukosu**.
 Tento cyklus laktátu nazýváme **Coriho cyklus.**
+
+### 2. za anaerobních podmínek může dojít k alkoholovému kvašení
+![[Pasted image 20250527101656.png]]
+Alkoholové kvašení se využívá při výrobě alkoholických nápojů (pivo, víno).
+Kvasinky jsou schopné žít v maximálně 15% alkoholu (pak se pro ně stává jedem)
+Silnější alkohol je nutné připravovat destilací.
+
+#### Metabolismus alkoholu
+- alkohol (ethanol) je postupně oxidován na acetaldehyd a následně na kyselinu octovou
+- kyselina octová se buď spontánně štěpí na $CO_2$ a $H_2O$ nebo
+- vstupuje v podobě acetylkoenzymuA do Krebsova cyklu
+- z 1 molekuly ethanolu získáme energii 15 ATP
+![[Pasted image 20250527101913.png]]
+
+### 3. Aerobní odbourávání pyruvátu
+![[Pasted image 20250527102017.png]]
+
+- Tato reakce probíhá v **cytoplazmě buňky**.
+- Aktivovaná kyselina octová neboli **acetylkoenzymA** se přenáší přes mitochondriální membránu a v mitochondriích vstupuje do **Krebsova cyklu**
+- **Ac-CoA** obsahuje **makroergní vazbu**, je to tedy **makroergická sloučenina**
+
+## Krebsův cyklus
+- = citrátový cyklus, cyklus kyseliny citronové
+- acetyl-CoA se odbourává za vzniku oxidu uhličitého a redukovaných koenzymů (regenerují se v dýchacím řetězci)
+- cyklický proces, v němž se acetyl-CoA ($C_2$) slučuje se oxalacetátem ($C_4$) a vzniká citrát $(C_6)$
+- citrát prochází 7 reakčními stupni - vedou ke znovuvzniku oxalacetátu (vstupuje znovu do Krebsova cyklu)
+- spotřeba: 1 molekula acetyl-CoA
+- vznik:
+	- 2 molekuly CO
+	- 1 molekula ATP
+	- odštěpí se 4 dvojice
+		- atomů vodíku (redukovanými koenzymy (3 $NADH+H^+$ a 1 $FADH_{2}$)) přeneseny do dýchacího řetězce)
+
+![krebsův cyklus schéma](https://upload.wikimedia.org/wikipedia/commons/9/99/Citric_acid_cycle_with_aconitate_2_cs.svg)
+
+## Konečný dýchací řetězec
+- probíhá v **mitochondriích**
+- založen na oxidaci vodíku (nesou je redukované koenzymy), při které vzniká voda
+- oxidačním činidlem je kyslík
+- **kaskádovitý systém** redoxních reakcí
+- **energie uvolněná v jednotlivých fázích dýchacího řetězce je využita na tvorbu ATP v procesu zvaném oxidativní fosforylace**
+- **čistý výtěžek úplné oxidace 1 molekuly glukózy je 38 molekul ATP**
+
+![schéma](https://upload.wikimedia.org/wikipedia/commons/9/9d/Etc2_cs.svg)
+![[Pasted image 20250527103414.png]]
+### Mitochondrie
+![mitochondrie obrázek](https://upload.wikimedia.org/wikipedia/commons/3/37/Animal_mitochondrion_diagram_cs.svg)
+
+
+## Biosyntéza (anabolismus) sacharidů
+- probíhá jak u rostlin, tak u živočichů
+	- autotrofní organismy – fotosyntézou
+	- heterotrofní organismy – glukoneogeneze
+
+## Fotosyntéza
+- vyšší rostliny, zelené a hnědé řasy, jednoduché prokaryotní organismy – některé sinice, zelené a purpurové bakterie
+- fotoreceptory (tj. pigmenty absorbující záření) – **chlorofyly a**, **b**
+- **soubor chemických reakcí, při nichž dochází k přeměně energie slunečního záření na energii chemickou za přeměny jednoduchých anorganických sloučenin na organické**
+
+$$
+\begin{gather}
+\text{6 } CO_{2} \text{ + 12 } H_{2}O \xrightarrow[\text{sluneční záření}]{\text{chlorofyl}} C_{6}H_{12}O_{6} \text{ + 6 } O_{2} \text{ + 6 } H_{2}O
+\end{gather}
+$$
+- dvě fáze
+	- primární (světelná)
+	- sekundární (temnostní)
+- 

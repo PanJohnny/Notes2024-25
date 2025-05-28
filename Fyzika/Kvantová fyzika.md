@@ -43,3 +43,16 @@ $$
 
 ![[Drawing 2025-05-16 11.22.14.excalidraw]]
 
+
+## Superpozice
+- může-li se částice nacházet ve stavu A i stavu B, tak se může nacházet v jejich libovolné kombinaci
+
+$$
+\begin{align}
+|A> && |B>
+\end{align}
+$$
+
+- provedeme-li měření částice v superponovaném stavu
+	- bude zrušena superpozice
+	- částice přejde do jednoho ze stavů

@@ -1,3 +1,4 @@
+# Katabolické procesy
 ## Význam sacharidů
 - základní složky živých soustav
 - zdroje energie
@@ -109,7 +110,7 @@ Silnější alkohol je nutné připravovat destilací.
 ![mitochondrie obrázek](https://upload.wikimedia.org/wikipedia/commons/3/37/Animal_mitochondrion_diagram_cs.svg)
 
 
-## Biosyntéza (anabolismus) sacharidů
+# Biosyntéza (anabolismus) sacharidů
 - probíhá jak u rostlin, tak u živočichů
 	- autotrofní organismy – fotosyntézou
 	- heterotrofní organismy – glukoneogeneze
@@ -125,6 +126,46 @@ $$
 \end{gather}
 $$
 - dvě fáze
-	- primární (světelná)
-	- sekundární (temnostní)
+	- primární ([[#Světelná fáze]])
+	- sekundární ([[#Temnostní fáze]])
+
+### Světelná fáze
+- **energie slunečního záření je využita k tvorbě ATP (=fotosyntetická fosforylace), $NADH+H^+$ a fotolýze vody**
+- probíhá ve dvou fotosystémech
+	- **fotosystém I**
+		- absorpce záření o maximální vlnové délce 700 nm ($P_{700}$)
+		- excitované elektrony
+			- redukce $NADP^+$ na $NADPH+H^+$
+			- návrat do $P_{700}$  a energie se využije na tvorbu ATP v procesu **cyklické fosforylace**
+	- **fotosystém II**
+		- absorpce záření o maximální vlnové délce 680 nm ($P_{680}$)
+		- excitované elektrony
+			- přecházejí na fotosystém I
+			- část jejich energie je využita k tvorbě ATP v procesu **necyklické fosforylace**
+
+#### Fotolýza vody
+- rozklad vody na kyslík, protony a elektrony
+$$
+\begin{align}
+H_{2}O \to \text{2 }H^+ \text{ + } \frac{1}{2} \text{ } O_{2}
+\end{align}
+$$
+### Temnostní fáze
+- redukce $CO_2$ za vzniku sacharidů
+- využito ATP a $NADPH+H^+$ ze světelné fáze
+- hlavní metabolickou cestou je tzv. **Calvinův cyklus**
+	- molekula oxidu uhličitého je postupně začleňována do organické sloučeniny, konečným produktem je hexóza
+	- molekula $CO_2$ reaguje s ribulózou-1,5-bisfosfátem; nestabilní produkt se rozpadá na 2 molekuly 3-fosfoglycerátu
+	- pomocí molekuly ATP fosforylován na 1,3-bisfosfoglycerát;
+	- redukce molekulou $NADH+H^+$ na glyceraldehyd-3-fosfát
+	- kondenzace glyceraldehyd-3-fosfátu na fruktóza-1,6-fosfát a ten se mění na glukóza-6-fosfát
+
+![schéma](https://upload.wikimedia.org/wikipedia/commons/9/90/Calvin_cycle_%28cs%29.svg)
+
+### Typy rostlin
+- $C_3$ rostliny
+	- používají výše uvedené schéma Calvinova cyklu
+	- většina rostlin v našem podnebném pásmu
+- $C_4$ rostliny
+- CAM rostliny
 - 

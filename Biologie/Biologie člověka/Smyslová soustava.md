@@ -150,6 +150,8 @@
 	- **estigmatismus**
 		- jiné zakřivení rohovky
 			- nepřesné zaostření paprsků světla na sítnici
+
+![[Pasted image 20250530120411.png]]
 ## Sluch
 - **UCHO** = **mechanoreceptor**
 	- reaguje na **kmitání pevných těles**
@@ -190,3 +192,40 @@
 				- přiléhá na **oválné okénko**
 			- třmínkový sval a napínač chrání kůstky před poškozením nadměrným hlukem (při překročení určité hranice se stáhnou)
 		- navzájem kloubně spojeny
+		- funkce
+			- **přenos a zesílení kmitů**
+- **vnitřní ucho**
+	- tvořeno **blanitým labyrintem** uloženým v **kostěném labyrintu** kosti skalní
+	- kostěný labyrint se skládá:
+		- **předsíň**
+		- **3 polokruhové kanálky**
+		- **hlemýžď**
+	- prostor mezi ním a blanitým labyrintem vyplňuje **perilymfa** (zevní míza)
+	- do předsíně vedou ze středního ucha dva otvory – **okénko oválné** (vsazen třmínek) a **kulaté**
+	- **blanitý labyrint**
+		- začíná v předsíni dvěma váčky **vejčitým** a **kulovitým**
+			- v nich uloženo **statické** čidlo - pro vnímání polohy
+				- tvoří jej **smyslové buňky** s jemnými vlásky a krystalky $CaCO_3$
+			- při změně polohy hlavy – posunutí krystalků vlivem gravitace → podráždění vlásků buněk - vzruchy jsou vedeny do mozečku
+		- na vejčitý váček jsou napojeny **3 polokruhové kanálky**
+		- umístěno **kinetické čidlo**
+			- pro vnímání pohybu
+		- tvořeno **buňkami s vlásky**
+			- při pohybu hlavou jsou drážděny **endolymfou** vyplňující blanitý labyrint
+		- obě čidla pracují společně = **statokinetické čidlo**
+	- **hlemýžď**
+		- spodní stěnu tvoří **bazilární membrána**
+			- na ní vláskové buňky **Cortiho orgánu = čidlo sluchu**
+		- chvění endolymfy rozkmitá svrchní membránu
+			- začne narážet na vláskové buňky → vzruchy vedeny sluchovým nervem do kůry spánkového laloku
+- **poškození sluchového ústrojí**
+	- **zánět středního ucha**
+		- častý u dětí, bolestivý
+	- **tinnitus**
+		- neustálé zvonění nebo pískání v uchu
+	- **vertigo**
+		- porucha polokruhovitých kanálků vnitřního ucha - způsobuje pocit, že se okolí točí (závrať)
+	- **zalepené ucho**
+		- tvorba tekutiny ve středoušní dutině, způsobuje hluchotu, časté u dětí
+
+![[Pasted image 20250530120446.png]]

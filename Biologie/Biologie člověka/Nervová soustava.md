@@ -184,7 +184,7 @@
 - skládá se z mozkové kůry (šedá hmota), bílé hmoty, bazálních gangliích a limbického systému 
 - je rozdělen na dvě polokoule = hemisféry - mezi nimi je hluboká rýha, v ní kalózní těleso -> propojuje hemisféry 
 - uvnitř hemisfér - I. a II. mozková komora - vyplněné mozkomíšním mokem 
-- hemisféry se dělí na 4 části = laloky - jsou zde centra mnoha funkcí 
+- **hemisféry** se dělí na 4 části = laloky - jsou zde centra mnoha funkcí 
     - čelní 
         - oblast motorická, brocovo centrum řeči, logické myšlení a uvažování 
         - na spodní straně - kyjovité čichové oblasti - u člověka malé 
@@ -194,7 +194,25 @@
         - centrum kožní citlivosti, orientace v prostoru 
     - týlní 
         - zrakové centrum
-#TODO
+- **mozková kůra**
+	- nejmladší a nejdokonalejší část koncového mozku - na **povrchu** hemisfér
+	- tvořená šedou hmotou
+	- silná 2-5mm – složená z 6 vrstev nervových buněk
+	- povrch není rovný → **zvrásněn v brázdy a závity (gyrifikace)**
+	- je sídlem všech uvědomělých činností a stavů a center smyslového vnímání
+- **bílá hmota**
+	- vyplňuje vnitřek hemisfér
+	- složena z **nervových drah**
+		- spojují mozkovou kůru z nižšími oddíly CNS a jednotlivé oblasti kůry mezi sebou
+- **bazální ganglia**
+	- jádra šedé hmoty uložená v bílé hmotě
+	- slouží k regulaci výstupů z motorických center kůry → přiměřenost pohybů
+- **limbický systém**
+	- límec kolem mozkového kmene - **nejstarší** část korové tkáně
+	- je sídlem **emocí** (strach, smutek, radost, láska....)
+		- emoce tlumeny mozkovou kůrou
+	- řídí **koordinaci tělesných funkcí při emotivním chování**
+	- ovlivňuje **sexuální chování a paměť** (ukládání paměťových stop)
 
 ### Dominance hemisfér
 - některé vyšší nervové funkce jsou v hemisférách rozmístěny asymetricky = jedna z hemisfér dominantní
@@ -218,7 +236,6 @@
 	- měkké pleny
 		- pavučnice
 		- cévnatá
-#TODO?
 ## Mozkomíšní mok
 - vyplňuje prostor mezi plenami a mozkové komory
 	- mozek plave
@@ -237,10 +254,26 @@
 - Alzheimer
 
 ## Obvodové nervy
-- dostředivé (senzitivní)
-- odstředivé
-	- motorické
-	- autonomní
-		- sympatické
-
-#TODO
+- zajišťuje propojení CNS s orgány a tkáněmi
+- jedná se o svazky bílých nervových vláken
+- dělení:
+	- nervy míšní
+		- **31** párů – nervy smíšené
+		- vznik - spojením předních a zadních kořenů míšních
+		- odstupují otvory mezi obratli
+		- dělí se: krční, hrudní, bederní, křížové, kostrční
+	- mozkové
+		- **12** párů – motorické, senzitivní nebo smíšené
+		- jejich vlákna končí u buněk mozkového kmene
+		- př: čichový, zrakový, trojklanný, bloudivý....
+	- vegetativní (autonomní)
+		- vedou k hladkému svalstvu orgánů
+		- dělení:
+			- sympatické
+				- vystupují z míchy spolu s krčními, hrudními a bederními míšními nervy
+				- mediátorem je adrenalin a noradrenalin
+			- parasympatické
+				- vystupují z mozku spolu s mozkovými nervy a z křížové oblasti
+				- mediátorem je **acetylcholin**
+		- každý orgán inervuje **sympatikus** i **parasympatikus**
+		- působí jako **antagonisté** - činnost orgánů je tím v rovnováze

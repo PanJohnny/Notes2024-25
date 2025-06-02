@@ -29,64 +29,87 @@
         - soustředěné na určitých místech těla, nejčastěji na hlavě
 
 ## Čich
-- chemoreceptor 
-- čichové buňky jsou uloženy v horní části dutiny nosní 
+- **chemoreceptor** 
+- čichové buňky jsou uloženy **v horní části dutiny nosní** 
 - vnímají vdechované plynné látky 
-- vlákna čichových buněk se spojují v dostředivý nerv -> vede vzruchy k čichovému centru
+- vlákna čichových buněk se spojují v **dostředivý čichový nerv** -> vede vzruchy k **čichovému centru**
 
 ## Chuť
-- chemoreceptor 
-- povrch jazyka pokryt malými hrboly = papily 
-- ve stranách papil jsou uloženy chuťové pohárky obsahující chuťové buňky 
-- buňky pohárky reagují na chemické látky rozpuštěné ve vodě a slinách 
-- jednotlivé papily nejsou odlišené typy pohárků -> rozlišujeme 4 základní chutě: 
+- **chemoreceptor** 
+- povrch jazyka pokryt malými hrboly = **papily** 
+- ve stranách papil jsou uloženy **chuťové pohárky** obsahující **chuťové buňky** 
+- buňky pohárky reagují na chemické **látky rozpuštěné ve vodě a slinách** 
+- jednotlivé papily nesou **odlišené typy pohárků** -> rozlišujeme 4 základní chutě: 
     - sladkost - špička jazyka 
     - slanost - vpředu po stranách 
     - kyselin - vzadu po stranách 
     - hořkost - vzadu uprostřed 
-- později zavedena ještě 5 chuť umami = chuť glutamátu
+- později zavedena ještě 5 chuť **umami** = chuť glutamátu
 
 ## Hmat
-- velká část hmatových receptorů uložena v kůži 
+- velká část hmatových receptorů **uložena v kůži** 
 - dělení: 
-    - volná nervová zakončení = bolest 
-        - nociceptor - výskyt v kůži, sliznicích, okostici, vnitřních orgánech podnětem - podráždění chemické povahy = látky uvolněná z poškozené nebo nemocné tkáně 
-    - Krauseova tělíska = chlad 
-        - termoreceptory - v horní vrstvě škáry pod pokožkou + v dutině ústní a nosní 
-    - Ruffiniho tělíska = teplo 
-        - termoreceptory - v hlubší vrstvě škáry + trávící a dýchací ústrojí méně než chladových 
-    - Meissnerova tělíska = hmat 
-        - mechanoreceptory - v horní vrstvě škáry pod pokožkou - reaguje na dotyk 
-    - Vater-Paciniho tělíska = tlak a tah 
-        - mechanoreceptory - ve spodní vrstvě škáry a podkožním vazivu - reaguje na deformaci kůže 
-        - receptor pro hmat, tlak / tah jsou nejvíce na konečcích prstů a chodidlech
+    - **volná nervová zakončení = bolest**
+        - **nociceptor**
+	        - výskyt v kůži, sliznicích, okostici, vnitřních orgánech
+        - podnětem
+	        - **podráždění chemické povahy** = látky uvolněná z poškozené nebo nemocné tkáně 
+        - bolest je **ochranný reflex**
+    - **Krauseova tělíska = chlad** 
+        - **termoreceptory**
+	        - v horní vrstvě škáry pod pokožkou
+	        - v dutině ústní a nosní 
+    - **Ruffiniho tělíska = teplo** 
+        - **termoreceptory**
+	        - v **hlubší vrstvě škáry**
+	        - trávící a dýchací ústrojí méně než chladových 
+    - **Meissnerova tělíska = hmat** 
+        - **mechanoreceptory**
+	        - v **horní vrstvě škáry** pod pokožkou
+	    - reaguje na dotyk 
+    - **Vater-Paciniho tělíska = tlak a tah** 
+        - **mechanoreceptory**
+	        - ve **spodní vrstvě škáry**
+	        - v **podkožním vazivu**
+	    - reaguje na deformaci kůže 
+- receptory pro hmat, tlak / tah jsou nejvíce na konečcích prstů a chodidlech
 
+> **mimotechnické pomůcky**:
+- Lubomír **Volný** a jeho flákanec - **bolest**
+- **Krauss** - špatná česká talkshow - **chlad**
+- Ruffini - ital - **teplo**
+- **Meissner** - maso - **hmat**
+- **Vater-Pacini** - voda, pečení - ve vodě tlak, pečení tažené - **tlak a tah**
 ## Zrak
 - pro člověka nejdůležitější smysl 
-- čidlem zraku = oko = fotoreceptor 
-- je umístěné v kostěné očnici v tukovém polštáři -> tlumí otřesy 
+- čidlem zraku = **OKO** = **fotoreceptor** 
+- je umístěné v kostěné **očnici** v tukovém polštáři -> tlumí otřesy 
 - v každém oku více než 100 miliónů receptorových buněk 
-- člověk vnímá světelné záření v rozsahu 390-740 nm 
-- zrakové informace jsou vedeny zrakovými nervy do týlního laloku mozkové kůry 
+- člověk vnímá světelné záření v rozsahu **390-740 nm** 
+- zrakové informace jsou vedeny **zrakovými nervy do týlního laloku mozkové kůry** 
 - 3 vrstvy 
-    - bělima 
+    - **bělima** 
         - vnější 
-        - bílá, upínající se zde ohybové svaly 
+        - bílá, upínající se zde **ohybové svaly** 
         - vzadu prostupuje zrakové nerv 
-        - vpředu přechází v rohovku 
-        - rohovka 
+        - vpředu přechází **v rohovku** 
+        - **rohovka** 
             - průhledná, soustřeďuje světelné paprsky do oka 
             - bez cév, ale inervovaná - při dotyku -> sevření víček = mrknutí (nepodmíněný reflex) 
-    - cévnatka 
+    - **cévnatka** 
         - bohatě prostoupena cévami + obsahuje pigment 
-        - vpředu vybíhá v řasnaté tělísko - na něm je zavěšena čočka - průhledná dvojvypuklá 
-        - řasnaté tělísko umožňuje zploštění a vyklenutí čočky = akomodace - zajišťuje zaostředí předmětů 
-        - řasnatým tělískem protéká krev, ze které vzniká komorová voda 
-        - duhovka 
-            - barevná část oka, tvořena hladkým svalstvem, uprostřed je otvor = zornice 
-            - duhovka působí jako clona, reguluje množství světla procházejícího do oka = zornicový reflex 
-            - prostor mezi rohovkou a čočkou je rozdělen na 2 části = přední a zadní komoru oční, vyplněné komorovou vodou 
-    - sítnice 
+        - vpředu vybíhá v **řasnaté tělísko**
+	        - na něm je zavěšena **čočka** - průhledná dvojvypuklá 
+        - řasnaté tělísko umožňuje zploštění a vyklenutí čočky = **akomodace**
+	        - zajišťuje zaostředí předmětů 
+        - řasnatým tělískem protéká krev, ze které vzniká **komorová voda** 
+        - **duhovka** 
+            - barevná část oka
+            - tvořena hladkým svalstvem
+            - uprostřed je otvor = **zornice** 
+            - duhovka **působí jako clona**, reguluje množství světla procházejícího do oka = zornicový reflex 
+            - prostor mezi rohovkou a čočkou je rozdělen na 2 části = **přední a zadní komoru oční**, vyplněné komorovou vodou 
+    - **sítnice** 
         - tenká vrstva protékaná cévami 
         - tvoří ji 4 vrstvy buněk: 
             - pigmentová - pohlcuje světlo 

@@ -14,14 +14,14 @@
                - vnější **Schwannova pochva** - tvořena **Schwannovými buňkami**, **umožňují výměnu látek mezi axonem a okolím**, vytváří **myelinovou pochvu** 
                - **pochvy nejsou celistvé** -> rozčleněny **Ranvierovými zářezy** 
 
-## Gliové buňky
+### Gliové buňky
 - několik druhů (astrocyty, polydendrocyty, oligodendrocyty, mikroglie) 
 - nachází se **mezi nervovými buňkami v CNS** 
 - **neúčastní se vedení vzruchu** -> mají funkci **podpůrnou**
 	- vyživují neurony, fagocytují poškozené buňky, odstraňují metabolity 
 - **dokáží se dělit** -> vyplňují poškozená místa
 
-## Šíření nervového vzruchu 
+### Šíření nervového vzruchu 
 - základem je **přenos iontů $K^+$ a $Na^+$ přes biomembránu neuronu** 
 - biomembrána je **semipermeabilní** -> **nitrobuněčné $K^+$ propouští ven**, **mimobuněčné $Na^+$ dovnitř nepropouští**
 	- tím vzniká **uvnitř** neuronu **náboj** **záporný** a **vně kladný** 
@@ -36,7 +36,7 @@
 	- **prahový** podnět -> **vznik** akčního potenciálu 
  - **po axonu s pochvami** se vzruch šíří **skokově** -> **energeticky výhodnější a rychlejší než po holém axonu** 
 
-## Synapse
+### Synapse
 - **přenos** **mezi** **dvěma neurony** je **uskutečněn přes synapsi** (zápoj)
 	- **na 1** neuron **se může napojovat několik tisíc** dalších neuronů 
 - **signály** (vzruchy) jsou **přenášeny chemickými látkami** = **mediátory**, které se **nachází** ve **váčcích na zakončení axonů** 
@@ -71,16 +71,15 @@
 - všechny nepodmíněné reflexy + podmíněné reflexy vyvolané fyzikálními, chemickými a biochemickými jevy tvoří tzv. **první signální soustavu** 
 - u člověka se na základě řeči a abstraktního myšlení vyvinula ještě **druhá signální soustava založena na podmíněných reflexech** - např.: rozlišení tónu a významu slova
 
-
 ## Dělení
 - CNS (centrální nervová soustava)
     - Mozek 
     - Páteřní mícha 
 - Obvodové nervy 
-        - Dostředivé (senzitivní) 
-        - Odstředivé 
-            - Motorické - sympatické 
-            - Parasympatické
+    - Dostředivé (senzitivní) 
+    - Odstředivé 
+        - Motorické - sympatické 
+        - Parasympatické
 
 # Centrální nervová soustava
 ## Mícha

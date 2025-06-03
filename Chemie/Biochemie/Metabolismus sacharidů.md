@@ -173,7 +173,7 @@ $$
 	- $CO_2$ vázán pouze v noci do kyseliny jablečné
 	- sukulentní rostliny
 
-### Glukoneogeneze
+## Glukoneogeneze
 - = tvorba glukózy z nesacharidových zdrojů
 - z velké části se jedná o obrácené reakce glykolýzy – rozdíly
 	1. přeměna pyruvátu fosfoenolpyruvát přes oxalacetát

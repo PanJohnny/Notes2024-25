@@ -163,9 +163,23 @@ $$
 ![schéma](https://upload.wikimedia.org/wikipedia/commons/9/90/Calvin_cycle_%28cs%29.svg)
 
 ### Typy rostlin
-- $C_3$ rostliny
+- $C_3$-rostliny
 	- používají výše uvedené schéma Calvinova cyklu
 	- většina rostlin v našem podnebném pásmu
-- $C_4$ rostliny
-- CAM rostliny
--
+- $C_4$-rostliny
+	- Hatch-Slackův cyklus ($CO_2$ vázán do oxalacetátu)
+	- teplomilné a tropické rostliny
+- CAM-rostliny
+	- $CO_2$ vázán pouze v noci do kyseliny jablečné
+	- sukulentní rostliny
+
+### Glukoneogeneze
+- = tvorba glukózy z nesacharidových zdrojů
+- z velké části se jedná o obrácené reakce glykolýzy – rozdíly
+	1. přeměna pyruvátu fosfoenolpyruvát přes oxalacetát
+	2. přeměna fruktoza-1,6-bisfosfátu na fruktoza-6-fosfát – jiný enzym a voda
+	3. přeměna glukóza-6-fosfátu na glukózu – jiný enzym a voda
+- probíhá v cytosolu a mitochondriích
+- v játrech, při dlouhém hladovění i v ledvinách
+
+![[Pasted image 20250603101239.png]]

@@ -111,40 +111,43 @@
             - prostor mezi rohovkou a čočkou je rozdělen na 2 části = **přední a zadní komoru oční**, vyplněné komorovou vodou 
     - **sítnice** 
         - tenká vrstva protékaná cévami 
-        - tvoří ji 4 vrstvy buněk: 
-            - pigmentová - pohlcuje světlo 
-            - tyčinky a čípky - světločivné buňky 
-            - dvojpólové buňky - převod vzruchů z tyčinek a čípků na nervy 
-            - vrstva nervových buněk - jejich axony vytváří zrakový nerv 
-        - vnitřek oka vyplňuje rosolovitá hmota = sklivec - udržuje napětí v oční kouli 
-        - tyčinky 
+        - tvoří ji **4 vrstvy buněk:** 
+            - **pigmentová** - pohlcuje světlo 
+            - **tyčinky a čípky** - světločivné buňky 
+            - **dvojpólové buňky** - převod vzruchů z tyčinek a čípků na nervy 
+            - **vrstva nervových buněk** - jejich axony vytváří zrakový nerv 
+        - vnitřek oka vyplňuje rosolovitá hmota = ***sklivec*** - udržuje napětí v oční kouli 
+        - **tyčinky** 
             - asi 130 milionů 
-            - citlivější na světlo - umožňují vidění za šera a tmy 
-            - nerozlišují barvy, při okraji sítnice 
-            - obsahují pigment rodopsin - podle množství se mění citlivost na světlo (na světle se rozkládá, ve tmě obnovuje) 
-        - čípky 
-            - asi 7 milionů - umožňují barevné vidění za světla 
-            - 3 druhy - zelená, modrá, červená barva 
-            - nejvíce nakupeny ve žluté skvrně = místo nejostřejších vidění 
-        - místo výstupu zrakové nervu = slepá skvrna - bez tyčinek a čípků 
-- přídatné orgány oka 
-    - okohybné svaly 
+            - citlivější na světlo - **umožňují vidění za šera a tmy** 
+            - **nerozlišují barvy, při okraji sítnice** 
+            - obsahují pigment **rodopsin** - podle množství se mění citlivost na světlo (na světle se rozkládá, ve tmě obnovuje) 
+        - **čípky** 
+            - asi 7 milionů - umožňují **barevné vidění za světla** 
+            - **3 druhy - zelená, modrá, červená barva** 
+            - **nejvíce nakupeny ve žluté skvrně = místo nejostřejších vidění** 
+        - místo výstupu zrakové nervu = **slepá skvrna** - bez tyčinek a čípků 
+- optická soustava oka
+	- rohovka → komorová voda → čočka → sklivec
+	- na rozhraní těchto prostředí se paprsek láme → obraz na sítnici je převrácený, zmenšený a ostrý
+- **přídatné orgány oka** 
+    - **okohybné svaly** 
         - 6 na každém oku 
         - příčně pruhované 
         - upínají se do bělimy 
         - pohyb oční koule 
-    - oční víčka 
+    - **oční víčka** 
         - horní a dolní 
         - podkladem je kruhový sval oční 
         - ochranná funkce + roztírání slz 
-    - spojivka 
+    - **spojivka** 
         - průhledná blány 
         - vystýlá vnitřní stěnu víček a přechází na oko - tvoří tak spojivkový vak - do něj slzy 
-    - slzní ústrojí 
+    - **slzní ústrojí** 
         - zvlhčuje oko 
         - základ - slzní žláza nad okem -> spojivkový vak -> kanálek a váček -> do dutiny nosní 
-        - slzy obsahují lysozym - ochrana před infekcí
-- oční vady
+        - slzy obsahují **lysozym** - ochrana před infekcí
+- **oční vady**
 	- **šeroslepost**
 		- špatná funkce tyčinek
 		- nevidí za slepa

@@ -1,4 +1,4 @@
-- řídí a koordinuje činnost všech orgánů + jejich funkční spojení - umožňuje rychlou akci 
+- řídí a koordinuje činnost všech  orgánů + jejich funkční spojení - umožňuje rychlou akci 
 - přijímá, zpracovává a ukládá informace z okolního prostředí a o vnitřním stavu těla 
 - je místem vyšší nervové činnosti a duševního dění 
 - základní stavební jednotkou je nervová buňka = **neuron** 
@@ -98,7 +98,7 @@
 		- obsahují **motoneurony** → inervují kosterní svalstvo
 - **šedá hmota**
 	- tvoří **přední** (širší) a **zadní** (užší) **rohy míšní**
-- uprostřed se nachází centrální kanálek vyplněný mozkomíšním mokem
+- uprostřed se nachází centrální kanálek vyplněný mozkomíšním mokovéem
 - **bílá hmota**
 	- složena z různých typů vláken = **míšní dráhy**
 		- **zadní provazce**

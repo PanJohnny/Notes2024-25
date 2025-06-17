@@ -56,3 +56,23 @@ $$
 - provedeme-li měření částice v superponovaném stavu
 	- bude zrušena superpozice
 	- částice přejde do jednoho ze stavů
+
+
+## Relace neurčitosti
+- dvě nekompatibilní veličiny
+- veličina je v superpozici
+- jen jednu veličinu můžem vědět
+
+
+| Veličina        | Přímá polarizace | Šikmá polarizace |
+| --------------- | ---------------- | ---------------- |
+| **Možné stavy** |                  |                  |
+| **Možné stavy** |                  |                  |
+|                 |                  |                  |
+
+$$
+\begin{align}
+\gets \to \\
+\lll
+\end{align}
+$$

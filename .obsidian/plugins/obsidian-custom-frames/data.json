@@ -11,6 +11,18 @@
       "forceIframe": false,
       "customCss": "",
       "customJs": ""
+    },
+    {
+      "url": "https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols#Relation_operators",
+      "displayName": "Latex Symbols",
+      "icon": "omega",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
     }
   ],
   "padding": 5
